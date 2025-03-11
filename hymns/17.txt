@@ -1,4 +1,4 @@
-{title: Mi fe espera en Ti}
+{title: Mi fe espera en ti}
 {title_en: }
 {source_lyrics: }
 {tone: }
@@ -18,7 +18,7 @@ Guarda mi corazón
 Tu sumo amor.
 Tu sangre carmesí
 Diste en la cruz por mí;
-Viva ya para Ti con fiel ardor.
+Viva ya para ti con fiel ardor.
 
 
 {comment: 3}

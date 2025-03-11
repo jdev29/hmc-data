@@ -11,7 +11,7 @@ Himnos de triunfo y amor.
 
 {comment: CORO}
 ¡Gloria ángeles, cantad a Dios,
-¡Gloria! a Jesús alzad la voz;
+¡Gloria! a Jesús, alzad la voz;
 Redentor de toda la humanidad;
 A Jesús con júbilo cantad.
 
@@ -19,7 +19,7 @@ A Jesús con júbilo cantad.
 Gozo hay en el cielo; otro pecador
 Hoy, humilde, viene a la cruz;
 Salvación alcanza en el Redentor,
-Vida por la Sangre de Jesús.
+Vida por la sangre de Jesús.
 
 {comment: 3}
 Gozo hay en el cielo; todos a Jesús,
