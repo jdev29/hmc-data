@@ -1,0 +1,34 @@
+{title: Precioso es Jesús}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Jesús es precioso, mi buen Salvador,
+Por siempre le alabo por su grande amor;
+Concede al más débil su fuerza y valor,
+El es mi precioso Jesús.
+
+{comment: CORO}
+Precioso es Jesús, mi Jesús,
+Precioso es Jesús, mi Jesús,
+Mi gloria será su rostro mirar,
+El es mi precioso Jesús.
+
+{comment: 2}
+Cuando en mis pecados me vio claudicar
+El vino a la puerta de mi corazón
+Y dijo: Tu alma yo quiero salvar
+El es mi precioso Jesús.
+
+{comment: 3}
+Y así por su gracia la luz pude hallar
+Quito mi tristeza, mi llanto enjugó,
+Por fe yo contemplo mi célico hogar,
+El es mi precioso Jesús.
+
+{comment: 4}
+Jesús es precioso, mi fiel redentor;
+Me gozo en su luz que en mi senda brilló:
+Yo sé que por mí viene en gran esplendor
+El es mi precioso Jesús.

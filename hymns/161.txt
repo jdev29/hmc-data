@@ -1,0 +1,34 @@
+{title: Cristo está buscando obreros}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Cristo está buscando obreros hoy
+Que quiern ir con Él,
+¿Quién dirá?: Señor, contigo voy,
+Yo quiero serle fiel.
+
+{comment: Coro}
+¡Oh! Señor, es mucha la labor
+Y obreros faltan ya;
+Danos luz, ardiente fe y valor,
+Y obreros siempre habrá.
+
+{comment: 2}
+Cristo quiere mensajeros hoy
+Que anuncien su verdad,
+¿Quién dirá?: Señor, yo listo estoy
+Haré tu voluntad.
+
+{comment: 3}
+Hay lugar si quieres trabajar,
+De Cristo en la labor
+Puedes de u gloria al mundo hablar,
+De su bondad y amor.
+
+{comment: 4}
+¿Vives ya salvado por Jesús
+Su amor conoces ya ?
+¡Habla, pues, anuncia que en la luz
+De Cristo vives ya!

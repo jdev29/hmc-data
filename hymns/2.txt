@@ -1,0 +1,28 @@
+{title: Dulce comunión}
+{title_en: Leaning on the Everlasting Arms}
+{source_lyrics: H. G. 4}
+{tone: A}
+
+{comment: 1}
+Dulce comunión la que gozo ya
+En los brazos de mi Salvador;
+¡Qué gran bendición en su paz me da!
+¡Oh! Yo siento en mí su tierno amor.
+
+{comment: Coro}
+Libre, salvo,
+Del pecado y del temor.
+Libre, salvo,
+En los brazos de mi Salvador.
+
+{comment: 2}
+¡Cuán dulce es vivir, cuán dulce es gozar!
+En los brazos de mi Salvador;
+Allí quiero ir y con Él morar,
+Siendo objeto de su tierno amor.
+
+{comment: 3}
+No hay que temer, ni que desconfiar,
+En los brazos de mi Salvador;
+Por su gran poder Él me guardará
+De los lazos del engañador.

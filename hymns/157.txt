@@ -1,0 +1,40 @@
+{title: ¡Paz, paz! ¡cuán dulce paz!}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+En el seno de mi alma una dulce quietud
+Se difunde embargando mi ser,
+Una calma infinita que sólo podrán
+Los amados de Dios comprender.
+
+{comment: Coro}
+¡Paz! ¡Paz! cuán dulce paz,
+Es aquella que el Padre me da,
+Le ruego que inunden por siempre mi ser,
+Sus ondas de amor celestial.
+
+{comment: 2}
+¡Qué tesoro yo tengo en la paz que me dio!
+En el fondo del ha de estar,
+Tan segura que nadie quitarla podrá,
+Mientras vea los años pasar.
+
+{comment: 3}
+Esta paz inefable consuelo me da,
+Pues descanso tan sólo en Jesús,
+Y peligro ninguno mi vida tendrá
+¡Si, me siento inundado en su luz!
+
+{comment: 4}
+Sin cesar yo medito en aquella ciudad
+Do al autor de la paz he de ver,
+Donde el himno más dulce que pueda cantar,
+Al estar con Jesús ha de ser.
+
+{comment: 5}
+Alma triste que en rudo conflicto tu ves,
+Sola y débil tu senda al seguir,
+Haz de Cristo el amigo, que fiel siempre es,
+¡Y su paz tú podrás recibir!

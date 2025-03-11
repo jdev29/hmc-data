@@ -1,0 +1,36 @@
+{title: Cantaré, Cantaré del hermoso país}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Cantaré, cantaré del hermoso país;
+El lejano, glorioso jardín,
+Donde ha de vivir el alma feliz;
+Mientras vuelen los siglos sin fin
+Donde ha de vivir, el alma feliz
+Mientras vuelen los siglos sin fin.
+
+{comment: 2}
+¡Oh la patria del alma! en sueños se ven
+Sus muros de jaspe y cristal;
+Y cercano parece aquel bello Edén,
+Radiante de luz celestil
+Y cercano parece aquel bello Edén,
+Radiante de luz delestial.
+
+{comment: 3}
+Y el árbol de vida florece allá,
+Do fluye el río de amor;
+Y jamás en la santa ciudad entrará
+Ni la muerte ni amargo dolor
+Y jamás en la santa ciudad entrará
+Ni la muerte ni amargo dolor.
+
+{comment: 4}
+¡Oh!, cuán dulce será en el santo país
+Pasadas las penas aquí,
+Volveremos a ver en la vida feliz,
+Que tendremos con Cristo allí
+Volveremos a ver en la vida fliz,
+Que tendremos con Cristo allí.

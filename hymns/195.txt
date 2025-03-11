@@ -1,0 +1,28 @@
+{title: Al mundo paz, ¡Nació de Jesús!}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Al mundo paz, nació Jesús!
+Nació ya nuestro Rey;
+El corazón ya tiene luz,
+Y paz su santa grey,
+Y paz su santa grey,
+Y paz y paz su santa grey.
+
+{comment: 2}
+¡Al mundo paz, el Salvador
+En tierra reinará!
+Ya es feliz el pecador,
+Jesús perdón le da,
+Jesús perdón le da.
+Jesús, Jesús perdón le da.
+
+{comment: 3}
+Al mundo Él gobernará
+Con gracia y con poder,
+A las naciones probará
+Su amor y su poder,
+Su amor y su poder.
+Su amor, su amor y su poder.

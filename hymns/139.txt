@@ -1,0 +1,34 @@
+{title: Cantaré la maravilla}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Cantaré la maravilla
+Que Jesús murió por mí;
+Como allá en el Calvario
+Dio su sangre carmesí.
+
+{comment: Coro}
+Cantaré la bella historia
+De Jesús mi Salvador,
+Y con los santos en la gloria,
+A Jesús daré loor.
+
+{comment: 3}
+Cristo vino a rescatarme,
+Vil, perdido me encontró;
+Con su mano fiel y tierna
+Al redil Él me libertó.
+
+{comment: 4}
+Mis heridas y dolores
+El Señor Jesús sanó;
+Del pecado y los temores
+Su poder me libertó.
+
+{comment: 5}
+En el río de la muerte
+El Señor me guardará,
+En su amor tan fiel y fuente
+Que jamás me dejará.

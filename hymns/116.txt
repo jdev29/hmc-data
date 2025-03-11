@@ -1,0 +1,34 @@
+{title: Quiero seguir las pisadas del maestro}
+{title_en:}
+{source_lyrics:}
+{tone: Db}
+
+{comment: 1}
+Quiero seguir las pisadas del Maestro;
+Quiero ir en pos de mi Rey y Señor,
+Y moldeando por Él mi caracter,
+Canto con gozo a mi buen Redentor.
+
+{comment: Coro}
+¡Cuán hermoso es seguir las pisadas del Maestro,
+En la plena luz, cerca de Jesús!
+¡Cuán hermoso es seguir las pisadas del Maestro,
+En su santa luz!
+
+{comment: 2}
+Ando más cerca de aquel que me guía
+Cuando el maligno me quiere tentar,
+Siempre confiando en Jesús, que es mi fuerte
+Puedo con gozo su nombre ensalzar.
+
+{comment: 3}
+Sigo sus pasos de tierno cariño,
+Misericordia, pureza y verdad;
+Viendo hacia Él por el don de la gracia,
+Voy al descanso, gloriosa Ciudad.
+
+{comment: 4}
+Quiero seguir las pisadas del Maestro
+Siempre hacia arriba con Él quiero andar
+Viendo a mi Rey en gloriosa hermosura
+Con Él en gloria podré descansar.

@@ -1,0 +1,34 @@
+{title: Adoradle}
+{title_en: I Will Praise Him}
+{source_lyrics: Ll. B. 5; C.T. 15}
+{tone: Bb}
+
+{comment: 1}
+Dad al Padre toda gloria,
+Dad al Hijo todo honor;
+Y al Espíritu Divino,
+Alabanzas de loor.
+
+{comment: Coro}
+Adoradle, adoradle.
+Adorad al Salvador;
+Tributadle toda gloria,
+Pueblo suyo por su grande amor.
+
+{comment: 2}
+Adoradle, oh Iglesia
+Redimida por Jesús.
+Rescatada por su gracia,
+Guiada por su amor y Luz.
+
+{comment: 3}
+Entonadle un canto nuevo
+Huestes libres, del Señor;
+Tierra, mar y altos cielos,
+Gloria dan al Trino Dios.
+
+{comment: Coro}
+Yo te adoro, yo te adoro,
+Yo te adoro, buen Jesús;
+te adoro reverente,
+oh, Cordero santo de mi Dios.

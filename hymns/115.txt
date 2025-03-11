@@ -1,0 +1,40 @@
+{title: Gracias sean dadas}
+{title_en:}
+{source_lyrics:}
+{tone: E}
+
+{comment: 1}
+Gracias sean dadas al buen Salvador,
+Libre es su amor, libre es su amor,
+Ha preparado para el pecador
+Fuente preciosa de amor,
+Y si tú quieres en Cristo confiar,
+Libre es su amor, libre es su amor,
+De vida eterna hoy puedes gozar,
+Inagotable es su amor.
+
+{comment: Coro}
+Tierno te llama Jesús ¿Quieres ir?
+¡Oh pecador! ¡Oh pecador!
+El ha dejado en la cruz morir,
+Fuente preciosa de amor.
+
+{comment: 2}
+En tus pecados ¿Por qué continuar?
+Libre es su amor, libre es su amor,
+Llama el Espíritu, ven sin tardar,
+Inagotable es su amor,
+Deja tinieblas por luz celestial,
+Libre es su amor, libre es su amor,
+Hoy mismo quiere librarte del mal;
+Inagotable es su amor.
+
+{comment: 3}
+El que creyere perdón obtrndrá:
+Libre es su amor, libre es su amor,
+ven, al momento te bendecirá,
+Inagotable es su amor.
+Cristo te espera; te ofrece la paz,
+Libre es su amor, libre es su amor,
+Cree en su nombre y salvo serás;
+Inagotable es su amor.

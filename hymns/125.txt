@@ -1,0 +1,28 @@
+{title: Con voz benigna}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+Con voz benigna te llama Jesús,
+Invitación de puro amor.
+¿Por qué le dejas en vano llamar?
+¿Sordo serás pecador?
+
+{comment: Coro}
+Hoy te vonvida,
+Hoy te convida,
+Voz bendecida,
+Benigna convídate hoy.
+
+{comment: 2}
+A los cansados convida Jesús,
+Con compasión mira el dolor;
+Tráele tu carga, te bendecirá,
+Te ayudará el Señor.
+
+{comment: 3}
+Siempre aguardando contempla a Jesús,
+¡Tanto esperar! ¡Con tanto amor!
+Hasta sus plantas ven, mísero y trae,
+Tu tentación, tu dolor.

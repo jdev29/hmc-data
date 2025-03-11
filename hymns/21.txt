@@ -1,0 +1,34 @@
+{title: Salvador, Mi bien eterno}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Salvador, mi bien eterno,
+Más que vida para mí,
+En mi fatigosa senda
+Cerca siempre te halle a Ti;
+Junto a Ti, junto a Ti,
+Junto a Ti, junto a Ti;
+En mi fatigosa senda
+Cerca siempre te halle a Ti.
+
+{comment: 2}
+Ni los bienes, ni placeres,
+Ni renombre busco aquí
+En las pruebas y en desdenes,
+Cerca siempre te halle a Ti
+Junto a Ti, junto a Ti
+Junto a Ti, junto a Ti;
+En las pruebas y en desdenes,
+Cerca siempre te halle a Ti.
+
+{comment: 3}
+Yendo por sombrío valle,
+O en rugiente mar hostil,
+Antes y después del trance,
+Cerca siempre te halle a Ti;
+Junto a Ti, junto a Ti
+Junto a Ti, junto a Ti;
+Antes y después del trance,
+Cerca siempre te halle a Ti

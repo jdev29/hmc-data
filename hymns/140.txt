@@ -1,0 +1,22 @@
+{title: Iglesia de Cristo}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Iglesia de Cristo reanima tu amor,
+Y espera velando a tu augusto Señor;
+Jesús el esposo, vestido de honor,
+Viniendp se anuncia con fuerte clamor.
+
+{comment: 2}
+Si falta en algunos el santo feror,
+La fe sea de todos el despertador.
+Velad, compañeros, velad sin temor.
+Que está con nosotros el Consolador.
+
+{comment: 3}
+Quien sigue la senda del vil pecador,
+Se entrega en los brazos de un sueño traidor;
+Más para los siervos del buen Salvador,
+Velar esperando es su anhelo mejor.

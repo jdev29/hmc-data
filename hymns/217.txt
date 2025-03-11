@@ -1,0 +1,34 @@
+{title: ¡Venid, oh niños! Aprended}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+¡Venid, oh niños! aprended,
+La historia del Señor
+Y su doctrina mantened,
+Viviendo en su temor.
+
+{comment: Coro}
+Escuchad, aprended,
+La ley del Redentor,
+Y su doctrina mantened
+Viviendo en su temor.
+
+{comment: 2}
+No obstante que de corazón
+Pecamos sin cesar,
+Nos tiene grande compasión
+Y quiere perdonar.
+
+{comment: 3}
+Él sabe la debilidad
+De nuestro frágil ser,
+Así nos mira con piedad,
+Nos quiere proteger.
+
+{comment: 4}
+Haced los niños observar
+De Cristo las instrucción,
+Así no se podrá desviar
+Jamás su corazón.

@@ -1,0 +1,50 @@
+{title: Salvo en los tiernos brazos}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+
+{comment: 1}
+Salvo en los tiernos brazos
+De mi Jesús seré;
+Y en su amoroso pecho
+Siempre reposaré
+Este es sin duda el eco
+De celestial canción
+Que de inefable gozo
+Llena mi corazón.
+
+{comment: Coro}
+Salvo en los tiernos brazos
+De mi Jesús seré;
+Y en su amoroso pecho
+Siempre reposaré.
+
+{comment: 2}
+Tiende Jesús los brazos
+Bríndame tu amistad;
+A su poder me acojo:
+Para mí no hay ansiedad.
+No temeré si ruge.
+Hórrida tentación;
+Ni causará el pecado
+Daño en mi corazón.
+
+{comment: 3}
+De sus amantes brazos
+Tierna solicitud
+Líbrame de tristeza
+Líbrame de inquietud.
+Y si tal vez hay pruebas
+Fáciles pasarán;
+Lágrimas si vertiere.
+Pronto se enjugarán.
+
+{comment: 4}
+Y cruzaré la noche
+Lóbrega sin temor.
+Hasta que venga el día
+De perennal fulgor;
+¡Cuán placentero entonces,
+Con Él será morar
+Y en la mansión de gloria
+Con mi Jesús reinar.

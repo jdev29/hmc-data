@@ -1,0 +1,34 @@
+{title: ¿Nos veremos en el río?}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Nos veremos en el río
+Cuyas aguas cristalinas.
+Cuyas ondas argentinas
+Proceden del trono de Dios.
+
+{comment: Coro}
+¡Oh! sí, nos congregaremos
+En la hermosísima ribera
+Del río de la vida verdadera,
+Que fluye del trono de Dios.
+
+{comment: 2}
+En las márgenes del río
+Que frecuentan serafines
+Y embellecen querubines,
+De la dicha eterna Dios.
+
+{comment: 3}
+El vergel que riega el río
+De Jesús es la morada,
+Nunca tiene el mal entrada,
+Allí sólo reina Dios.
+
+{comment: 4}
+Antes de llegar al río
+Nuestras cargas dejaremos,
+Libres todos entraremos
+Por la gracia del Señor.

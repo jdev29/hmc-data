@@ -1,0 +1,146 @@
+[
+  {
+    "major": "C",
+    "mayor": "Do",
+    "relative": "Am",
+    "relativo": "Lam"
+  },
+  {
+    "major": "Db",
+    "mayor": "Reb",
+    "relative": "Bbm",
+    "relativo": "Sibm"
+  },
+  {
+    "major": "D",
+    "mayor": "Re",
+    "relative": "Bm",
+    "relativo": "Sim"
+  },
+  {
+    "major": "Eb",
+    "mayor": "Mib",
+    "relative": "Cm",
+    "relativo": "Dom"
+  },
+  {
+    "major": "E",
+    "mayor": "Mi",
+    "relative": "C♯m",
+    "relativo": "Do♯m"
+  },
+  {
+    "major": "F",
+    "mayor": "Fa",
+    "relative": "Dm",
+    "relativo": "Rem"
+  },
+  {
+    "major": "Gb",
+    "mayor": "Solb",
+    "relative": "Ebm",
+    "relativo": "Mibm"
+  },
+  {
+    "major": "G",
+    "mayor": "Sol",
+    "relative": "Em",
+    "relativo": "Mim"
+  },
+  {
+    "major": "Ab",
+    "mayor": "Lab",
+    "relative": "Fm",
+    "relativo": "Fam"
+  },
+  {
+    "major": "A",
+    "mayor": "La",
+    "relative": "F♯m",
+    "relativo": "Fa♯m"
+  },
+  {
+    "major": "Bb",
+    "mayor": "Sib",
+    "relative": "Gm",
+    "relativo": "Solm"
+  },
+  {
+    "major": "B",
+    "mayor": "Si",
+    "relative": "G♯m",
+    "relativo": "Sol♯m"
+  },
+  {
+    "minor": "Am",
+    "menor": "Lam",
+    "relative": "C",
+    "relativo": "Do"
+  },
+  {
+    "minor": "Bbm",
+    "menor": "Sibm",
+    "relative": "Db",
+    "relativo": "Reb"
+  },
+  {
+    "minor": "Bm",
+    "menor": "Sim",
+    "relative": "D",
+    "relativo": "Re"
+  },
+  {
+    "minor": "Cm",
+    "menor": "Dom",
+    "relative": "Eb",
+    "relativo": "Mib"
+  },
+  {
+    "minor": "C♯m",
+    "menor": "Do♯m",
+    "relative": "E",
+    "relativo": "Mi"
+  },
+  {
+    "minor": "Dm",
+    "menor": "Rem",
+    "relative": "F",
+    "relativo": "Fa"
+  },
+  {
+    "minor": "Ebm",
+    "menor": "Mibm",
+    "relative": "Gb",
+    "relativo": "Solb"
+  },
+  {
+    "minor": "Em",
+    "menor": "Mim",
+    "relative": "G",
+    "relativo": "Sol"
+  },
+  {
+    "minor": "Fm",
+    "menor": "Fam",
+    "relative": "Ab",
+    "relativo": "Lab"
+  },
+  {
+    "minor": "F♯m",
+    "menor": "Fa♯m",
+    "relative": "A",
+    "relativo": "La"
+  },
+  {
+    "minor": "Gm",
+    "menor": "Solm",
+    "relative": "Bb",
+    "relativo": "Sib"
+  },
+  {
+    "minor": "G♯m",
+    "menor": "Sol♯m",
+    "relative": "B",
+    "relativo": "Si"
+  }
+]

@@ -1,0 +1,33 @@
+{title: Lindas las manitas son}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+Lindas las manitas son
+Que obedecen a Jesús;
+Lindos ojos son también
+Los que están llenos de luz.
+
+{comment: Coro}
+Lindas, si, lindas las manos son,
+Que obedecen al Salvador,
+Lindos, sí, lindos los ojos son,
+Llenos de santo amor.
+
+{comment: 2} Los oídos han de oír,
+La palabra del Señor,
+Hazlo, pues, con gran placer.
+Así serás vencedor.
+
+{comment: 3}
+Las manitas hechas son
+Que ayuden a Jesús,
+Todo limpio corazón
+Es faro de grata luz.
+
+{comment: 4}
+Son los labios para orar
+A tu Padre sin cesar;
+Y los pies han de andar
+Listo en obras de amor.

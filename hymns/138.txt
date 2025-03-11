@@ -1,0 +1,34 @@
+{title: La fuente sanadora}
+{title_en:}
+{source_lyrics:}
+{tone: D}
+
+{comment: 1}
+Ved la fuente que nos sana
+La que abrió el Salvador
+Cuyas aguas refrescantes,
+Son de perennal valor.
+
+{comment: Coro}
+¡Oh, preciosa fuente sanadora!
+Para todos fluye libre;
+¡Oh, preciosa fuente sanadora!
+¡Gloria a Dios! me sana a mí.
+
+{comment: 2}
+En la fuente que nos sana,
+He hallado salvación;
+Y he lavado toda mancha,
+De mi pobre corazón.
+
+{comment: 3}
+En la fuente que nos sana,
+Cristo ofrece la salud;
+Pues venid, enfermos todos
+Probaréis su gran virtud.
+
+{comment: 4}
+Esta fuente que nos sana
+Aún hoy día es eficaz,
+Ven, sumérgete en ella
+Cree, y sano quedarás.

@@ -1,0 +1,28 @@
+{title: Hubo quien por mis culpas}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Hubo quien por mis culpas muriese en la Cruz,
+Aunque indigno y vil me halló;
+Soy feliz, pues su sangre vertió mi Jesús,
+Y con ellas mis culpas borró.
+
+{comment: Coro}
+Mis pecador llevó, en la cruz do murió
+El sublime, el tierno Jesús,
+Los desprecios sufrió y mi alma salvó,
+Él cambió mis tinieblas en luz.
+
+{comment: 2}
+Él es tierno y amante, cual nadie lo fue
+Pues convierte al infiel corazón,
+Y por esa paciencia, y ternura yo sé,
+Que soy libre de condenación.
+
+{comment: 3}
+Es mi anhelo constante, a Cristo seguir
+Mi Camino su ejemplo marcó,
+Y por darme la vida Él quiso morir.
+En su cruz mi pecado clavó.

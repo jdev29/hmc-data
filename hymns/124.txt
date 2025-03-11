@@ -1,0 +1,40 @@
+{title: Tentado no cedas}
+{title_en:}
+{source_lyrics:}
+{tone: Gb}
+
+{comment: 1}
+Tentado no cedas;
+Ceder es pecar;
+Mejor y más noble
+Es luchar y triunfar;
+¡Valor pues! cristiano,
+Domina tu mal;
+Dios puede librarte,
+De asalto mortal.
+
+{comment: Coro}
+En Jesús, pues, confía,
+En sus brazos tu alma,
+Hallará dulce calma.
+Él te hará, vencedor.
+
+{comment: 2}
+Evita el pecado,
+Procura agradar,
+A Dios a quien debes,
+Por siempre ensalzar;
+No manche tus labios,
+Impúdica voz,
+Preserva tu vida,
+De ofensas a Dios.
+
+{comment: 3}
+Amante, benigno,
+Y enérgico sé;
+En Cristo tu amigo,
+Pon toda tu fe;
+Veraz sea tu dicho,
+De Dios es tu ser;
+Corona te espera,
+Y vas a vencer.

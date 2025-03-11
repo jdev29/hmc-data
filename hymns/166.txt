@@ -1,0 +1,28 @@
+{title: Yo me acuerdo}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Yo me acuerdo que Jesús por mi murió. (Él por mí);
+En ls cruz el Calvario Él sufrió, (Él sufrió)
+Yo me acuerdo que Él murió, Su Espíritu entregó
+Pues por mi el Señor murió, (Él murió).
+
+{comment: Coro}
+Yo me acuerdo que Jesús pagó por mí, (Pagó por mí).
+Mi gran deuda, hoy estoy libre aquí; (libre aquí);
+Por la sangre de Jesús, derramada en la Cruz
+Redimido y salvo soy, (salvo soy)
+
+{comment: 2}
+Yo me acuerdo que Jesús el pan quebró, (lo quebró),
+A los suyos todos con amor lo dio; (Él lo dio);
+En su cuerpo el Señor, ya llevó nuestro dolor,
+Pues por mi el Señor muró. (Él murió).
+
+{comment: 3}
+Yo me acuerdo que el vino Él les dio, (Él les dio),
+Sí, tomad de ello todos, les mandó: (les mandó);
+Es mi sangre de la cruz, por la cual os doy la luz,
+Pues por mí el Señor murió. (Él murió).

@@ -1,0 +1,35 @@
+{title: Día feliz}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Feliz momento en que escogí,
+Servirte, mi Señor y Dios;
+Preciso es que mi gozo en Ti,
+Lo muestre hoy con obra y voz.
+
+{comment: CORO}
+¡Soy feliz! ¡Soy feliz!
+Y en su fvor me gozaré;
+En libertad y luz me vi,
+Cuando triunfo en mi la la fe,
+Y el raudal carmesí Salud de mi alma enferma fue.
+
+{comment: 2}
+Cumplido es, a Él yo fui;
+De Cristo soy, y mío es Él;
+Me atrajo: con placer seguí,
+su voz conoce todo fiel.
+
+{comment: 3}
+Reposa débil corazón;
+A tus contiendas por ya fin,
+Halle más noble posesión,
+Y parte en su superior festín.
+
+{comment: 4}
+Solemne voto, ofrenda, flor,
+Que al cielo santo consagraré,
+Hoy sé mi fuerte de amor;
+Después testigo de mi fe.

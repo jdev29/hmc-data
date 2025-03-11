@@ -1,0 +1,34 @@
+{title: El nombre de Jesús}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+¡Tan dulce el nombre de Jesús!
+Su bellas notas al cantar,
+Que mi alma llena el proclamar,
+El nombr de Jesús.
+
+{comment: CORO}
+Cristo ¡Oh que dulce es!
+Cristo para siempre es;
+Cristo yo te aclamaré
+Por siempre, ¡Oh, mi Cristo!
+
+{comment: 2}
+Adoro el nombr de Jesús,
+Que pudo mi pesar quitar,
+Y pone aparte, mi dolor,
+El nombre de Jesús.
+
+{comment: 3}
+Tan puro el nombre de Jesús,
+Que pudo mi pesar quitar,
+Y grata paz a mi alma dar,
+El nombre de Jesús.
+
+{comment: 4}
+El dulce nombre de Jesús
+Por siempre quiero alabar,
+Y todos deben ensalzar,
+El nombre de Jesús.

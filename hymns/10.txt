@@ -1,0 +1,40 @@
+{title: Melodías Celestiales}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Dulces melodías cantaré,
+De alabanzas al Señor,
+A su nombre glori yo daré,
+Por su incomparable amor.
+
+{comment: CORO}
+De Jesús el nombre
+Siempre alabaré,
+Canta mi alma alegre
+Melosdías a mi Rey.
+
+{comment: 2}
+Yo vivía en sombras y en dolor,
+Triste, herido, pobre, vil,
+Mas la tierna mano del Señor
+Me condujo a su redil.
+
+{comment: 3}
+Fuente perennal de gracia hallé
+Al amparo de su amor,
+Su sonrriente faz me inspira fe,
+esperanza y gran valor.
+
+{comment: 4}
+Aunque por el valle de aflicción
+Tenga que pasar aquí,
+Mi Jesús dará su protección,
+El se acordará de mí.
+
+{comment: 5}
+La rosada aurora anuncia ya
+Que Jesús por mí vendrá,
+Mi alma alegre con El remará
+en la celestial ciudad.

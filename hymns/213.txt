@@ -1,0 +1,26 @@
+{title: Cristo me ama}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Cristo me ama, bien lo sé,
+Su Palabra me hace ver
+Que los niños son de Aquel,
+Quien es nuestro amigo fiel.
+
+{comment: Coro}
+¡Oh! Cristo me ama, si, mucho me ama,
+¡Oh! Cristo me ama, la Biblia dice así.
+
+{comment: 2}
+Cristo me ama, pues murió
+Y el camino al cielo abrió;
+Él mis culpas quitará;
+Y la entrada me dará.
+
+{comment: 3}
+Cristo me ama, es verdad,
+Y me cuida en su bondad,
+Cuando muera, si soy fiel,
+Iré yo a vivir con Él.

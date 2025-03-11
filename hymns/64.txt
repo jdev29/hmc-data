@@ -1,0 +1,32 @@
+{title: Jesús es mi Amigo}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Jesús es mi amigo, mi buen Amigo fiel,
+A mi alma es el más bello de un millar.
+El lirio de los valles, encuentro sólo en Él
+La virtud que da perfecto bienestar.
+En todos mis pesares es siempre sostén,
+Me manda sobre Él mi carga echar.
+
+{comment: CORO}
+Es el lirio de los valles, la estrella del amor,
+A mi alma es Él más bello de un millar.
+
+{comment: 2}
+Alivia mis pesares mi buen amigo fiel,
+En la tentación es torre eficaz;
+Del corazón arranco los ídolos por Él,
+Y las faltas que me apartan de su faz,
+Si todos me desprecian, yo firme quedaré,
+Por Él tendré victoria sin cesar.
+
+{comment: 3}
+Si cumplo sus mandatos viviendo por la fe
+En mis duras pruebas Él me sostendrá;
+Rodeado de sus brazos, yo nada temeré:
+Con sus huestes el Señor me guardará.
+Entonces a la gloria iremos para ver
+Su rostro, y el cielo heredar.

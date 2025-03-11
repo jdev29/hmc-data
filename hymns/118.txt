@@ -1,0 +1,28 @@
+{title: No puede el mundo ser mi hogar}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+La senda ancha dejaré,
+Yo quiero por la angosta andar
+Y muchos no sabrán por qué,
+Mas voy a mi celeste hogar.
+
+{comment: Coro}
+//No puede el mundo
+Ser mi hogar//
+Tengo en la gloria mi mansión,
+No puede el mundo ser mi hogar.
+
+{comment: 2}
+Algunos quieren verme andar
+Por el sendero de maldad;
+Oír no puedo su llamar,
+Pues voy a mi celeste hogar.
+
+{comment: 3}
+¡Oh, ven conmigo, pecador,
+Y sigue en pos del Salvador!
+¿Por qué no quieres tú buscar,
+La hermosa tierra más allá?

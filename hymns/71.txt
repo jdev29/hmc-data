@@ -1,0 +1,34 @@
+{title: Meditad}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Meditad en que hay un hogar
+En el margen del río de luz
+Donde van para siempre a gozar
+Los creyentes en Cristo Jesús.
+
+{comment: CORO}
+Más allá, más allá,
+Meditad en que hay un hogar,
+Más allá, más allá, más allá
+En el maegen del río de luz.
+
+{comment: 2}
+Meditad en que amigos tenéis,
+De los cuales marchamos en pos,
+Y en pensad en que al fin los veréis
+En el alto palacio de Dios.
+
+{comment: 3}
+En que mora Jesús meditad
+Donde seres que amamos están,
+Y a la patria bendita volad
+Sin angustias, temores ni afán.
+
+{comment: 4}
+Reunido a los míos seré
+Mi carrera a su fin toca ya:
+Y en mi hogar celestial entraré
+Donde mi alma reposo tendrpa.

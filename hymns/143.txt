@@ -1,0 +1,32 @@
+{title: En la viña del Señor}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Yo quiero trabajar por el Señor
+Confiando en su palabra y en su amor,
+Quiero yo cantar y orar,
+Y ocupando siempre estar,
+En la viña del Señor.
+
+{comment: Coro}
+Trabajar y orar
+En la viña, en la viña del Señor
+Sí, mi anhelo es orar
+Y ocupado siempre estar,
+En la viña del Señor.
+
+{comment: 2}
+Yo quiero cada día trabajar
+Y esclavos del pecador libertar:
+Conducirlos a Jesús,
+Nuestro guía, nuestra luz,
+En la viña del Señor.
+
+{comment: 3}
+Yo quiero ser obrero de valor,
+Confiando en el poder del Salvador;
+El que quiera trabajar
+Hallará también lugar
+En la viña del Señor.

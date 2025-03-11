@@ -1,0 +1,28 @@
+{title: ¡Trabajad! ¡Trabajad!}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+¡Trabajad! ¡Trabajad! somos siervos de Dios,
+Seguiremos la senda que Cristo trazó,
+Renovando las fuerzas con bienes que da
+El deber que nos toca complido será.
+
+{comment: Coro}
+¡Trabajad! ¡Trabajad!
+¡Esperad, y velad!
+¡Confiad! ¡Siempre orad!
+Que el Maestro pronto volverá.
+
+{comment: 2}
+¡Trabajad! ¡Trabajad! hay que dar de comer
+Al que pan de la vida quisiere tener;
+Hay enfermos que irán a los pies del Señor
+Al saber que de balde los sana su amor.
+
+{comment: 3}
+¡Trabajad! ¡Trabajad! fortaleza pedid,
+El Reinado del mal con valor combatid
+Conducid los cautivos al Libertador,
+Y decid que de balde redime su amor.

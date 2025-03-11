@@ -1,0 +1,34 @@
+{title: Me levantó}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Mi salvador en su bondad,
+Al mundo malo descendió;
+Y de hondo abismo de maldad,
+El mi alma levató.
+
+{comment: Coro}
+Seguridad me dio Jesús,
+Cuando su mano me tendió,
+De las tinieblas a la luz,
+En su bondad me levantó.
+
+{comment: 2}
+Su voz tan dulce resistí,
+Aunque El amante me llamó,
+Mas su palabra recibí,
+Y así me levantó.
+
+{comment: 3}
+Tortura cruel sufrió por mí,
+Cuando en la cruz El expiró;
+Tan sólo así salvo fui,
+Y así me levantó.
+
+{comment: 4}
+Su dulce paz y gozo hallé,
+Con esa vida que El me dio;
+Mas no comprendo, aún por qué,
+Jesús me levantó.

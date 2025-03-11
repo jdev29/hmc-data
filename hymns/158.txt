@@ -1,0 +1,28 @@
+{title: Cerca, más cerca}
+{title_en:}
+{source_lyrics:}
+{tone: Db}
+
+{comment: 1}
+Cerca, más cerca, ¡Oh Dios, de Ti!
+Cerca yo quiero mi vida llevar.
+Cerca, más cerca, ¡Oh Dios, de Ti¡
+//Cera a tu gracia que puede salvar//
+
+{comment: 2}
+Cerca, más cerca cual pobre soy,
+Nada, Señor, yo te puedo ofrecer,
+Sólo mi ser contrito te doy,
+//Pueda contigo la paz obtener//.
+
+{comment: 3}
+Cerca, más cerca, Señor, de Ti,
+Quiero ser tuyo, dejando el pecar
+Goces y pompas vanas aquí,
+//Todo, Señor, pronto quiero dejar//.
+
+{comment: 4}
+Cerca, más cerca, mientras el ser
+Aliente vida y busque tu paz;
+Y cuando al cielo pueda ascender
+//Ya para siempre conmigo estarás//.

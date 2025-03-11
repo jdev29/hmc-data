@@ -1,0 +1,34 @@
+{title: Gloria al Cordero}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Cristo mío, me salvaste,
+Tuyo soy, tuyo seré;
+Por tu sangre derramada
+Vida eterna gozaré.
+
+{comment: CORO}
+Gloria, gloria al Cordero
+Gloria, gloria a Jesús;
+Ya soy limpio por su sangre,
+Gloria, gloria a Jesús.
+
+{comment: 2}
+Mucho tiempo solo anduve,
+Lejos de tu dulce amor
+Mas ahora por tu gracia
+tengo paz en Ti, Señor.
+
+{comment: 3}
+En la fuente de la vida,
+Fui limpiando por la fe;
+Consagrado a tu servivio,
+Para Ti ya viviré.
+
+{comment: 4}
+Gloria a Cristo, el Cordero,
+Que murió en una cruz;
+Gloria a El, me guarda siempre
+en su gozo, paz y luz.

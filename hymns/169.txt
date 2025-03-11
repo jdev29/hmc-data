@@ -1,0 +1,34 @@
+{title: La paz que Cristo da}
+{title_en:}
+{source_lyrics:}
+{tone: A}
+
+{comment: 1}
+¿Has hallado la paz de Jesucristo?
+¿Permaneces en la verdadera vid?
+¿Tienes gozo cual nunca da el mundo?
+¿Eres siempre victorioso en la lid?
+
+{comment: Coro}
+¿Has hallado la paz de Jesucristo?
+¿Permaneces en la verdadera vid?
+Tu confianza en Cristo pon, en el sitio de oración.
+La victoria te asegura en la lid.
+
+{comment: 2}
+¿Tienes la fe que nunca, nunca falta
+Cuando ruge en derredor la tempestad?
+¿Eres tú voctorioso en tus conflictos,
+Cuando el tentador te quiere asaltar?
+
+{comment: 3}
+¿Anda tú con Jesús en esta vida
+En la hermosura de la santidad?
+¿Gozas tú las riquezas de su gracia,
+Dando loor a la divina Trinidad?
+
+{comment: 4}
+Hay lugar para ti en su presencia,
+Donde puedes su belleza contemplar.
+Al que anda en la luz ha prometido
+Darle su Espíritu Consolador.

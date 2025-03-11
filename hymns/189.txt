@@ -1,0 +1,34 @@
+{title: Por una senda estrecha andaba yo}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Por una senda estrecha andaba yo,
+Y allí a un extraño vi.
+La carga que llevaba a mí mostró,
+Era una cruz que conocí.
+
+{comment: Coro}
+Ven, trae tu cruz y sígueme,
+Oí su tierna voz llamar;
+Negarle nunca puedo a quien por mí,
+Su vida quiso dar.
+
+{comment: 2}
+Clamé al Señor Jesús, y Él me habló,
+Sus manos lastimadas vi,
+Las huellas del desprecio que Él sufrió,
+Sufrió por redimirme a mí.
+
+{comment: 3}
+Tú cruz, períteme cargar,
+Y otra cruz me señalo,
+La misma que con miedo deseché
+Cuando ants Él me la ofreció.
+
+{comment: 4}
+La senda sigo que su fin tendrá
+En gloria eterna, paz y amor.
+Do por la cruz corona me dará
+Mi guía fiel, mi Salvador.

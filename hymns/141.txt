@@ -1,0 +1,34 @@
+{title: Viene otra vez}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Cantan los ángeles con dulce voz
+Canten los hombre con férvida voz;
+Cristo vendrá nuestro Rey vencedor;
+Cristo vendrá otra vez.
+
+{comment: Coro}
+Viene otra vez, viene otra vez;
+Cristo en su gloia vendrá otra vez;
+Viene otra vez, viene otra vez;
+Sí, viene pronto a reinar.
+
+{comment: 2}
+Ved en los cielos, la tierra el mar
+Grandes señales cumpliéndose ya,
+Todo indicando que pronto vendrá
+Nuestro glorioso Señor.
+
+{comment: 3}
+Todos los salvos que muertos están
+De sus sepulcros triunfantes saldrán
+Y para siempre con Cristo estarán,
+Cristo vendrá otra vez.
+
+{comment: 4}
+Ven en las nubes, ¡oh buen Salvador!
+Ven a reinar en glorioso esplendor;
+Ven, que tu iglesia te espera, Señor.
+Ven a la tierra a reinar.

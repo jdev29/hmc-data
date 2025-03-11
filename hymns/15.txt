@@ -1,0 +1,34 @@
+{title: Cristo, el Rey de gloria}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Ved al Cristo, Rey de Gloria
+Es del mundo el vencedor;
+De la guerra vuelve invicto
+Todos démosle loor.
+
+{comment: CORO}
+Coronadle, santos todos
+Coronadle Rey de reyes,
+Coronadle, santos todos
+Coronadle al Salvador.
+
+{comment: 2}
+Exaltadle, si exaltadle
+Ricos triunfos de Jesús
+Entronadle allá en los cielos
+En la refulgente luz.
+
+{comment: 3}
+Hombres malos se burlaron
+Coronando al Salvador;
+Hoy los ángeles y santos
+Lo proclaman su Señor.
+
+{comment: 4}
+Escuchad las alabanzas
+Que se elevan hacia El;
+Victorioso reina el Cristo
+Dad la gloria a Emmabuel.

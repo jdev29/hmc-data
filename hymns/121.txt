@@ -1,0 +1,34 @@
+{title: Manda otra lluvia}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Unánimes junto a la cruz,
+pedimos con fervor;
+Según tu dicho, oh Jesús,
+Manda el Consolador.
+
+{comment: Coro}
+Sí, manda otra lluvia, ¡Oh, buen Salvador!
+Y con tu gran fuego, avivanos Señor,
+¡Oh! Danos la lluvia del Consolador,
+Aviva tu Iglesia con poder celestial.
+
+{comment: 2}
+Cual vivo Fuego o vendaval,
+¡Oh, hazlo descender!
+Y dígnate hoy en cada cual
+Tu templo establecer.
+
+{comment: 3}
+Mediante la oración de fe,
+El Cielo Tú abrirás,
+El Santo Fuego harás bajar
+Y nos avivarás.
+
+{comment: 4}
+Destruye el egoísmo, si,
+Y quema todo mal;
+Ven vivificanos aquí,
+Con Fuego Celestial.

@@ -1,0 +1,28 @@
+{title: ¡Oh bondad tan infinita!}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+¡Oh bondad tan infinita
+Hacia el mundo pecador,
+Dios, en Cristo, revelando
+Su erernal y santo amor!
+
+{comment: CORO}
+Es Jesús para mí
+La esperanza de salud,
+Sólo en El hallaré
+La divina plenitud.
+
+{comment: 2}
+Como el vasto firmamento,
+Como el insondable mar,
+Es la gracia salvadora
+Que Jesús al alma da.
+
+{comment: 3}
+Aunque fueren tus pecados
+Rojos como el Carmesí;
+En el río del Calvario,
+Hay limpieza para ti.

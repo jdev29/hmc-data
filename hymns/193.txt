@@ -1,0 +1,34 @@
+{title: Da la luz}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Un llamado llega desde el turbio mar,
+Da la luz... da la luz;
+Almas hay a quienes hay que rescatar,
+Da la luz... da la luz.
+
+{comment: Coro}
+Da la luz del Evangelio fiel,
+Haz que brille por doquier
+Que la senda alumbre del infiel
+Con sus rayos de poder.
+
+{comment: 2}
+Si este llamamiento quieres contestar,
+Da la luz... da la luz;
+Una buena ofrenda debes tú hoy dar,
+Da la luz... da la luz.
+
+{comment: 3}
+Que la gracia abunde: Pide en oración,
+Da la luz... da la luz;
+Una buena ofrenda debes tú hoy dar,
+Da la luz... da la luz.
+
+{comment: 4}
+Nunca nos cansemos de esta gran labor,
+Da la luz...da la luz;
+Y que Cristo refine en cada corazón,
+Da la luz... da la luz.

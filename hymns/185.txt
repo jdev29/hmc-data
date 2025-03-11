@@ -1,0 +1,28 @@
+{title: Hay luz gloriosa en mi camino}
+{title_en: }
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Hay luz gloriosa en mi camino,
+En las montañas y por doquier;
+Cristo nos dice: ¡Oh peregrino
+Nunca te dejaré perecer!
+
+{comment: Coro}
+¡Oh luz divina, brilla del cielo!
+Llena mi alma de tu fulgor:
+¡Aleluya! grato consuelo,
+Cantp las glorias de mi Señor.
+
+{comment: 2}
+Si me rodean sombras y nieblas,
+Miro su rostro, sigo su luz,
+En mi sendero no hallo tinieblas
+Ando alegre con mi Jesús.
+
+{comment: 3}
+En luz bendita regocijando
+Voy transitando a su mansión;
+Himno cantando siempre a su lado
+En luz gloriosa de redención.

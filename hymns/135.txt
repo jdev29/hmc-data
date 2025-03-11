@@ -1,0 +1,34 @@
+{title: El Señor así me habló}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+El Señor así me habló,
+Cuán débil es tu fe;
+Hijo, vela en oración
+Y a ti todo te seré.
+
+{comment: Coro}
+Todo lo pagó
+Cristo quien por mí
+Libremente derramó
+Su sangre carmesí.
+
+{comment: 2}
+Hallo ahora, Salvador,
+Que sólo tu poder
+Puede al corazón más vil
+Renovar y emblanquecer.
+
+{comment: 3}
+¡Oh Señor! tu salvación
+No puedo merecer
+La fe puesta sólo en Ti
+Salvará mi pobre ser.
+
+{comment: 4}
+Ante el trono, en Ti, Señor
+Completo al fin seré;
+¡Cristo mi alma rescató!
+Para siempre cantaré.

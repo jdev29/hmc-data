@@ -1,0 +1,17 @@
+[
+  { "id": 1, "nombre": "Adoración y Oración" },
+  { "id": 2, "nombre": "Bautismo" },
+  { "id": 3, "nombre": "Consagración" },
+  { "id": 4, "nombre": "El Espíritu Santo" },
+  { "id": 5, "nombre": "Evangelización" },
+  { "id": 6, "nombre": "Fúnebre y Eterna Gloria" },
+  { "id": 7, "nombre": "Invitación al Altar" },
+  { "id": 8, "nombre": "Himnos Misioneros" },
+  { "id": 9, "nombre": "Navidad" },
+  { "id": 10, "nombre": "Números Especiales" },
+  { "id": 11, "nombre": "La Sanidad Divina" },
+  { "id": 12, "nombre": "Resurrección" },
+  { "id": 13, "nombre": "La Segunda Venida" },
+  { "id": 14, "nombre": "Despedida" },
+  { "id": 15, "nombre": "Sección Niños" }
+]

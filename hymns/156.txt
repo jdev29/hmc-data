@@ -1,0 +1,34 @@
+{title: Firmes, firmes}
+{title_en:}
+{source_lyrics:}
+{tone: D}
+
+{comment: 1}
+¡Ved, soldados, la bandera
+Desplegada está!
+Los refuerzos aparecen
+Triunfo y paz traerán.
+
+{comment: Coro}
+¡Firmes! ¡Firmes! ¡Yo voy pronto!
+Clama el Salvador;
+Respondemos: Por tu gracia,
+Firmes, sin temor.
+
+{comment: 2}
+Nada importa que se acerquen
+Con rugiente afán
+Las legiones aguerridas
+Guiados por Satán.
+
+{comment: 3}
+Tremolando se divida
+El marcial pendón,
+Y se escucha de cornetas
+El guerrero son.
+
+{comment: 4}
+Viene Cristo con potencia
+A salvar a su grey;
+Pues soldados, ¡alegría!
+¡Viva nuestro Rey!

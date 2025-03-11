@@ -1,0 +1,44 @@
+{title: de mi tierno Salvador}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+De mi tierno Salvador,
+Cantaré el inmenso amor,
+Gloriaréme en el favor de Jesús.
+De tinieblas me llamó,
+De cadenas me libró,
+De la muerte me salvó, mi Jesús.
+
+
+{comment: CORO}
+¡Mi Jesús! ¡Mi Jesús!
+¡Cuán precioso es el nombre de Jesús!
+Con su sangre mi limpió,
+De su gozo me llenó,
+De su vida me dotó, mi Jesús.
+
+{comment: 2}
+¡Oh, la triste condición
+De un impío orazón!
+Me salvó de perdición mi Jesús.
+Del pecado, el perdón;
+De la ruina, salvción;
+Por tristeza, bendición, dio Jesús.
+
+{comment: 3}
+En el mundo al vagar,
+Solitario sin hogar,
+No sabía yo que paz da Jesús;
+Más las lagrimas de ayer
+Ham pasado, y gran placer
+He llegado a obtener en Jesús.
+
+{comment: 4}
+De lo falso, a su verdad
+De lo inmundo, a santidad
+Me conduce la bondad de Jesús;
+Y hecho fuerte en la virtud
+De su perennal salud,
+Cantaré con gratitud a Jesús.

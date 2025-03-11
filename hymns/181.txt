@@ -1,0 +1,50 @@
+{title: Los peregrinos}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+¡Cuán dulce es la reunión!
+De tierras lejanas son:
+Con Cristo a cenar,
+Su gloria a gozar
+Del Rey peregrinos son.
+Su rostro de amor verán
+Rodeados de resplandor;
+De su gloria gozarán
+Las joyas del Salvador.
+
+{comment: Coro}
+Hoy gozan de salvación
+Su yugo Jesús quebró
+No vagarán más.
+Dulcísima paz
+Alegra su corazón.
+Tinieblas y noche no hay
+Porque hijos del día son,
+Van en plena libertad
+Con Cristo su Salvador.
+
+{comment: 2}
+Contemplan el trono allá,
+De santos rodeados está;
+Jamás llorarán,
+Alegres están,
+La muerte vencida está;
+Siguiendo a su Precursor
+A tierras de dicha y luz
+Para siempre reinarán
+Por gracia del Rey Jesús.
+
+{comment: 3}
+Del valle de tentación,
+De espinas y aflicción,
+Al seno del Rey,
+Pastor del valle de tentación,
+Autor de la redención,
+Irán a su eterno hogar;
+Las bodas celebrarán,
+El que ha muerto en su lugar,
+Su mano estrechará.
+
+

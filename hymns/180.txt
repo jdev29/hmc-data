@@ -1,0 +1,28 @@
+{title: Soy peregrino aquí}
+{title_en: }
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Peregrino soy aquí, lejos de mi hogar;
+Cantaré de Cristo, el Rey Salvador sin par,
+El me guarda siempre fiel, en su tierno amor.
+En la luz de su cruz ando sin temor.
+
+{comment: Coro}
+Oh, yo quiero verle, contemplar su faz.
+Cantaré por siempre, indecible paz!
+Limpio por su sangre, alzaré mi voz,
+Mi Jesús, en la cruz, trajo mi perdón.
+
+{comment: 2}
+Cuando yo afligido estoy, lejos del redil.
+Otras pruebas mil aquí, manda el tentador
+De rodillas clamo yo a mi Salvador.
+Cristo es fiel; fío en Él, y en su dulce amor.
+
+{comment: 3}
+Aunque peregrino soy, Él me sostendrá,
+Aunque hoy a tientas voy, Éñ me guiará
+La morada celestial pronto yo veré;
+Al llegar, mi cantar siempre entonaré.

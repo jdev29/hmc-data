@@ -1,0 +1,35 @@
+{title: Tendrás que renacer}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Un hombre llegóse de noche a Jesús
+Buscando el camimp de vida y de luz
+Y Cristo le dijo: Si a Dios quieres ver
+Tendrás que renacerr:
+
+{comment: CORO}
+//Tendrás que renacer//
+De cierto, de cierto te digo a ti,
+Tendrás que renacer.
+
+{comment: 2}
+Y tú, si al cielo quisieras entrar,
+Y con los salvados allí descansar,
+Si quieres la vida eternal obtener
+Tendrás que renacer.
+
+{comment: 3}
+Amigo, no debes jamás desechar
+Palabrs que Cristo dignóse hablar
+Si tu alma no quieres llegar a perder
+Tendrás que renacer.
+
+{comment: 4}
+Algunos han ido con Cristo a morar
+A quienes querrás en el cielo encontrar,
+Pues esta proclama hoy debes creer:
+Tendrás que renacer.
+
+

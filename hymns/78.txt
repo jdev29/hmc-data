@@ -1,0 +1,49 @@
+{title: Firmes y adelante}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Firmes y adelante
+Huestes de la fe,
+Sin temor alguno,
+Que Jesús nos ve.
+Jefe Soberano,
+Cristo al frente va,
+Y la regia enseña
+Tresmolando está.
+
+{comment: CORO}
+Firmes y adelante,
+Huestes de la fe,
+Sin temor alguno,
+Que Jesús nos ve.
+
+{comment: 2}
+Al sagrado nombre
+De nuestro Adalid,
+Tiembla el enemigo
+Y huye de la lid,
+Nuestra es la victoria,
+Dad a Dios loor,
+y oigalo el averno
+Lleno de pavor.
+
+{comment: 3}
+Muévase potente
+La iglesia de Dios;
+De los ya gloriosos
+Marchamos en pos
+Somos sólo un cuerpo.
+Uno es el Señor
+Una la esperanza
+Y uno nuestro amor.
+
+{comment: 4}
+Tronos y coronas
+Pueden parecer;
+De Jesús la Iglesia
+Fiel habrá de ser;
+Nada en contra suya
+Prevalecerá,
+Porque la promesa

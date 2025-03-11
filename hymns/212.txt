@@ -1,0 +1,34 @@
+{title: A Jesucristo quiero allegarme}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+A Jesucristo quiero allegarme:
+Sé que la dicha en Él hallaré,
+Él es mi amigo tierno y amante
+Dulce es su nombre, santa es su ley.
+
+{comment: Coro}
+Ven, ¡Oh, niño! ven, con El feliz serás;
+Nuevo corazón de Él recibirás:
+Cristo te aguarda, quiere tu bien;
+A Jesucristo, niño ven.
+
+{comment: 2}
+De Jesucrito, fuente de gracia,
+Esta noticia grata te doy;
+Que ama a los niños, y les recíbe;
+Él me ha llamado, y a Cristo voy.
+
+{comment: 3}
+En Jesucristo todas mis culpas
+Fueron cargadas, Él las llevó;
+Y por su gracia me santifica,
+Por fe en la sangre que Él derramó.
+
+{comment: 4}
+Con Jesucristo voy cada día,
+Él es mi apoyo, marcho por fe
+Hacia su trono, y allá en la gloria
+Con Jesucristo yo reinaré.

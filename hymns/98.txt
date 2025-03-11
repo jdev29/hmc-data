@@ -1,0 +1,28 @@
+{title: Guíame ¡Oh Salvador!}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Guíame, ¡Oh, Salvador!
+Por la senda de salud;
+A tu lado no hay temor,
+Solo hay gozo, paz, quietud.
+
+{comment: CORO}
+¡Cristo! ¡Cristo!
+No me dejes, ¡Oh Señor!
+Siendo tú mi guía fiel,
+Seré más que vencedor.
+
+{comment: 2}
+Tú de mi alma salvación,
+En la ruda tempestad,
+Al venir la tentación
+Guárdame por tu bondad.
+
+{comment: 3}
+No me dejes, ¡Oh Señor!
+Mientras en el mundo esté,
+Y haz que arribe sin temor
+Donde en paz habitaré.

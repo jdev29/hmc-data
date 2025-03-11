@@ -1,0 +1,34 @@
+{title: Abrigo de la tempestad}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Me cuida Dios mi Protector,
+La Roca de la eternidad,
+Mi guía fiel, mi ayudador
+Y abrigo de la tempestad.
+
+{comment: Coro}
+Confía en Jesús, que la Roxa es Él,
+La Roca es Él, la Roca es Él,
+Confía en Jesús, que la Roca es Él,
+Y abrigo de la tempestad.
+
+{comment: 2}
+Es sombra fresca en el calor,
+La Roca de la eternidad.
+No temo pues, que es mi Señor,
+Mi abrigo de la tempestad.
+
+{comment: 3}
+Cuando Éñ ordena hay calma y luz,
+La Roca de la eternidad,
+No temeré, pues mi Jesús
+Me guardará en la tempestad.
+
+{comment: 4}
+¡Oh amada roca! Salvador,
+La roca de la eternidad;
+Acudo a Ti mi Protector,
+Y abrigo de la tempestad.

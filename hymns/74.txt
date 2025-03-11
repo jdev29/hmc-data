@@ -1,0 +1,37 @@
+{title: Dilo a Cristo}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Cuando estés cansado y abatido
+Dilo a Cristo, dilo a Cristo;
+Si te sientes débil, confundido,
+Dilo a Cristo el Señor.
+Dilo a Cristo, dilo a Cristo
+
+{comment: CORO}
+Él es tu amigo más fiel;
+No hay otro amigo como Cristo
+Dilo tan sólo a Él.
+
+{comment: 2}
+Cuando estés de tentación cercado
+Mira hacia Cristo, mira hacia Cristo
+Cuando rugen huestes de pecado
+Mira hacia Cristo el Señor
+Mira hacia Cristo, mira hacia Cristo.
+
+{comment: 3}
+Si se apartan otros de la senda,
+Sigue a Cristo, sigue a Cristo,
+Si acrecienta en toro la contienda
+Sigue a Cristo el Señor
+Sigue a Cristo, sigue a Cristo.
+
+{comment: 4}
+Cuandp llegue la final jornada,
+Confía en Cristo, confía en Cristo
+Te dará en el cielo franca entrada
+Confía en Cristo, el Señor,
+Confía en Cristo, confía en Cristo.

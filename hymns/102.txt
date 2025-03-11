@@ -1,0 +1,40 @@
+{title: Grato es decir la historia}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Grato es decir la historia
+Del celestial favor;
+De Cristo y de su gloria,
+De Cristo y de su amor,
+Me agrada referirla,
+Pues sé que es la verdad;
+Y nada satifasce
+Cual ella mi ansiedad.
+
+{comment: Coro}
+¡Cuán bella es esa historia!
+Mi tema allá en la gloria
+Será la antigua historia
+De Cristo y de su amor.
+
+{comment: 2}
+Grato es decir la historia
+Que brilla cual fanal,
+Y en glorias y portentos
+No reconoce igual:
+Me agrada referirla,
+Pues me hace mucho bien
+Por eso a ti deseo
+Decírtela también.
+
+{comment: 3}
+Grato es decir la historia,
+Que antigua, sin vejez,
+Parece repetirla
+Más dulce cada vez;
+Me agrada referirla,
+Pues hay quien nunca oyó
+Que para hacerle salvo
+El buen Jesús murió

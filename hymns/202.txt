@@ -1,0 +1,40 @@
+{title: Guerreros fieles}
+{title_en:}
+{source_lyrics:}
+{tone: D}
+
+{comment: 1}
+Guerreros fieles somos
+De Dios y la verdad,
+Llevamos por emblema:
+Virtud y Santidad:
+El mundo para Cristo
+Es nuestro noble fin
+Salgamos valerosos, pues,
+Ya suena el clarín.
+
+{comment: Coro}
+Sin vacilar ¡marchad! Soldados de Jesús,
+Y por la cruz luchad, armados de virtud,
+Sin descansar ¡Corred! las almas a salvar
+Los perdidos en maldad al Salvador llevar.
+
+{comment: 2}
+Las almas por millones
+Sin Dios ni salvación,
+Se lanza al abismo
+De eterna perdición:
+Aunque están sumidas
+En vicios y maldad,
+Jesús murió por rescatar
+Y darles libertad.
+
+{comment: 3}
+Las huestes enemigas,
+En orden ya están
+Sus tropas infernales
+Mandadas por Satán:
+Valor, pues, compañeros,
+Jesús con nos está;
+Aquel que nunca lid perdió.
+Victoria nos dará.

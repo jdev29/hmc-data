@@ -1,0 +1,31 @@
+{title: Soy yo soldado de Jesús}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Soy yo soldado de Jesús,
+Y siervo del Señor
+No temeré llevar su cruz,
+Sufriendo por su amor.
+
+{comment: CORO}
+Después de la batalla nos coronará,
+Dios nos coronará; Dios nos coronará;
+Después de la batalla nos coronará,
+En aquella santa Sión.
+Más allá, más llá, en aquella santa Sión,
+Después de la batalla nos coronará,
+En aquella santa Sión.
+
+{comment: 2}
+Lucharon otros por la fe;
+Cobarde no he de ser
+Por mi Señor yo lucharé,
+Confiando en su poder.
+
+{comment: 3}
+Es menester que sea fiel,
+Que nunca vuelva atrás,
+Que siempre me halle al lado de Él
+En lucha tan tenaz.

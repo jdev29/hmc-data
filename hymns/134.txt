@@ -1,0 +1,48 @@
+{title: Me busca a mí}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+El Rey de Gloria a la tierra bajó
+Pobre, humilde en pesebre nació,
+Hízolo todo de puro amor;
+Buscando al pecador.
+
+{comment: Coro}
+//Me busca a mí, a mí//
+Maravilloso en su grande amor
+Me busca a mí, a mí.
+
+{comment: 2}
+El Rey de Gloria clavado en la cruz,
+Trajo al mundo su fúlgida luz;
+Prueba infinita de ammor Él nos dio,
+En dura cruz murió.
+
+{comment: Coro}
+//Cristo murió por mí//.
+Toda mi culpa ha llevado en la Cruz,
+Cristo murió por mí.
+
+{comment: 3}
+El Rey de gloria, el mismo Jesús,
+Llama al errado al camino de luz
+Busca al perdido con ansias de amor
+¡Bendito Salvador!
+
+{comment: Coro}
+//Me llam a mí, a mí//.
+En tierna voz y profundo amor,
+Me llama a mí, a mí.
+
+{comment: 4}
+El Rey de Gloria muy pronto vendrá,
+Cada promesa cumpliéndose está,
+Todos los fieles con Él reinarán,
+Su gloria gozarán.
+
+{comment: Coro}
+//Viene por mí por mí//
+¡Oh! en las nubes veré a Jesús
+Viene por mí, por mí.

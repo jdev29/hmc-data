@@ -1,0 +1,34 @@
+{title: Dios os guarde}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Dios os guarde en su santo amor;
+Hasta el día en que lleguemos,
+A la patria donde estemos
+Para siempre con el Salvador.
+
+{comment: CORO}
+Al venir Jesús nos veremos,
+A los pies de nuestro Salvador.
+Reunidos todos seremos
+Una grey con nuestro buen Pastor.
+
+{comment: 2}
+Dios os guarde en su santo amor;
+En la senda peligrosa,
+De esta vida tormentosa,
+Os consrve en paz y sin temor.
+
+{comment: 3}
+Dios os guarde en su santo amor;
+Os conduzca su bandera;
+Y os esfuerce en gran manera
+Con su Espíritu Consolador.
+
+{comment: 4}
+Dios os guar en su santo amor;
+Con su gracia os sostenga
+Hasta que el Maestro venga,
+A fundar su reino en esplendor.

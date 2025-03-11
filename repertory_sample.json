@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Ayuno",
+    "hymns": [
+      {
+        "hymnId": 3,
+        "title": "Himno 3",
+        "categoryId": 5,
+        "orden": 1
+      },
+      {
+        "hymnId": 6,
+        "title": "Himno 6",
+        "categoryId": 7,
+        "orden": 2
+      }
+    ],
+    "orden": 1
+  },
+  {
+    "id": 2,
+    "title": "Vigilia unida",
+    "hymns": [
+      {
+        "hymnId": 6,
+        "title": "Himno 6",
+        "categoryId": 5,
+        "orden": 1
+      }
+    ],
+    "orden": 2
+  }
+]

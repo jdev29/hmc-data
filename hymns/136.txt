@@ -1,0 +1,34 @@
+{title: Me guia Él, con cuánto amor}
+{title_en:}
+{source_lyrics:}
+{tone: D}
+
+{comment: 1}
+Me guía Él, con cuánto amor
+Me guía siempre mi Señor;
+Al ver mi esfuerzo en serle fiel,
+Con cuánto amor me guía Él.
+
+{comment: Coro}
+Me guía Él, me guía Él,
+Con cuánto amor me guía Él
+No abrigo dudas ni temor,
+Pues me conduce el buen Pator.
+
+{comment: 2}
+En el abismo del dolor;
+O en donde brille el sol mejor,
+En dulce paz o en lucha cruel,
+Con gran bondad me guía Él.
+
+{comment: 3}
+Tu mano quiero yo tomar,
+Jesús, y nunca vacilar,
+Pues sólo a quien te sigue fiel
+Se oó decir: Me guía Él.
+
+{comment: 4}
+Y mi carrera al terminar,
+Y así mi triunfo realizar
+No habrá ni dudas ni temor
+Pues me giará mi buen Pastor.

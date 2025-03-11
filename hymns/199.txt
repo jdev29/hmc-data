@@ -1,0 +1,34 @@
+{title: Ven a mi corazón, oh Jesús}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Tú dejaste tu trono y corona por mí,
+Al venir a Belén a nacer:
+Mas a Ti no fue dado el entrar al mesón,
+Y en pesebre te hicieron nacer.
+
+{comment: Coro}
+Ven a mi corazón, ¡oh Cristo!
+Pues en el hay lugar para Ti,
+Ven a mi corazón, ¡oh Cristo! ven;
+Pues en el hay lugar para Ti.
+
+{comment: 2}
+Alabanzas celestes los ángeles dan
+En que rinden al verbo loor;
+Mas humilde viniste a la tierra, Señor
+A dar vida al más vil pecador.
+
+{comment: 3}
+Siempre pueden las zorras sus cuevas tener
+Y las aves sus nidos también
+Mas el Hijo del Hombre no tuvo un lugar
+En el cual reclinara su sien.
+
+{comment: 4}
+Alabanzas sublimes, los cielos darán
+Cuando vengas glorioso de allí,
+Y tu voz entre nubes dirá: Ven a Mí,
+Que hay lugar junto a Mí para ti.

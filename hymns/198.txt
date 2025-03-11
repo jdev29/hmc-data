@@ -1,0 +1,44 @@
+{title: A media noche en Bethlehem}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+
+{comment: 1}
+A media noche en Bethlehem
+De Dios la salvación
+Por ángeles se proclamó
+En celestial canción.
+En las alturas gloria a Dios
+El coro tributo;
+La paz y buena voluntad
+Al mundo pregonó.
+
+{comment: 2}
+El canto de los ángeles
+Hoy se oye resonar;
+El eco dulce encantador
+Alivia mi pesar.
+Y al escuhar con atención
+El mundo en derrededor,
+Divina paz recibirá
+De Cristo el Redentor.
+
+{comment: 3}
+Las almas que se encuentran hoy
+En medio de dolor:
+Solaz completo sentirán
+Buscando al Salvador.
+¡Oh que las nuevas del Señor
+Se extienden más y más!
+Que sepan todos que el señor
+Hoy brinda dulce paz.
+
+{comment: 4}
+Vosotros, llenos de temor
+Y enhiestos hoy que están,
+Y que agobiados de dolor
+Con paso lento van.
+Hoy descansad y contemplad
+La angélica visión;
+Alzad la vista y escuchad
+La célica canción.

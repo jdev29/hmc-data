@@ -1,0 +1,34 @@
+{title: El mundo perdido}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+El mundo perdido en pecado se vio;
+¡Jesús es la luz del mundo!
+Mas en las tinieblas la gloria brilló,
+¡Jesús es la luz del mundo!
+
+{comment: CORO}
+¡Ven a la luz; no quieras perder
+Gozo perfecto al amanecer!
+Yo ciego fui, mas ya puedo ver,
+¡Jesús es la luz del mundo!
+
+{comment: 2}
+En día la noche se cambia con Él,
+¡Jesús es la luz del mundo!
+Irás en la luz si a tu Rey eres fiel
+¡Jesús es la luz del mundo!
+
+{comment: 3}
+¡Oh ciegos y presos del lóbrego error!>
+Jesús es la luz del mundo!
+El manda lavaros y ver su fulgor!
+¡Jesús es la luz del mundo!
+
+{comment: 4}
+Ni soles ni lunas el cielo tendrá,
+¡Jesús es la luz del mundo!
+La luz de su rostro lo iluminará;
+¡Jesús es la luz eterna!

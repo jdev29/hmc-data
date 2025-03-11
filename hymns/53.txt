@@ -1,0 +1,34 @@
+{title: En la Cruz}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+En mis pecados fui a Jesús,
+Mostréle mi dolor;
+Perdido, errante, vi su luz,
+Bendíjome en su amor.
+
+{comment: CORO}
+En la cruz, en la cruz, do primero vi la luz
+Y de mi alma toda mancha lavé,
+Fue allé por fe do vi a Jesús,
+Y siempre feliz con Él seré.
+
+{comment: 2}
+Sobre una cruz mi buen Señor
+Su sangre derramó
+Por este pobre pecador
+a quie así salvó.
+
+{comment: 3}
+Venció la muerte con poder,
+Y al cielo Él ascendió;
+Confiar en Él es mi placer
+Morir no temo yo.
+
+{comment: 4}
+Aunque Él se fue solo no estoy,
+Mando al Consolador,
+Divino Espíritu, que hoy
+me da perfecto amor.

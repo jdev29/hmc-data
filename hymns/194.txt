@@ -1,0 +1,28 @@
+{title: Cristo resucitó}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+Ahí en la Cruz murió,
+Mi Jesucristo,
+¡Cuán gran dolor sufrió,
+Cristo el Señor!
+
+{comment: Coro}
+Cristo resucitó, Al poder maligno ya se venció,
+Entregó la tumba su cautivo real,
+Levantóse en triunfo sobre todo mal.
+¡Gloria a Dios! ¡Gloria a Dios! El Señor resucitó
+
+{comment: 2}
+Puesto en la tumba fue,
+Mi Jesucristo
+Resucitó por fe
+Cristo el Señor.
+
+{comment: 3}
+La muerte desligó,
+A Jesucristo,
+Las barras ya rompió
+Cristo el Señor.

@@ -1,0 +1,28 @@
+{title: La siembra}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Sembraré la simiente preciosa
+Del glorioso evangelio de amor
+Sembraré, sembraré mientras viva,
+Dejaré el resultado al Señor.
+
+{comment: CORO}
+Sembraré, sembraré,
+Mientras viva, simiente de amor;
+Segaré, segaré,
+Más allá en la mansión del Señor.
+
+{comment: 2}
+Sembraré en corazones sensibles
+la doctrina del Dios de perdón,
+Sembraré, sembraré mientras viva,
+Dejaré el resultado al Señor.
+
+{comment: 3}
+Sembraré en corazones de piedra
+La bendita palabra de Dios,
+Sembraré, sembraré mientras viva,
+Dejaré el resultado al Señor.

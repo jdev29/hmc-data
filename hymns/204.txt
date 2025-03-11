@@ -1,0 +1,34 @@
+{title: Amistad con Cristo}
+{title_en:}
+{source_lyrics:}
+{tone: D}
+
+{comment: 1}
+Que dicha inmensa, pues Jesús
+Nos brinda amistad;
+Queriéndonos al cielo guiar
+Salvados de maldad.
+
+{comment: Coro}
+Amistad con Cristo,
+Gloria del mortal,
+Oh, cuán grande es mi dicha,
+Cristo es mi Amigo leal.
+
+{comment: 2}
+Jesús es Cristo sin igual,
+Cuando otros falsos son;
+Y su presencia calma trae,
+En medio del trurbión.
+
+{comment: 3}
+Amigo es Cristo sin igual,
+En pruebas y en dolor;
+Y al llegar a mi final,
+Me sostendrá su amor.
+
+{comment: 4}
+Después de sostener con fe,
+La dura lid acá;
+Jesús será mi amigo aún,
+Y gloria me dará.

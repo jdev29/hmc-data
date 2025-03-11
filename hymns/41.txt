@@ -1,0 +1,34 @@
+{title: Sí, yo sé}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Pecador, sin esperanza,
+Jesucristo te ama a ti
+Cuando estaba yo perdido
+Mi Jesús salvóme a mí.
+
+{comment: CORO}
+Y yo sé, sí, yo sé
+Que la sangre de Jesús es eficaz;
+Que Jesús con su sangre
+Limpia al pecador más vil y pas le da.
+
+{comment: 2}
+Da poder al desmayado
+Por los montes le guiará
+Agua brinda en el desierto
+En la noche luz le da.
+
+{comment: 3}
+Cuando vienen tentaciones
+A tu lado Cristo está
+Al seguro albergue guía
+En las pruebas gracia da.
+
+{comment: 4}
+Te guiará hasta que llagares
+A la celestial ciudad.
+Donde eterna vida y dicha
+Gozarás por su bondad.

@@ -1,0 +1,28 @@
+{title: Mantened el faro ardiendo}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+
+{comment: 1}
+La merced de nuestro Padre
+Es un faro en su brillar,
+Él nos cuida y nos protege
+Con las luces de alta mar.
+
+{comment: Coro}
+¡Mantened el faro ardiendo!
+¡Arrojad su luz al mar!
+Algún alma pareciendo
+Con su luz podréis salvar.
+
+{comment: 2}
+Reina noche del pecado,
+Ruge airado y negro mar;
+Almas hay que van buscando
+Esas luces de alta mar.
+
+{comment: 3}
+Ten tu lámpara encendida;
+Que en la tempestad habrá
+Algún náufrago, perdido,
+Y tu luz le salvará.

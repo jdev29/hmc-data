@@ -1,0 +1,28 @@
+{title: Mi amor y vida}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Mi amor y vida doy a Ti,
+Oh Cristo que en la cruz por mí
+Vertiste sangre carmesí,
+Mi Dios y Salvador.
+
+{comment: Coro}
+Mi amor y vida a Ti te doy,
+A Ti, Jesús, conságrandome hoy,
+Mi Amor y vida a Ti te doy,
+Bendito Salvador.
+
+{comment: 2}
+Que Tú me salvas, esto sé:
+He puesto en Ti mi humilde fe;
+Feliz entonces viviré
+Contigo, mi Jesús.
+
+{comment: 3}
+Tú, que moriste en la cruz,
+Concédeme, Señor Jesús.
+Que ande en tu radiante luz,
+En santidad y amor.

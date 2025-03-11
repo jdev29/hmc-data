@@ -1,0 +1,34 @@
+{title: Soy feliz en el servicio del Señor}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+
+{comment: 1}
+Soy feliz en el servicio del Señor,
+Muy alegre, tan alegre;
+Tengo paz, contentamiento y amor
+En servir al Salvador.
+
+{comment: Coro}
+En servir al Salvador,
+En servirle con amor;
+¡Cuan alegre yo me siento,
+En servir a mi Señor!
+
+{comment: 2}
+Soy feliz en el servicio del Señor,
+Muy alegre, tan alegre;
+Hoy dedico mis talentos al Señor,
+Serviré al Salvador.
+
+{comment: 3}
+Soy feliz en el servicio del Señor,
+Muy alegre, tan alegre;
+En la lucha nunca faltará el valor,
+Que me da el Salvador.
+
+{comment: 4}
+Soy feliz en el servicio del Señor,
+Muy alegre, tan alegre;
+En la noche va conmigo el buen Pastor,
+Cuando sirvo al Salvador.

@@ -1,0 +1,40 @@
+{title: No lo hay}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+No hay cual Jesús otro fiel amigo
+No lo hay, no lo hay;
+Otro que puede salvar las almas,
+No lo hay, no lo hay.
+
+{comment: Coro}
+Conoce todas nuestras luchas
+Y sólo Él nos sostendrá;
+No hay cual Jesús otro fiel amigo,
+No lo hay, no lo hay.
+
+{comment: 2}
+No hay otro amigo tan santo y digno
+No lo hay, no lo hay;
+Pero a la vez es humilde y tierno.
+Otro no hay, no la hay.
+
+{comment: 3}
+No hay un instante que nos olvide
+No lo hay, no lo hay;
+Ni hay noche oscura que no nos cuide
+No hay, no la hay.
+
+{comment: 4}
+¿Cuándo es infiel el Pastor divino?
+Ni una vez, ni una vez;
+¿Cuándo rechaza a los pecadores?
+Ni una vez, ni una vez.
+
+{comment: 5}
+¿Hay otra dádia como Cristo?
+No la hay, no la hay;
+Ha prometido Él estar conmigo,
+Hasta el fin, hasta el fin.

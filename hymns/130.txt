@@ -1,0 +1,44 @@
+{title: Guíanos, Pastor divino}
+{title_en:}
+{source_lyrics:}
+{tone: E}
+
+{comment: 1}
+Guíanos Pastor Divino,
+Por la senda de salud:
+Eres Tú, el buen Camino
+Llénanos de tu virtud.
+Jesucristo, bondadoso,
+Nos compraste por tu amor
+Por tu sangre derramada
+Redimiste el pecador.
+
+{comment: 2}
+El pecado más oscuro
+Puedes Tú, Jesús, borrar,
+Y en conflicto cruel y duro,
+Sólo puedes Tú salvar.
+Jesucristo, fiel y amado,
+Príncipe de vida y paz,
+Al cordero extraviado
+A tu seno acogerás.
+
+{comment: 3}
+En las horas más dichosas
+Buscaremos tu favor,
+Y en las pruebas más penosas
+Nos amparás Señor.
+Jesucisto, manso y tierno
+Llénanos de gozo y paz;
+En tu seno de cariño
+Puede el alma hallar solaz.
+
+{comment: 4}
+Redimidos tuyos somos;
+Favorécenos Señor,
+Obedientes esperamos
+Tu venida, Buen Pastor,
+Jesucristo, amoroso,
+Guárdanos de tentación:
+En tu seno cariñoso
+Danos hoy tu protección.

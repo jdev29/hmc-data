@@ -1,0 +1,28 @@
+{title: Tal como soy}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Tal como soy... Sin más decir
+No puedo yo a otro ir,
+Y tú me invitas a venir,
+Bendito Cristo, acudo a Ti.
+
+{comment: 2}
+Tal como soy; sin demorar,
+Del mal queriéndome librar,
+Me puede sólo Tú salvar,
+Bendito Cristo, acudo a Ti.
+
+{comment: 3}
+Tal como soy, en aflicción,
+Expuesto a muerte y perdición.
+Buscando vida y perdón.
+Bendito Cristo, acudo a Ti.
+
+{comment: 4}
+Tal como soy; tu gran amor
+Me vence y hoy con grato ardor
+Servirte quiero, mi Señor;
+Bendito Cristo, acudo a Ti.

@@ -1,0 +1,34 @@
+{title: Puedo oír tu voz}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Puedo oír tu voz llamando,
+Con acentos cariñosos,
+Oigo si tu llamamiento:
+Trae tu cruz y ven en pos de mí.
+
+{comment: CORO}
+Seguiré do Tú mr guies
+Si tu mano me conduce:
+Salvador, seguirte quiero,
+Dondequiera fiel te seguiré.
+
+{comment: 2}
+Yo te seguiré en el huero,
+Y en la vía dolorosa:
+Yo con alma muy gozosa,
+Sufriré contigo, mi Jesús.
+
+{comment: 3}
+Sufriré por Ti Maestro
+Si tu gracia me sostiene:
+Y si fueres Tú conmigo
+Moriré contigo, mi Jesús.
+
+{comment: 4}
+Me darás tu gracia y gloria
+y me sostendrás por siempre,
+Cada día más te quiero
+Y por siempre Tú me guiarás,

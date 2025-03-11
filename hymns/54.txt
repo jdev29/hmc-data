@@ -1,0 +1,32 @@
+{title: A combatir}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+¡A combatir! Resuena la guerrera voz
+Del Rey Jesús que hoy llamando está:
+Sin desmayar seguidle siempre con valor
+Y pronto la victoria os dará.
+
+{comment: CORO}
+¡A la batalla! ¡Oh Cristiano!
+Con l bandera de la cruz;
+Sé fiel soldado, pues a tu lado
+Pelea el Príncipe Jesús;
+Él con su gracia te sostiene
+Y con potencial sin igual
+Su brazo extiende y te defiende
+En esta lucha contra el mal.
+
+{comment: 2}
+¡A combatir! Marchad con fiel resolución
+En pos de Cristo, nuestro Capitán,
+Henchido el corazón de varonil ardor
+A derrotar las huestes de Satán.
+
+{comment: 3}
+Al Rey de reyes nuesto Salvador Jesús
+Honor y gloria todas tributad,
+Pues yalos suyos gozan de su plenitud
+Y pronto reinará la santidad.

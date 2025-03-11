@@ -1,0 +1,28 @@
+{title: Jesús a cada niño}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Jesús a cada niño le da su bendición,
+Y les confiere a todos una feliz misión;
+Él quiere que brillemos cual astros de fulgor,
+En medios de las sombras que hay en derredor.
+
+{comment: Coro}
+Luz somos, alumbremos,
+En la oscuridad;
+Las sombras despejemos,
+Con nuestra claridad.
+
+{comment: 2}
+El sol podrá ocultarte tras negro nubarrón,
+Tendrá la vida penas y luto el corazón;
+Mas si los niños brillan, su grato resplandor,
+Es luz en las tinieblas, consuelo en el dolor.
+
+{comment: 3}
+Brillemos cada día cumpliendo la misión
+Llevemos paz y gozo, luz y consolación:
+Que huyan las tinieblas, pues, ¡Vive el buen Jesúa!
+Que somos gratos rayos de refulgente luz.

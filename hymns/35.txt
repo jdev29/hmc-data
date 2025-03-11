@@ -1,0 +1,30 @@
+{title: La llamada}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Un Amigo muy dulce y amante
+Hoy te llama con ansias de amor,
+Ven a mi te daré vida eterna
+En mansiones de eterno esplendor.
+
+{comment: CORO}
+No rechaces la voz tan amante,
+De Jesús tu benigno Señor
+A la paz y pureza Él te llama,
+Al Edén de celeste fulgor.
+
+{comment: 2}
+¡Cuántos hay cuya carga es pesada,
+Sólo hay llanto, dolor y pesar!
+Hoy escuchen tan dulce llamada
+Ven a mí, yo t haré descansar.
+
+{comment: 3}
+Aunque vivas aquí sin amarle,
+Ante el gran tribunal ¿qué será?
+Sólo Él puede darte esperanza,
+El que cree salvado será.
+
+

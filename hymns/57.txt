@@ -1,0 +1,36 @@
+{title: Cara a cara}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Yo anhelo ves tu rostro;
+Contemplarte en tu esplendor;
+En el cielo donde moras,
+Oh, Jesús, mi Salvador.
+
+{comment: CORO}
+Cara a cara nos veremos
+En el reino del amor,
+Y en coro cantaremos
+Alabanzas al Señor.
+
+{comment: 2}
+Vagamente ahora vemos
+Por la fe que Tú nos das,
+Más entonces te veremos
+En la gloria donde estás.
+
+{comment: 3}
+¡Oh, qué dicha tan inmensa
+Será verte, mi Jesús,
+Y gozar en tu presencia
+Con los ángeles en luz!
+
+{comment: 4}
+Cara a cara ¡Cuán glorioso
+Es pensar en día tal;
+Cuando alabarte pueda
+Con el coro angelical!
+
+

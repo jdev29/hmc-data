@@ -1,0 +1,34 @@
+{title: La gracia}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Un día no me encontraré
+En mi lugar en esta grey;
+Gozoso me despertaré
+En el palacio de mi Rey.
+
+{comment: Coro}
+Veré su rostro en dulce amor
+Y moraré con El allí;
+Exclamaré; ¡Mi Salvador!
+¡Por gracia rescatado fui!
+
+{comment: 2}
+No temeré la muerte atroz;
+Podrá venir; más esto se
+Que en gloria con mi tierno Dios
+Reposo perennal tendré.
+
+{comment: 3}
+Alguna vez yo como el sol
+Mi ocaso y fin tendré también
+Mas quiro oír su dulce voz
+Mi siervo fiel, conmigo ven.
+
+{comment: 4}
+El día alegre esperaré
+Con mi candil ardiendo ya,
+Lejano Edén yislumbraré
+y mi alma a Él con gozo irá.

@@ -1,0 +1,34 @@
+{title: Pronto vendrá Jesucristo}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Pronto vendrá Jesucristo
+En una nube del cielo,
+Para de todos ser visto,
+Lleno de gloria del reino.
+
+{comment: Coro}
+Ven Jesús, del cielo,
+Con poder y virtud.
+Para que mi alma
+Sea como Tú.
+
+{comment: 2}
+Pronto veremos el cielo
+Como un libro abrirse;
+Llenos de espanto y miedo
+Islas y montes huirse.
+
+{comment: 3}
+Delante del Rey de reyes
+Todos serán reunidos,
+Para entrar en su gloia,
+Los que por Él han vencido.
+
+{comment: 4}
+En las moradas del cielo,
+Con mi Jesús en la Gloria,
+Alabaré al Cordero
+Que me ha dado victoria.

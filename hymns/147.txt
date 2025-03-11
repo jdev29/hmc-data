@@ -1,0 +1,5 @@
+{title: Un día Cristo volverá}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+

@@ -1,0 +1,34 @@
+{title: Creo en la Biblia}
+{title_en:}
+{source_lyrics:}
+{tone: D}
+
+{comment: 1}
+Creo en la Biblia, el libro redentor,
+Pues de Jesucristo muestra el dulce amor;
+Todos mis pecados ya borrados son;
+Paz y gozo tengo en mi corazón.
+
+{comment: Coro}
+Creo en la Biblia, libro de mi Dios;
+Música del cielo, para mí, en su voz;
+Muéstrame el camino, y me trae dulce paz,
+Hallo en la Biblia todo mi solaz.
+
+{comment: 2}
+Creo en la Biblia, enséñame a cantar,
+Cantos de victoria, y de su amor sin par;
+Suaves melodías, tengo en mi alma hoy,
+Porque redimido por la sangre estoy.
+
+{comment: 3}
+En la santa Biblia encuentro santidad,
+Dádiva de Cristo, y su voluntad;
+Todos los que buscan plna salvación,
+Hallarán en Cristo esta bendición.
+
+{comment: 4}
+Hoy la Biblia oigamos, mostrando a los demás
+El amor de Cristo, y su inmensa paz;
+Pues la vida nuestra, libre de maldad,
+Honrará el divino libro de verdad.

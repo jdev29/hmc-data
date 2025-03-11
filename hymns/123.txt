@@ -1,0 +1,40 @@
+{title: Quiero ver mi patria}
+{title_en:}
+{source_lyrics:}
+{tone: Db}
+
+{comment: 1}
+Quiero ver a Jesucristo,
+Mi precioso Salvador,
+Quiero ver el alto cielo,
+Ver ek trono del Señor;
+Ver la faz de mi Maestro,
+Quien por mí sufrió en la cruz,
+Viviré en esa patria
+De eterno gozo y luz.
+
+{comment: Coro}
+Quiero ver aquella tierra,
+Donde reina eterno amor,
+Quiero estar en las, moradas,
+De Jesús, mi Salvador.
+
+{comment: 2}
+Quiero dar a Jesucristo,
+Sin reserva mi amor,
+Quiero ser un mensajero,
+Conduciendo aal pecador,
+A la cruz de Jesucristo
+Y a la patria celestial,
+Do podrá vivir por siempre
+Con el coro angelical.
+
+{comment: 3}
+Por la obra redentora,
+De Jesús, mi Salvador,
+Viviré por las edades,
+Do podré gozar su amor;
+Por la sangre del Cordero,
+Aunque indigno sé que soy,
+Con las huestes redimidas
+Loores al Señor yo doy.

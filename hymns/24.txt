@@ -1,0 +1,35 @@
+{title: Andando en la Cruz}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Vagaba yo en oscuridad
+Más cuando vi a Jesús,
+Por su Evangelio de verdad
+Me Amaneció la luz.
+
+{comment: CORO}
+Gozo y luz hay en mi alma hoy,
+Gozo y luz hay ya que salvo soy;
+Desde que a Jesús vi,
+Y a su lado fui,
+Siento el grande gozo de su amor en mí.
+
+{comment: 2}
+Las nubes y la tempestad
+No ocultan a Jesús.
+El mundo yace en su maldad.
+Mas ando yo en su luz.
+
+{comment: 3}
+Andando en la luz de Dios,
+Encuentro plena paz;
+Voy adelante sin temor
+Dejando el mundo atrás.
+
+{comment: 4}
+Veréle pronto tal cual es:
+Raudal de pura liz;
+y eternamente gozaré
+A Causa de su cruz.

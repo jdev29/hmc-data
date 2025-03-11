@@ -1,0 +1,28 @@
+{title: La gloriosa aparición}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Día de victoria y celestial fulgor,
+Cuando Cristo volverá:
+Qué glorioso encuentro con mi Salvador
+En las nubes Él vendrá.
+
+{comment: CORO}
+En las nubes Él vendrá:
+¡Oh, qué día aquel será!
+Cristo el Salvador muy pronto volverá,
+Y a los suyos llevará.
+
+{comment: 2}
+Día tan gozoso, día sin igual,
+Cuando Cristo volverá;
+De este mundo malo nos recogerá
+A su reino celestial.
+
+{comment: 3}
+Oye la trompeta que anunciando esá
+La venida del Señor,
+Ya no más dolores, ya no más afán,
+Reinarán la paz y amor.

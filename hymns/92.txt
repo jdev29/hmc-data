@@ -1,0 +1,28 @@
+{title: Es Jesús mi Salvador}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+En Jesús, mi Salvador
+Pongo mi confianza;
+Toda mi necesidad
+Suple en abundancia.
+
+{comment: CORO}
+En Jesús, mi Señor,
+Sea mi gloria eterna;
+Él me amó y me salvó,
+En su gracia tierna.
+
+{comment: 2}
+Cerca de mi buen Pastor
+Vivo cada día;
+Toda gracia en su Señor
+Halla el alma mía.
+
+{comment: 3}
+Guárdame, Señor Jesús,
+Para que no caiga:
+Como un sarmiento en la vid,
+Vida de Ti traiga.

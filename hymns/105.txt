@@ -1,0 +1,26 @@
+{title: En el mundo feliz}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Hay un mundo feliz más allá
+Donde moran los santos en luz,
+Tributando su eterno loor,
+Al invicto glorioso Jesús.
+
+{comment: Coro}
+//En el mundo feliz,
+Reinaremos con Nuestro Señor//.
+
+{comment: 2}
+Cantaremos en gozo a Jesús,
+Al Cordero que nos rescató,
+Y con sangre vertida en la cruz,
+Los pecadores del mundo quitó.
+
+{comment: 3}
+Para siempre en el mundo feliz,
+Con los santos daremos honor,
+Al invicto glorioso Jesús;
+A Jesús, nuestro Rey y Señor.

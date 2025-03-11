@@ -1,0 +1,45 @@
+{title: Cristo viene}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Cristo viene: Esto es cierto
+Porque así se halla escrito
+Siempre fiel a su promesa,
+Por los suyos ya regresa.
+¡Ved al Rey, ved al Señor!
+Trae aquellos que han dormido;
+Ni uno solo se ha perdido,
+Si vendrá. ¡Oh, sí vendrá!
+
+{comment: CORO}
+{comment: 2}
+El que en dura cruz muriendo,
+Dio su alma bendiciendo,
+Viene ya resplandeciente,
+En las nubes imponente,
+¡Ved al Rey, ved al Señor!
+¡Ved, pues, cómo viene en gloria
+Coronado de victoria!
+Sí, vendrá. ¡Oh, si vendrá!
+
+{comment: 3}
+Las espinas del despecho
+Rayos rojos se han hecho,
+Y la caña sé ha vuelto
+Regio cetro de imperio
+¡Ved al Rey, ved al Señor!
+Santos siguen luminosos,
+Y ángeles majestuosos,
+Sí, vendrá. ¡Oh, sí vendrá!
+
+{comment: 4}
+Ay de aquel que no haya ido
+A Jesús, ni ha recibido.
+Ropa santa, regalada
+Para bodas adornada
+¡Ved al Rey, ved al Señor!
+¡A su encuentro ve, oh esposa
+Es tu hora mas dichosa!
+Si, vendrá. ¡Oh, sí vendrá!

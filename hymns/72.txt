@@ -1,0 +1,40 @@
+{title: Hay quien vigile}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Hay quien vele mis pisadas,
+En la sombra y en la luz:
+Por las sendas escarpadas
+Velará por mí Jesús.
+Por los valles, por los montes,
+Do me lleva su bondad.
+Miro ya los horizontes
+De una nueva claridad.
+
+{comment: CORO}
+Hay quien vele mis pisadas,
+Y mi senda trazará;
+A las célicas moradas
+En Jesús quien me guiará.
+
+{comment: 2}
+Hay ontacto que me explica
+La presencia del Señor,
+En las penas santifica,
+Y me libra del temor
+Cristo con su mano herida
+Protección me puede dar,
+Cuando cruzo de la vida
+El inquieto y fiero mar.
+
+{comment: 3}
+Hay un corazón amante,
+De infinita compasión
+Que confiere paz constante
+Al contrario corazón.
+En su amor hay eficacia.
+El es un migo fiel,
+Hay en Él verdad y gracia
+Suyo soy y mío es El.

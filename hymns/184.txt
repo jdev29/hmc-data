@@ -1,0 +1,28 @@
+{title: Jesús llevó mis cargas}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Delante de mi Cristo, un pobre pecador,
+Me incliné clamando, perdón por su amor,
+Él escuchó mis ruegos, mis males me quitó;
+Llevó mis cargas Cristo, con cantos me llenó.
+
+{comment: Coro}
+Sí, El llevó mis cargas, no pude yo llevar,
+Sí El llevó mis cargas, según mi oración.
+El calma mis temores, mi alma Él salvó,
+Llevó mis cargas Cristo, con cantos me llenó.
+
+{comment: 2}
+A vecesm en mi senda, difícil es subir,
+La carga es pesada, no puedo caminar;
+Mas clamo a mi Cristo: Ayúdame Señor
+Y Él mi pena quita, y puedo yo cantar.
+
+{comment: 3}
+Yo siendo peregrino, Él sabe mi salir,
+Sus ojos miran siempre, Él puede entender,
+Y cuando a las regiones del cielo llegue yo
+De su amor y su gracia. con todos cantaré.

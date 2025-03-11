@@ -1,0 +1,34 @@
+{title: Hallé la fuente sin igual}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Por fe contemplo redención
+La fuente carmesí:
+Jesús mi amante Salvador
+Su vid dio por mí.
+
+{comment: Coro}
+Hallé la fuente sin igual
+De vida y luz el manantial;
+¡Oh gloria a Dios! me limpia a mí,
+Me limpia a mí, me limpia sí.
+
+{comment: 2}
+Mi vida entrego a mi Jesús,
+Las dudas ya se van:
+El hombre viejo muerto está
+En Cristo vivo ya.
+
+{comment: 3}
+¡Cuán inefable gozo da
+Saber que salvo soy!
+El trono del Señor Jesús,
+Mi corazón es hoy.
+
+{comment: 4}
+¡Oh graci excelsa de mi Dios,
+Profundo es el amor,
+De mi Jesús, mi buen Jesús,
+Cordero Redentor!

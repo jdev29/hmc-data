@@ -1,0 +1,40 @@
+{title: No te dé temor}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+No te dé temor hablar por Cristo,
+Haz que brille en ti su luz;
+Al que te salvó confiesa siempre,
+Todo debes Jesús.
+
+{comment: CORO}
+No te dé temor, no te dé temor
+Nunca, nunca, nunca,
+Es tu amante Salvador,
+Nunca, pues, te dé temor.
+
+{comment: 2}
+No te dé temor hacer por Cristo
+Cuando de tu pate está:
+Obra con amor, con fe y paciencia
+Tus trabajos premiará.
+
+{comment: 3}
+No te dé temor sufrir por Cristo
+Los reproches o el dolor:
+Sufre con amor tus pruebas todas,
+cual sufrió tu Salvador.
+
+{comment: 4}
+No te dé temor morir por Cristo,
+Esa vida que te da:
+Si tn sólo en Él por siempre fiares,
+Él con bien te sacará.
+
+{comment: 5}
+No te dé temor morir pot Cristo,
+La verdad y vida es Él
+Él te llevará con su ternura
+A su célico vergel.

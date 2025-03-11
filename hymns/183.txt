@@ -1,0 +1,34 @@
+{title: Marcharé}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+Marcharé en la luz de Dios.
+Marcharé, siempre marcharé,
+En las huellas del buen Jesús,
+Siempre marcharé.
+
+{comment: Coro}
+Vestido blanco yo tendré,
+Corona eterna ceñiré;
+Feliz allí podré gozar
+En el Edén sin par.
+
+{comment: 2}
+Marcharé con mi Guía fiel,
+Marcharé, siempre marcharé;
+Triunfaré, por la fe en Él,
+Siempre marcharé.
+
+{comment: 3}
+Marcharé almas a buscar,
+Marcharé, siempre marcharé;
+Los perdidos á rescatar,
+Siempre marcharé.
+
+{comment: 4}
+Por Jesús más que vencedor,
+Marcharé, siempre marcharé;
+Al hogar de mi Salvador,
+Siempre marcharé.

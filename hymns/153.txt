@@ -1,0 +1,28 @@
+{title: Esta Será gloria}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Cuando yo llegue el Edén celestial,
+Libre del mundo con todo su mal,
+Ver a Jesús ensalzado allí,
+Gloria suprema será para mí.
+
+{comment: Coro}
+Esta será gloria sin par,
+Gloria sin par, gloria sin par,
+Cuando por gracia su faz vea allá,
+Esa mi gloria suprema será.
+
+{comment: 2}
+Cuando por su incomparable amor
+Me halle cerca de mi Salvador,
+En cuya sangr lavado yo fui
+Gloria suprema será para mí.
+
+{comment: 3}
+Seres amados allá encontraré
+Reunión muy grata con ellas tendré;
+Más la sonrisa de Cristo allí
+Gloria suprema será para mí.

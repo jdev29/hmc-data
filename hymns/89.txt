@@ -1,0 +1,30 @@
+{title: ¡Oh excelsa gracia de amor!}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Por de en Jesús, el Salvador
+Se hace salvo el pecador;
+Sin merecer tan rico don
+Recibe plena salvación.
+
+{comment: CORO}
+¡Oh excelsa gracia del amor
+Que Dios perdona el pecador!
+Si hay voluntad de confesar
+Sus culpas y en Jesús confiar,
+No hay otro autor de salvación,
+Pues Cristo obró la redención.
+
+{comment: 2}
+La vida ntigua ya pasó,
+Y todo nuevo se tornó:
+Aquí cual peregrino es él,
+Mansión con Dios tendrá si es fiel.
+
+3
+Aun cuando él nada tenga aquí
+Su gran herencia tiene, sí,
+Arriba en gloria con Jesús,
+Que le ha salvado por su cruz.

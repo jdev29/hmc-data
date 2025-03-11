@@ -1,0 +1,40 @@
+{title: A Jesús mi vida entrego}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+A Jesús mi vida entrego
+Este mundo no amo más,
+Sus placeres nunca anhelo,
+Porque en Cristo encuentro paz,
+Aunque amigos me desprecien
+Y el mundo brinde su fulgor;
+En Jesús mi amigo firme
+Seré más que vencedor.
+
+{comment: Coro}
+La aurora resplandece
+De aquella celestial ciudad;
+Y mi alma se halle alegre
+De esperanza y claridad.
+
+{comment: 2}
+Cuando Cristo me llamare,
+Cuando el coro angelical
+Me conduzca por el valle
+Al descanso perennal;
+Confiaré en su promesa
+Que al alma infunde valor;
+A tu lado voy no temas;
+Seré Yo tu protector.
+
+{comment: 3}
+Más allá de la amargura.
+De la muerte más allá;
+Resplandece la hermosura
+De la patria perennal,
+En aquel Edén florido
+La dicha eterna reinará:
+Y los santos redimidos
+Para siempre gozarán.

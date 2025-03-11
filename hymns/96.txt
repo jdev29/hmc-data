@@ -1,0 +1,34 @@
+{title: ¡Santo! ¡Santo! ¡Santo!}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+¡Santo! ¡Santo! ¡Santo! Señor Omnipotente,
+Siempre el labio mio loores te dará;
+¡Santo! ¡Santo! ¡Santo! Te adoro reverente,
+Dios en tres personas, bendita Trinidad.
+
+{comment: 2}
+¡Santo! ¡Santo! ¡Santo! en numeroso coro
+Santos escogidos te adoran con fervor,
+De alegría llenos, y sus coronas de oro
+Rinden ante el trono glorioso del Señor.
+
+{comment: 3}
+¡Santo! ¡Santo! ¡Santo! la inmensa muchedumbre,
+De ángeles que cumplen tu santa voluntad,
+Ante Ti se postra bañada con tu lumbre,
+Ante Ti que has sido, que eres y serás.
+
+{comment: 4}
+¡Santo! ¡Santo! ¡Santo! por más que estés velado
+E imposible sea tu gloria contemplar,
+Santo Tú eres solo, y nada hay a tu lado,
+En poder perfecto, pureza y caridad.
+
+{comment: 5}
+¡Santo! ¡Santo! ¡Santo! la gloria de tu nombre
+Vemos en tus obras, en cielo, tierra y mar,
+¡Santo! ¡Santo! ¡Santo! Te adore todo hombre,
+Dios en tres personas, bendita Trinidad.

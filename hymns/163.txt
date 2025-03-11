@@ -1,0 +1,34 @@
+{title: Canta, oh buen cristiano}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Canta, uh buen cristiano,
+Dulce será cantar,
+Hace el camino llano
+Libra del pesar.
+Canta en las noches tristes,
+Canta en el sol y en luz,
+El mal así resistes,
+Canta de Jesús.
+
+{comment: 2}
+Canta, oh buen cristiano,
+Templa tu corazón,
+Alza a tu Soberano,
+Tu feliz canción.
+Siempre está lleno el mundo,
+De endechas y dolor,
+Canta el amor profundo
+De tu salvador.
+
+{comment: 3}
+Canta, oh buen cristiano,
+Dios tu socorro es;
+Él sostendrá tu mano,
+Hasta la vejez,
+¿Sabes que al diablo invitas,
+Cuando medroso estás?
+Dios quitará tus cuitas,
+Si cantando vas.

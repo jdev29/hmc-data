@@ -1,0 +1,25 @@
+{title: Te quiero, mi Señor}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+¡Te quiero, mi Señor! habita en mí,
+Y vencedor seré confiando en Ti.
+
+{comment: CORO}
+Te quiero, sí. Te quiero,
+Siempre a Ti te anhelo;
+Bendíceme ahora, acudo a Ti.
+
+{comment: 2}
+Te quiero, buen Jesús, Mi Salvador!
+Oh, hazme en verdad tu servidor.
+
+{comment: 3}
+Tu voluntad, Señor, enséñame;
+Y de tu gran amor, ¡Oh! cólmame.
+
+{comment: 4}
+Oh, mi gran Bienhechor, en tentación
+Concédeme virtud y protección.

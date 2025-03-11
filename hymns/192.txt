@@ -1,0 +1,34 @@
+{title: No puedo estar solo}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Alguien va conmigo de la vida en el correr,
+A cada momento dándome de su poder;
+¿Podré hallarme solo en la comunión y amor,
+Como es la de mi Señor?
+
+{comment: Coro}
+¿Puedo yo estar solo si Jesús me guía
+Cuál mi compañero y mi Director?
+¿Puedo yo estar triste yendo cada día
+Siempre al lado del Señor?
+
+{comment: 2}
+Mientras yo camino pruebas, cargas hallaré.
+Mas Jesús muy cerca está; su ayuda yo tendré;
+En mi vida encuentro cruces, pérdidas doquier
+Mas Jesús me hará vencer.
+
+{comment: 3}
+En las amarguras o en las horas del dolor,
+La consolación encuentro al lado del Señor.
+Mis ayer y pruebas transformadas son por Él
+Si hablo y ando yo con Éñ.
+
+{comment: 4}
+Cuando de mi vida en la mañana tenga luz.
+O al cenit me encuentre con pesada y cruenta cruz;
+O cuando en la noche sombras nublen ya mi ser,
+Siempre a Cristo podré ver.

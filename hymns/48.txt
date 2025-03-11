@@ -1,0 +1,34 @@
+{title: ¿Eres limpio en la sangre?}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+¿Has hallado en Cristo plena salvación?
+¿Eres limpio en su sangre eficaz?
+Toda mancha lava de tu corazón,
+¿Eres limpio en su sangre eficaz?
+
+{comment: CORO}
+¿Eres limpio en la sangre
+En la sangre de Cristo Jesús?
+¿Es tu corazón más blanco que la nieve?
+¿Eres limpio en la sangre eficaz?
+
+{comment: 2}
+¿Vives siempre al lado de tu Salvador?
+¿Eres limpio en la sangre eficaz?
+¿Del pecado eres siempre vencedor?
+¿Eres limpio en la sangre eficaz?
+
+{comment: 3}
+¿Tendrás ropa blanca al venir Jesús?
+¿Eres limpio en la sangre eficaz?
+¿Estás listo para la mansión de luz?
+¿Eres limpio en la sangre eficaz?
+
+{comment: 4}
+Cristo ofrece hoy pureza y poder,
+Sé lavado en su sangre eficaz:
+Esta fuente es la que limpiará tu ser,
+Oh acude su sangre eficaz.

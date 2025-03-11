@@ -1,0 +1,34 @@
+{title: Despliegue el cristiano}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Despliegue el cristiano su santa bandera,
+Y muéstrela ufano del mundo a la faz;
+¡Soldados valientes! el triunfo os espera;
+Seguid vuestra lucha constante y tenaz.
+
+{comment: CORO}
+Cristo nos guía, es nuestro Jefe,
+Y con nosotros siempre estará;
+Nada temamos, Él nos alienta,
+Y a la victoria llevarnos pondrá.
+
+{comment: 2}
+Despliegue el cristiano su santa bandera,
+Domine baluartes y almenas a mil;
+La Biblia bendita conquiste doquiera,
+Y ante ella se incline la turba gentil.
+
+{comment: 3}
+Despliegue el cristiano su santa bandera,
+Predique a los pueblos el libro inmortal.
+Presente a los hombres la luz verdadera,
+Que vierte este claro, luciente fanal.
+
+{comment: 5}
+Despliegue el Cristiano su santa bandera,
+Y muéstrese bravo, batiéndose fiel,
+Para él no habrá fosos, para él no hay barrera
+Que lucha a su lado el divino Emmanuel.

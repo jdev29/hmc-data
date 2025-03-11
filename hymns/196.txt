@@ -1,0 +1,28 @@
+{title: ¡Noche de paz!}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+¡Noche de paz, noche de amor!
+Todo duerme en derredor,
+Entre los astros que esparcen su luz,
+Bella anunciando al niñito Jesús.
+Brilla la estrella de paz,
+Brilla la estrella de paz.
+
+{comment: 2}
+¡Noche de paz, noche de amor!
+Oye humilde el fiel pastor,
+Coros celestes que anuncian salud,
+Gracias y glorias en gran plenitud,
+Por nuestro buen Redentor,
+Por nuestro buen Redentor.
+
+{comment: 3}
+¡Noche de paz, noche de amor!
+Ved qué bello resplandor
+Luce en el rostro del Niño Jesús,
+En el pesebre, del mundo la luz,
+Astro de eterno fulgor,
+Astro de eterno fulgor.

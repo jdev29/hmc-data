@@ -1,0 +1,34 @@
+{title: Cerca de ti Señor}
+{title_en: Nearer, My God, to Thee}
+{source_lyrics: H.G. 16}
+{tone: G}
+
+{comment: 1}
+Cerca de Ti, Señor,
+Quiero morar;
+Tu grande y tierno amor
+Quiero gozar.
+Llena mi pobre ser,
+Limpia mi corazón,
+Hazme tu rostro ver
+En comunión.
+
+{comment: 2}
+Pasos inciertos doy,
+El sol se va;
+Mas si contigo estoy,
+No temo ya.
+Himnos de gratitud
+Ferviente cantaré.
+Y fiel a Ti, Jesús,
+Siempre seré.
+
+{comment: 3}
+Día feliz veré
+Creyendo en Ti,
+En que yo habitaré,
+Cerca de Ti.
+Mi voz alabará,
+Tu dulce nombre allí,
+Y mi alma gozará,
+Cerca de Ti.

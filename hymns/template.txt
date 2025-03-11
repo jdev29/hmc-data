@@ -1,0 +1,27 @@
+{title: Title}
+{title_en: Title}
+{source_lyrics: Ll. B. 5; C.T. 15}
+{autor: Autor}
+{tone: C} - {metrics: 4/4} - {bpm: 80}
+
+{comment: Intro}
+
+[D]  [G]  [A]
+
+{comment: 1}
+[D]Dad al Padre toda gl[G]oria,
+Dad al Hijo todo honor;
+Y al [A/C#]Espíritu Divino,
+[E]Alabanzas de loor.
+
+{comment: Coro}
+Adoradle, adoradle.
+Adorad al Salvador;
+Tributadle toda gloria,
+Pueblo suyo por su grande amor.
+
+{comment: 2}
+Adoradle, oh Iglesia
+Redimida por Jesús.
+Rescatada por su gracia,
+Guiada por su amor y Luz.

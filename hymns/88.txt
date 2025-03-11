@@ -1,0 +1,34 @@
+{title: ¡Oh, cuánto amo a Cristo!}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Es Cristo quien por mí murió
+Mis culpas por borrar;
+¡Cuán grandes penas El sufrió,
+Muriendo en mi lugar!
+
+{comment: CORO}
+¡Oh, cuanto amo a Cristo!,
+¡Oh, cuanto amo a Cristo!,
+¡Oh, cuanto amo a Cristo!
+Porque antes Él me amó.
+
+{comment: 2}
+¡Oh, yo jamás podré pagar
+La deuda de su amor!
+Acudo a Ti, mi Salvador,
+Recíbime, Señor.
+
+{comment: 3}
+Jesús su sangre derramó,
+El Rey por mí murió;
+Por mí, por cuanto El me amó
+Mi iniquidad limpió.
+
+{comment: 4}
+Vivir con Cristo es gozo y paz,
+Con Él habitaré
+Pues suyo soy, y ya jamás
+A nadie temeré.

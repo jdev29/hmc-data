@@ -1,0 +1,34 @@
+{title: ¡Oh Dios, visítanos!}
+{title_en:}
+{source_lyrics:}
+{tone: Fb}
+
+{comment: 1}
+¡Oh, Dios visítanos, no tardes!
+Mándanos, ¡oh, Señor! tu poder.
+Venimos hoy a tus altares,
+Manifiesta, ¡oh, Señor! tu poder.
+Es tu promesa, Salvador,
+Darnos el gran Consolador,
+Que nos dará mayor fervor;
+Sí, demuestra ¡oh, Señor! tu poder.
+
+{comment: 2}
+Dios de Elías, te pedimos,
+Que reveles hoy tu gran poder;
+Que sepa el mundo que servimos,
+Al Dios vivo de gracia y poder;
+Sí, quítanos toda maldad.
+Impártenos tu santidad,
+Y guárdanos en libertad,
+Sí, demuestra, ¡oh, Señor! tu poder.
+
+{comment: 3}
+Avívanos, Señor, escucha,
+Manifiesta, ¡oh, Señor! tu poder;
+El ánimo y fe levanta,
+Ejercita, ¡oh, Señor! tu poder;
+Inflama nuestro corazón,
+Concédenos más compasión,
+Gocemos dulce comunión,
+Sí, demuestra, ¡oh, Señor! tu poder.

@@ -1,0 +1,28 @@
+{title: Cristo vive}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+
+{comment: 1}
+Resucitó triunfante, Jesús mi Salvador,
+Ya vive el Rey glorioso, del mundo Redentor,
+Su dulce voz escucho, conmigo siempre va;
+Palpar su mano puedo; muy cerca está.
+
+{comment: Coro}
+¡Él vive ya! ¡Triunfane vive ya!
+El victorioso Salvador conmigo siempre va.
+¡Él vive ya! ¡Sí, Cristo vive aquí!
+¡Yo sé que Cristo vive en mí, yo sé que vive en mí.
+
+{comment: 2}
+En todo el mundo brota su amor y su poder,
+Su gran misericordia me sigue por doquier;
+Cual buen pastor me guía, feliz yo vivo aquí,
+Pues siento su presencia, Él vive en mí.
+
+{comment: 3}
+¡Cantad, cantad, Cristianos! Con alma y voz cantad,
+A Cristo, Rey de gloria, con júbilo aclamad;
+El nos ha prometido que al mundo volverá,
+El día ya se acerca, Jesús vendrá.

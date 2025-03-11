@@ -1,0 +1,34 @@
+{title: En un aposento alto}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+En un aposento alto,
+Con un anánime fervor
+Cierto veinte esperaban
+La promesa del Señor.
+
+{comment: Coro}
+Dios, manda tu gran poder,
+Dios, manda tu gran poder,
+Dios, manda tu gran poder,
+A cada corazón.
+
+{comment: 2}
+Con estruendo de los cielos
+Descendió la gran virtud;
+Todos fueron bautizados
+Con el Santo Espíriru.
+
+{comment: 3}
+Este celestial bautismo
+Es de nuestro Dios el don
+Prometido a los creyentes
+De humilde corazón.
+
+{comment: 4}
+Dios está restituyendo
+Este gran Pentecostés,
+Y el Espíritu sus dones
+Hoy reparte otra vez.

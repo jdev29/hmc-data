@@ -1,0 +1,34 @@
+{title: Cada momento}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Cristo me ayuda por Él a vivir,
+Cristo me ayuda por Él a morir;
+Hasta que llegue su gloria a ver,
+Cada momento le entrego mi ser.
+
+{comment: Coro}
+Cada momento la vida me da
+Cada momento conmiho Él está;
+Hasta que llegue su gloia a ver,
+Cada momento le entrego mi ser.
+
+{comment: 2}
+Siento pesares, muy cerca estás,
+Siento dolores, alivio me das;
+Tengo aflicciones, me muestras tu amor;
+Cada momento me cuida, Señor.
+
+{comment: 3}
+Tengo amarguras o tengo temor,
+Tengo tristezas, me inspiras valor;
+Tengo conflictos o penas aquí,
+Cada momento te acuerdad de mí.
+
+{comment: 4}
+Tengo flaquezas o débil estoy,
+Cristo me dice: Tu amparo Yo soy;
+Cada momento, en tinieblas o en luz,
+Siempre conmigo está mi Jesús.

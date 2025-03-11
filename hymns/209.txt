@@ -1,0 +1,28 @@
+{title: Yo canto a Cristo}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Mi alegre canto a Cristo elevo yo
+Y mi encanto está en su amor,
+Y así rendido le doy adoración,
+Porque es mi amigo fiel y mi Señor.
+
+{comment: Coro}
+Mi alegre canto a Crito elevo yo,
+Y mi encanto es darle todo;
+Mi alegre canto a Cristo elevo yo,
+Porque Él merece mi adoración.
+
+{comment: 2}
+Mi alegre canto yo doy a mi Creador,
+Y por lo tanto quiero servir;
+Mi Cristo Santo me quiero a Ti rendir,
+Y que a tus plantas yo puda vivir.
+
+{comment: 3}
+Mi alegre canto que arranca mi laúd:
+Calma mi llanto, me da quietud,
+Ahora anhelo volar a tu amor,
+Y esconderme allí oh buen Señor.

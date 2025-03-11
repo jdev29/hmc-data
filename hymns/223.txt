@@ -1,0 +1,34 @@
+{title: Cristo ha nacido}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Un hermoso pequeñuelo
+Acaba de nacer;
+Tan bello es que arrobados
+Los ángeles lo ven.
+
+{comment: Coro}
+¡Hosanna! ¡Hosanna!
+Cristo ha nacido en Belén.
+¡Hosanna! ¡Hosanna!
+El prometido Emmanuel.
+
+{comment: 2}
+Cantos celestiales oyen
+Pastores de Belén
+Ángeles son que celebran
+La Navidad del Rey.
+
+{comment: 3}
+Magos del Oriente vienen
+Sus donde ofrecer
+Oro, incieso y mirra ponen
+Humildes a sus pies.
+
+{comment: 4}
+No tengo oro ni riquezas
+Que darle al niño Rey
+Sólo un corazón de niño
+Que lo ama y cree en él.

@@ -1,0 +1,22 @@
+{title: Aunque soy pequeñuelo}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+
+{comment: 1}
+Aunque soy pequñuelo,
+Me mira el Santo Dios,
+Él oye desde el cielo
+Mi humilde y tierna voz.
+
+{comment: 2}
+Me ve de su alto asiento,
+Mi nombre sabe, sí,
+Y cuando pienso y siento.
+Conoce desde allí.
+
+{comment: 3}
+Él mira a cada instante
+Lo que hago, bien o mal,
+Pues todo está delante
+De su ojo paternal.

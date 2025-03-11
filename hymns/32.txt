@@ -1,0 +1,39 @@
+{title: Gloria a Jesús}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+
+{comment: 1}
+Oh, jamás nos cansaremos de la gran canción;
+¡Gloria a Jesús! ¡Aleluya!
+Por la fe la cantaremos con el corazón;
+¡Gloria a Jesús! ¡Aleluya!
+
+
+{comment: CORO}
+A los hijos del Señor pertenece el cantar,
+Pues vendrá el Salador y nos arrebatará
+Del palacio celestial gozaremos más allá
+¡Gloria a Jesús! ¡Aleluya!
+
+
+{comment: 2}
+Oh, la indecible gloria del divino amor,
+¡Gloria a Jesús! ¡Aleluya!
+Que en sus alas lleva el alma donde su Señor,
+¡Gloria a Jesús! ¡Aleluya!
+
+
+{comment: 3}
+¡Cuán hermosos son los ángeles morando en luz!
+¡Gloria a Jesús! ¡Aleluya!
+Que en sus alas lleva el alma donde su Señor,
+¡Gloria a Jesús! ¡Aleluya!
+
+
+{comment: 4}
+Coronados en el cielo con el Salvador.
+¡Glori a Jesús! ¡Aleluya!
+Cantaremos para siempre del divino amor
+¡Gloria a Jesús! ¡Aleluya!

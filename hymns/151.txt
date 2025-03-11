@@ -1,0 +1,34 @@
+{title: Escucha pobre pecador}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Escucha, pobre pecador,
+En Cristo hay perdón;
+¡Oh ven a El, y creer en El!
+Te ofrece salvación.
+
+{comment: Coro}
+Ven a Cristo, ven a Cristo,
+Ven a Emmanuel;
+Y la vida, vida eterna,
+Hallarás en El.
+
+{comment: 2}
+Por redimirme el Salvador,
+Su sangre derramó;
+Sobre su Cruz, su muerte cruel,
+Tu redención obró.
+
+{comment: 3}
+Camino cierto es Jesús,
+Qu lleva a la paz,
+Oh, ven a Él y cree en Él;
+Descanso hallarás.
+
+{comment: 4}
+Ven con el santo pueblo fiel
+dejando todo mal;
+Así la paz de Dios tendrás,
+Y glotia inmortal.

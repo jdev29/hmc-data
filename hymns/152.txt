@@ -1,0 +1,43 @@
+{title: Habla, Jesús conmigo}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+Habla, Jesús, conmigo,
+Háblame en dulce amor,
+Eres mi fiel amigo,
+Y cerca estás Señor,
+Háblame con ternura;
+Paz en mi alma pon,
+Y con tus alabanzas
+Llena mi corazón.
+
+{comment: Coro}
+Habla, Jesús, conmigo,
+Háblame de tu amor,
+Y del pecado siempre
+Hazme ser vencedor.
+Háblame cada día,
+Que tú muy cerca estás
+Y a los que en ti confían,
+Gracia y victoria das.
+
+{comment: 2}
+Habla a los hijos tuyos;
+Guínos con piedad,
+Llénanos de maldad.
+Seamos consagrados
+Eternamente a Ti.
+Y al venir por los tuyos
+Nos llevarás de aquí.
+
+{comment: 3}
+Como en el tiempo antiguo;
+Habla hoy con poder
+Y los deberes nuestros,
+Danos a entender
+Yo al hablar contigo,
+Siempre feliz seré,
+Y allá en tu santa gloria
+Contigo moraré.

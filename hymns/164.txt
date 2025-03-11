@@ -1,0 +1,44 @@
+{title: Lejos allende los mares}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+Lejos allende los mares,
+Tengo mi dulce hogar,
+Veo a través de la niebla
+Su eterna luz brillar,
+Tengo fijado mi rumbo,
+Aunque luchando voy;
+Es tempestuoso el curso.
+Mas yo seguro estoy.
+
+{comment: Coro}
+Sión, hermosa ciudad,
+Donde mi hogar tendré
+Vida eterna sin par
+Con Cristo gozaré,
+Santos gozan allá,
+Con ellos moraré;
+No hay tristeza
+Ni más la muerte en mi hogar.
+
+{comment: 2}
+Sobre el extenso abismo
+Ruge la tempestad
+Olas guerreantes y rocas
+Llenan de ansiedad;
+Mas en la cuarta vigilia,
+Andando sobre el mar
+Cristo bendito se acerca
+Yo soy no temas más
+
+{comment: 3}
+En la presencia de Cristo
+Gozoso adoraré,
+Pasado todo conflicto,
+Corona alcanzaré
+Con los benditos y fieles
+Por siempre a descansar
+Mi alma uniráse con ellos
+Cristo en elsalzar.

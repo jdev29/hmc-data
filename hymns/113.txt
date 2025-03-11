@@ -1,0 +1,26 @@
+{title: Voy al cielo}
+{title_en:}
+{source_lyrics:}
+{tone: G}
+
+{comment: 1}
+Voy al cielo soy peregrino,
+A vivir eternamente con Jesús,
+Él nos abrió ya el real camino
+Al expirar por nosotros en la cruz.
+
+{comment: Coro}
+Voy al cielo, soy peregrino,
+A vivir eternamente con Jesús.
+
+{comment: 2}
+Duelo, muerte, ni amarga pena,
+Nunca, nunca habremos de sufrir allá;
+Gloriosa vida de gozo llena
+El alma mía sin fin disfrutará,
+
+{comment: 3}
+Patria santa, hermosa y pura;
+Entraré en tu dicha salvo por Jesús
+Y gozaré siempre la ventura.
+Con él viviendo en resplanceciente luz.

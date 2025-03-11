@@ -1,0 +1,5 @@
+{title: Cristo ayer y hoy el mismo}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+

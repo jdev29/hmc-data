@@ -1,0 +1,34 @@
+{title: Soy el hijo de un Rey}
+{title_en:}
+{source_lyrics:}
+{tone: Eb}
+
+{comment: 1}
+Mi padre es un Rey muy rico sin par,
+Él tiene caudales inmensos doquier;
+Su oro y diamantes no puede contar,
+Tesoros que nadie podrá contener.
+
+{comment: Coro}
+Soy el hijo de un Rey,
+El hijo de un Rey;
+Con Cristo bendito
+Soy el hijjo de un Rey.
+
+{comment: 2}
+El hijo de Dios, mi buen Salvador,
+Al mundo viniendo muy pobre vivió;
+Hoy reina en la gloria cubierto de honor
+Y hogar en los cielos con Dios me ofreció.
+
+{comment: 3}
+Errante viví sin patria ni hogar,
+Un vil extranjero sin Dios y sin fe;
+Mas Cristo bendito me quiso adoptar,
+Corona y mansión en los cielos tendré.
+
+{comment: 4}
+¡Qué importa que yo no tenga mi hogar!
+¡Yo tengo un palacio del sol más allá!
+Y mientras que llegue, yo puedo cantar,
+¡Soy hijo de un Rey, aleluya a Jehová!

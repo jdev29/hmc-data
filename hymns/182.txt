@@ -1,0 +1,33 @@
+{title: Vengo, Jesús, a ti}
+{title_en:}
+{source_lyrics:}
+{tone: A}
+
+{comment: 1}
+De mis prisiones noche y dolor,
+Vengo Jesús, vengo a Ti;
+Oh, infinito Libertador,
+De enfermedades a tu salud,
+De mi flaqueza a la gloria y virtud
+De mis pecados a tu salud,
+Vengo Jesús a Ti.
+
+{comment: 2}
+De mi verguenza, de perdición,
+Vengo Jesús, vengo a Ti;
+Sólo en la cruz encuentro perdón,
+Cristo, acudo a Ti.
+De mi vileza a tu santidad.
+De la tormenta a la tranquilidad,
+Por mi temor, tu benignidad,
+Vengo Jesús a Ti.
+
+{comment: 3}
+No temeré la muerte jamás,
+Vengo Jesús, vengo a Ti;
+Siempre a gozar dulcísima paz,
+Cristo acudo a Ti.
+De la indecible ruina infernal,
+A la gloriosa vida erernal,
+A tu mansión de amor celestial,
+Vengo Jesús a Ti.

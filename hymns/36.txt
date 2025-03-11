@@ -1,0 +1,40 @@
+{title: Entera consagración}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Que mi vida entera esté
+Consagrada a Ti Señor,
+Que a mis manos pueda guiar
+El impulso de tu amor.
+
+{comment: CORO}
+¡Lávame en tu sangre, Salvador,
+Limpiame de toda mi maldad,
+Traigo a Ti mi vida; quiero ser, Señor
+Tuyo por la eternidad!
+
+{comment: 2}
+Que mis pies tan sólo en pos
+De lo santo puedan ir,
+Y que a ti, Señor, mi voz
+Se complazca en bendecir.
+
+{comment: 3}
+Qué mi tiempo todo esté
+Consagrado a tu loor
+Que mis labios al hablar
+Hablen sólo de tu amor.
+
+{comment: 4}
+Toma, oh Dios, mi volutad,
+Y hazla tuya, nada más;
+Tom, sí, mi corazón,
+Por tu trino lo tendrás.
+
+{comment: 5}
+Toma Tú mi amor, que hoy
+A tus pies vengo a poner;
+¡Toma todo lo que soy,
+Todo tuyo quiero ser!

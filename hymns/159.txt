@@ -1,0 +1,28 @@
+{title: La senda es muy estrecha}
+{title_en:}
+{source_lyrics:}
+{tone: Ab}
+
+{comment: 1}
+Hoy no es mi vida como antes fue
+Borrado el pecado está:
+Hoy canto feliz. ¡Aleluya!
+Y voy feliz al dulce hogar.
+
+{comment: Coro}
+La senda es muy estrecha
+Más la sigo, la sigo, la sigo.
+La senda es muy estrecha mas la sigo,
+Yo las sigo por las huellas de Jesús.
+
+{comment: 2}
+Mi vida fue cruel desilusión,
+Ni amigo constante hallé;
+Más luz y muy grato consuelo,
+Hallé en mi buen Salvador.
+
+{comment: 3}
+Ya no más luto ni cruel pesar,
+Cual nubes huyeron ya,
+Al cielo yo miro gozoso
+Do hay gloria, gloria sin fin.

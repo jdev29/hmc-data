@@ -1,0 +1,28 @@
+{title: Jamás me dejará}
+{title_en:}
+{source_lyrics:}
+{tone: C}
+
+{comment: 1}
+Yo vi espantosos rayos, los truenos oí rugir;
+Las olas me amenazaron, el alma a combatir.
+Oí la voz de Cristo, diciendo: Anda por fe.
+Me dio su fiel palabra: Jamás te dejaré.
+
+{comment: Coro}
+No, nunca me deja, jamás me dejará;
+Conforme a su promesa conmigo siempre está,
+No, nunca me deja, jamás me dejará;
+Confiando en su palabra, mi alma alegre está.
+
+{comment: 2}
+Hay vientos tan feroces: Severa tetación;
+Tan dulce paz encuentro; me da su protección
+Me guarda del peligro, si abandonado estoy;
+Me dio su fiel promesa, con Él al Cielo voy.
+
+{comment: 3}
+Por mí murió en el Calvario, por mí herido fue.
+Por mí abrió la fuente de salvación por fe.
+Me espera ahora en la Gloria sentado en majestad
+Me dio su fiel promesa jamás me dejará.

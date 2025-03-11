@@ -1,0 +1,34 @@
+{title: Él viene en gloria}
+{title_en: }
+{source_lyrics: }
+{tone: Bb}
+
+{comment: 1}
+Oh, proclamad con alegría;
+Jesús viene en gloria.
+De noche o bien en pleno día
+Del cielo el Rey descenderá.
+
+{comment: CORO}
+Oh, anuncia la historia:
+El Salvador en plena gloria,
+En triunfo y victoria,
+Al mundo pronto volverá.
+
+{comment: 2}
+Velad y orad con esperanza,
+Jesús viene en gloria.
+Señor tu pueblo no descansa,
+Velando en fe te aguardará.
+
+{comment: 3}
+Mirad que fiel a su promesa;
+Jesús viene en gloria.
+Que no te coja de sorpresa
+Pues de repente volverá.
+
+{comment: 4}
+Oh, dad al Rey la bienvenida
+Jesús viene en gloria.
+Quien tenga lámpara encendida,
+A regias bodas entrará.

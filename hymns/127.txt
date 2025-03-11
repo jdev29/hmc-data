@@ -1,0 +1,34 @@
+{title: Seamos fieles}
+{title_en:}
+{source_lyrics:}
+{tone: F}
+
+{comment: 1}
+Seamos fieles nosotros los hermanos
+Trabajando en la obra celestial;
+Nuestras luchas alcanzarán victoria,
+La bandera jamás hemos de arriar.
+
+{comment: Coro}
+Algún día veremos los hermanos
+Al triunfar nuestro Magno Ideal;
+Esparcida por toda nuestra patria
+La gran obra cristiana celestial.
+
+{comment: 2}
+Es inútil que nos tiendan barrea
+Las legiones que ordenó Satán,
+Correremos con gozo la carrera,
+Con Jesús el insigne General.
+
+{comment: 3}
+Ni una lágrima empeña las pupilas,
+Ni un queja la voz apagará,
+Lucharemos con todo entusiasmo
+Combatiendo las huestes del mal.
+
+{comment: 4}
+Adelante valientes congregados,
+Conquistando hasta aquel día final
+Los perdidos, por Cristo rescatando:
+Triunfaremos en la excelsa Canaán.

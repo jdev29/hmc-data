@@ -1,0 +1,27 @@
+{title: Dios es amor}
+{title_en:}
+{source_lyrics:}
+{tone: Bb}
+
+En pecados y temor, Cristo el Señor me vio
+Aunque indigno pecador sin merecer su amor,
+De mi triste condición El se compadeció;
+Y en la dura cruz mi redención obró.
+
+{comment: Coro}
+Ven al Señor, oh pecador,
+El es tu amigo fiel, ven pecador
+Ven al Señor, Dios es amor,
+Escucha su tierna voz; ven, pecador.
+
+{comment: 2}
+De la tumba vencedor rsucitó Jesús,
+Y la muerte así venció dándonos su virtud
+Vida eterna el pecador tiene por fe en Dios
+Y saldrán los muertos al oír su voz.
+
+{comment: 3}
+A los cielos ascendió Cristo mi Salvador,
+A la diestra de Jehová se halla tu Mediador
+Intercede en tu favor, no te detengas más
+Solamente en El encontrarás la paz.

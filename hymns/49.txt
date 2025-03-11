@@ -1,0 +1,28 @@
+{title: Yo ando con Cristo}
+{title_en: }
+{source_lyrics: }
+{tone: }
+
+{comment: 1}
+Muy triste en pecado y en noche me vi,
+Mas ya vivo alegre, a Cristo volví;
+Y todos los días yo canto a Jesús,
+Yo ando con Cristo y tengo su luz.
+
+{comment: CORO}
+Yo voy con el Rey, Aleluya,
+Yo ando con Cristo el Rey;
+No vago ya más, al cielo me voy,
+Tan sólo de Cristo yo soy.
+
+{comment: 2}
+Por años y años sin Cristo viví,
+Y nunca en mi vida feliz yo me vi,
+Mas hoy con las aves elevo mi voz,
+Y canto feliz, pues del Rey voy en pos.
+
+{comment: 3}
+¡Oh, alma que estás en el valle sin luz,
+Si miras arriba verás a Jesús!
+¡Ven, sube más cerca, ven pronto al Señor!
+Es Cristo tu luz y tu fiel Salvador.
