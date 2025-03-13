@@ -1,7 +1,4 @@
-{title: Gozo hay en cielo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: GOZO HAY EN CIELO}
 
 {comment: 1}
 Gozo hay en el cielo, por la salvación

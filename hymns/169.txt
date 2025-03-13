@@ -1,7 +1,5 @@
-{title: La paz que Cristo da}
-{title_en:}
-{source_lyrics:}
-{tone: A}
+{comment: LA PAZ QUE CRISTO DA}
+{comment: A}
 
 {comment: 1}
 ¿Has hallado la paz de Jesucristo?

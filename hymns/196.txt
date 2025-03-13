@@ -1,7 +1,5 @@
-{title: ¡Noche de paz!}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: ¡NOCHE DE PAZ!}
+{comment: C}
 
 {comment: 1}
 ¡Noche de paz, noche de amor!

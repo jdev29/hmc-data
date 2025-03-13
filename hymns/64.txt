@@ -1,7 +1,4 @@
-{title: Jesús es mi Amigo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: JESÚS ES MI AMIGO}
 
 {comment: 1}
 Jesús es mi amigo, mi buen Amigo fiel,

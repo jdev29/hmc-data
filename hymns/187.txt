@@ -1,7 +1,5 @@
-{title: Oye la voz de Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: OYE LA VOZ DE CRISTO}
+{comment: Eb}
 
 {comment: 1}
 Oye, pecador, la voz de Cristo,

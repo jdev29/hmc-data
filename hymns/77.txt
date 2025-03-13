@@ -1,7 +1,4 @@
-{title: Cuando Dios la sangre ve}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: CUANDO DIOS LA SANGRE VE}
 
 {comment: 1}
 En el Calvario Cristo murió,

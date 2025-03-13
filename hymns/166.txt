@@ -1,7 +1,5 @@
-{title: Yo me acuerdo}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: YO ME ACUERDO}
+{comment: Eb}
 
 {comment: 1}
 Yo me acuerdo que Jesús por mi murió. (Él por mí);

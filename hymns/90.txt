@@ -1,7 +1,4 @@
-{title: Es Jesús el mejor amigo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ES JESÚS EL MEJOR AMIGO}
 
 {comment: 1}
 Es Jesús el mejor amigo

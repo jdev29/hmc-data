@@ -1,7 +1,5 @@
-{title: Cantaré, Cantaré del hermoso país}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: CANTARÉ, CANTARÉ DEL HERMOSO PAÍS}
+{comment: Eb}
 
 {comment: 1}
 Cantaré, cantaré del hermoso país;

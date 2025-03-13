@@ -1,7 +1,4 @@
-{title: Nada hay que me apartará}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: NADA HAY QUE ME APARTARÁ}
 
 {comment: 1}
 Nada hay que me apartará,

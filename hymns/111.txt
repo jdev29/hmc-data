@@ -1,7 +1,5 @@
-{title: Más cerca de Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: MÁS CERCA DE CRISTO}
+{comment: Bb}
 
 {comment: 1}
 De Cristo cada día quiero yo más cerca estar,

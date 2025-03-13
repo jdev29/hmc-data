@@ -1,7 +1,4 @@
-{title: En los negocios del Rey}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: EN LOS NEGOCIOS DEL REY}
 
 {comment: 1}
 Soy peregrino aquí, mi hogar lejano está

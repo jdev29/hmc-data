@@ -1,7 +1,4 @@
-{title: Te quiero, mi Señor}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: TE QUIERO, MI SEÑOR}
 
 {comment: 1}
 ¡Te quiero, mi Señor! habita en mí,

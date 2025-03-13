@@ -1,7 +1,4 @@
-{title: Melodías Celestiales}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: MELODÍAS CELESTIALES}
 
 {comment: 1}
 Dulces melodías cantaré,

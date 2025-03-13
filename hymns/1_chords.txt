@@ -1,7 +1,7 @@
-{title: Adoradle}
-{title_en: I Will Praise Him}
-{source_lyrics: Ll. B. 5; C.T. 15}
-{tone: Eb}
+{comment: ADORADLE}
+{comment: I Will Praise Him}
+{comment: Ll. B. 5; C.T. 15}
+{comment: Eb}
 
 {comment: Intro}
 [Ebadd9]  [Eb/Bb]  [Ebadd9]  [Bb/Eb]  [Ebadd9]

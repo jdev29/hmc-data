@@ -1,7 +1,5 @@
 CARIÑOSO SALVADOR
-{title: Cariñoso Salvador}
-{title_en: }
-{source_lyrics: }
+{comment: CARIÑOSO SALVADOR}
 {tone: }
 
 {comment: 1}

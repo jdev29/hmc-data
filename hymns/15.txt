@@ -1,7 +1,4 @@
-{title: Cristo, el Rey de gloria}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: CRISTO, EL REY DE GLORIA}
 
 {comment: 1}
 Ved al Cristo, Rey de Gloria

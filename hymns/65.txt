@@ -1,7 +1,4 @@
-{title: No te dé temor}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: NO TE DÉ TEMOR}
 
 {comment: 1}
 No te dé temor hablar por Cristo,

@@ -1,7 +1,5 @@
-{title: Vengo, Jesús, a ti}
-{title_en:}
-{source_lyrics:}
-{tone: A}
+{comment: VENGO, JESÚS, A TI}
+{comment: A}
 
 {comment: 1}
 De mis prisiones noche y dolor,

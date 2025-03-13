@@ -1,7 +1,5 @@
-{title: No puedo estar solo}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: NO PUEDO ESTAR SOLO}
+{comment: Eb}
 
 {comment: 1}
 Alguien va conmigo de la vida en el correr,

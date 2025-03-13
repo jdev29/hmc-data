@@ -1,7 +1,5 @@
-{title: Voy al cielo}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: VOY AL CIELO}
+{comment: G}
 
 {comment: 1}
 Voy al cielo soy peregrino,

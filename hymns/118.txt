@@ -1,7 +1,5 @@
-{title: No puede el mundo ser mi hogar}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: NO PUEDE EL MUNDO SER MI HOGAR}
+{comment: C}
 
 {comment: 1}
 La senda ancha dejaré,

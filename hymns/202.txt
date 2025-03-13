@@ -1,7 +1,5 @@
-{title: Guerreros fieles}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: GUERREROS FIELES}
+{comment: D}
 
 {comment: 1}
 Guerreros fieles somos

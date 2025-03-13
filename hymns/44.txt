@@ -1,7 +1,4 @@
-{title: El mundo dejé}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: EL MUNDO DEJÉ}
 
 {comment: 1}
 Tan triste y tan lejos de Dios me sentí,

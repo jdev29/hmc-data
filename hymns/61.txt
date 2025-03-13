@@ -1,7 +1,5 @@
 
-{title: Maestro se encrespan las aguas}
-{title_en: }
-{source_lyrics: }
+{comment: MAESTRO SE ENCRESPAN LAS AGUAS}
 {tone: }
 
 {comment: 1}

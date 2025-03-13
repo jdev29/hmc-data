@@ -1,7 +1,5 @@
-{title: Habla, Jesús conmigo}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: HABLA, JESÚS CONMIGO}
+{comment: C}
 
 {comment: 1}
 Habla, Jesús, conmigo,

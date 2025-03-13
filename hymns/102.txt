@@ -1,7 +1,5 @@
-{title: Grato es decir la historia}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: GRATO ES DECIR LA HISTORIA}
+{comment: Ab}
 
 {comment: 1}
 Grato es decir la historia

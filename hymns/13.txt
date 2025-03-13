@@ -1,7 +1,4 @@
-{title: Dulce oración}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: DULCE ORACIÓN}
 
 {comment: 1}
 Dulce oración, dulce oración,

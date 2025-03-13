@@ -1,7 +1,4 @@
-{title: Bienaventurados los de limpio corazón}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: BIENAVENTURADOS LOS DE LIMPIO CORAZÓN}
 
 {comment: 1}
 Bienvenidos son los de limpio corazón,

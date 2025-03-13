@@ -1,7 +1,5 @@
-{title: No lo hay}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: NO LO HAY}
+{comment: F}
 
 {comment: 1}
 No hay cual Jesús otro fiel amigo

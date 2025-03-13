@@ -1,7 +1,4 @@
-{title: Libre estoy}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: LIBRE ESTOY}
 
 {comment: 1}
 Yo vagaba mucho tiempo en el error,

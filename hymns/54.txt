@@ -1,7 +1,4 @@
-{title: A combatir}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: A COMBATIR}
 
 {comment: 1}
 ¡A combatir! Resuena la guerrera voz

@@ -1,7 +1,5 @@
-{title: La gracia}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: LA GRACIA}
+{comment: F}
 
 {comment: 1}
 Un día no me encontraré

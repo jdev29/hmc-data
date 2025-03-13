@@ -1,7 +1,5 @@
-{title: Pronto vendrá Jesucristo}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: PRONTO VENDRÁ JESUCRISTO}
+{comment: G}
 
 {comment: 1}
 Pronto vendrá Jesucristo

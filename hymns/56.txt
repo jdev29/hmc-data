@@ -1,7 +1,4 @@
-{title: Santo Espíritu, desciende}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: SANTO ESPÍRITU, DESCIENDE}
 
 {comment: 1}
 Santo Espíritu, desciende

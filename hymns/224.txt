@@ -1,7 +1,5 @@
-{title: Aunque soy pequeñuelo}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: AUNQUE SOY PEQUEÑUELO}
+{comment: Bb}
 
 {comment: 1}
 Aunque soy pequñuelo,

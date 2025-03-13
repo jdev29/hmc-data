@@ -1,7 +1,5 @@
-{title: Todos los que tengan sed}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: TODOS LOS QUE TENGAN SED}
+{comment: G}
 
 {comment: 1}
 Todos los que tengan sed,

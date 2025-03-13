@@ -1,7 +1,5 @@
-{title: Mi amor y vida}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: MI AMOR Y VIDA}
+{comment: F}
 
 {comment: 1}
 Mi amor y vida doy a Ti,

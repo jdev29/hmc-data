@@ -1,7 +1,4 @@
-{title: Jesús vive en mi corazón}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: JESÚS VIVE EN MI CORAZÓN}
 
 Cuan glorioso es el cambio operado en mí ser.
 Viniendo a mi vida el Señor; 

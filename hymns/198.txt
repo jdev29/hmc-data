@@ -1,7 +1,5 @@
-{title: A media noche en Bethlehem}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: A MEDIA NOCHE EN BETHLEHEM}
+{comment: Bb}
 
 {comment: 1}
 A media noche en Bethlehem

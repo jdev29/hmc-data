@@ -1,7 +1,4 @@
-{title: Cristo viene}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: CRISTO VIENE}
 
 {comment: 1}
 Cristo viene: Esto es cierto

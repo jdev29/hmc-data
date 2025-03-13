@@ -1,7 +1,4 @@
-{title: Grande gozo hay}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: GRANDE GOZO HAY}
 
 {comment: 1}
 Grande gozo hay en mi alma hoy.

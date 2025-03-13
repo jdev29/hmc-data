@@ -1,7 +1,5 @@
-{title: ¡Cuán dulce es confiar en Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: ¡CUÁN DULCE ES CONFIAR EN CRISTO}
+{comment: Ab}
 
 {comment: 1}
 ¡Cuán dulce es confiar en Cristo,

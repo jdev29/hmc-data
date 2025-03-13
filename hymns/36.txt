@@ -1,7 +1,4 @@
-{title: Entera consagración}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ENTERA CONSAGRACIÓN}
 
 {comment: 1}
 Que mi vida entera esté

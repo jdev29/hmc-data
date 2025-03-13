@@ -1,7 +1,4 @@
-{title: La siembra}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: LA SIEMBRA}
 
 {comment: 1}
 Sembraré la simiente preciosa

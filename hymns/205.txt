@@ -1,7 +1,5 @@
-{title: Jamás me dejará}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: JAMÁS ME DEJARÁ}
+{comment: C}
 
 {comment: 1}
 Yo vi espantosos rayos, los truenos oí rugir;

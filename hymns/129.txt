@@ -1,7 +1,5 @@
-{title: Allí no habrá tribulación}
-{title_en:}
-{source_lyrics:}
-{tone: A}
+{comment: ALLÍ NO HABRÁ TRIBULACIÓN}
+{comment: A}
 
 {comment: 1}
 En la mansión do Cristo está,

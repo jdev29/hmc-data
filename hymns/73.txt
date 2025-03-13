@@ -1,7 +1,4 @@
-{title: Cuando andemos con Dios}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: CUANDO ANDEMOS CON DIOS}
 
 {comment: 1}
 Cuando andemos con Dios,

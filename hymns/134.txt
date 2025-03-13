@@ -1,7 +1,5 @@
-{title: Me busca a mí}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: ME BUSCA A MÍ}
+{comment: G}
 
 {comment: 1}
 El Rey de Gloria a la tierra bajó

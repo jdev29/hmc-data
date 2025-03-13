@@ -1,7 +1,5 @@
-{title: Cuando venga Jesucristo}
-{title_en:}
-{source_lyrics:}
-{tone: A}
+{comment: CUANDO VENGA JESUCRISTO}
+{comment: A}
 
 {comment: 1}
 Cuando venga Jesucristo

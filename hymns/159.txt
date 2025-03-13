@@ -1,7 +1,5 @@
-{title: La senda es muy estrecha}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: LA SENDA ES MUY ESTRECHA}
+{comment: Ab}
 
 {comment: 1}
 Hoy no es mi vida como antes fue

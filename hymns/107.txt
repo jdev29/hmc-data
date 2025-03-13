@@ -1,7 +1,5 @@
-{title: ¡Oh Cristo mío!}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: ¡OH CRISTO MÍO!}
+{comment: D}
 
 {comment: 1}
 ¡Oh! Cristo mío, eres Tú mi Amigo fiel;

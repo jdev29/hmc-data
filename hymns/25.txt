@@ -1,7 +1,4 @@
-{title: Gloria al Cordero}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: GLORIA AL CORDERO}
 
 {comment: 1}
 Cristo mío, me salvaste,

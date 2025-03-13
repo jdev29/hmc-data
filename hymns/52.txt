@@ -1,7 +1,4 @@
-{title: Es Cristo la Roca}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ES CRISTO LA ROCA}
 
 {comment: 1}
 Cuando olas tan inmensas de embravecido mar

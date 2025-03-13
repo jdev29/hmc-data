@@ -1,7 +1,5 @@
-{title: Siempre orad}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: SIEMPRE ORAD}
+{comment: Eb}
 
 {comment: 1}
 Siempre orad muy pronto viene Cristo,

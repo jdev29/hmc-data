@@ -1,7 +1,4 @@
-{title: ¿Eres limpio en la sangre?}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¿ERES LIMPIO EN LA SANGRE?}
 
 {comment: 1}
 ¿Has hallado en Cristo plena salvación?

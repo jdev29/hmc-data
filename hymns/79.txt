@@ -1,7 +1,4 @@
-{title: Tal como soy}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: TAL COMO SOY}
 
 {comment: 1}
 Tal como soy... Sin más decir

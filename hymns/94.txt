@@ -1,7 +1,4 @@
-{title: ¡Oh bondad tan infinita!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡OH BONDAD TAN INFINITA!}
 
 {comment: 1}
 ¡Oh bondad tan infinita

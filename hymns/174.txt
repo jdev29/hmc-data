@@ -1,7 +1,5 @@
-{title: Salvo en los tiernos brazos}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: SALVO EN LOS TIERNOS BRAZOS}
+{comment: Bb}
 
 {comment: 1}
 Salvo en los tiernos brazos

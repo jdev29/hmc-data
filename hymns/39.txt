@@ -1,7 +1,4 @@
-{title: Santa Biblia}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: SANTA BIBLIA}
 
 {comment: 1}
 Santa Biblia para mí

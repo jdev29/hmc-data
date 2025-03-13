@@ -1,7 +1,5 @@
-{title: En un aposento alto}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: EN UN APOSENTO ALTO}
+{comment: F}
 
 {comment: 1}
 En un aposento alto,

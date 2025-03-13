@@ -1,7 +1,4 @@
-{title: Donde quiera con Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: DONDE QUIERA CON JESÚS}
 
 {comment: 1}
 A cualquier prte sin temor iré

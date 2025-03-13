@@ -1,7 +1,4 @@
-{title: Salvador, Mi bien eterno}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: SALVADOR, MI BIEN ETERNO}
 
 {comment: 1}
 Salvador, mi bien eterno,

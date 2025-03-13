@@ -1,7 +1,5 @@
-{title: Guíanos, Pastor divino}
-{title_en:}
-{source_lyrics:}
-{tone: E}
+{comment: GUÍANOS, PASTOR DIVINO}
+{comment: E}
 
 {comment: 1}
 Guíanos Pastor Divino,

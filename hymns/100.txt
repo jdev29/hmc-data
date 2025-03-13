@@ -1,7 +1,4 @@
-{title: A los pies de Jesucristo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: A LOS PIES DE JESUCRISTO}
 
 {comment: 1}
 A loa pies de Jesucristo,

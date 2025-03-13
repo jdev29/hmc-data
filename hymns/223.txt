@@ -1,7 +1,5 @@
-{title: Cristo ha nacido}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: CRISTO HA NACIDO}
+{comment: G}
 
 {comment: 1}
 Un hermoso pequeñuelo

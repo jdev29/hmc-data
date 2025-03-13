@@ -1,7 +1,4 @@
-{title: Gloria a Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: GLORIA A JESÚS}
 
 
 {comment: 1}

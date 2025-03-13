@@ -1,7 +1,4 @@
-{title: ¡Oh excelsa gracia de amor!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡OH EXCELSA GRACIA DE AMOR!}
 
 {comment: 1}
 Por de en Jesús, el Salvador

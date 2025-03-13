@@ -1,7 +1,4 @@
-{title: La llamada}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: LA LLAMADA}
 
 {comment: 1}
 Un Amigo muy dulce y amante

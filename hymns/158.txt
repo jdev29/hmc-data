@@ -1,7 +1,5 @@
-{title: Cerca, más cerca}
-{title_en:}
-{source_lyrics:}
-{tone: Db}
+{comment: CERCA, MÁS CERCA}
+{comment: Db}
 
 {comment: 1}
 Cerca, más cerca, ¡Oh Dios, de Ti!

@@ -1,7 +1,4 @@
-{title: Un precioso manantial}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: UN PRECIOSO MANANTIAL}
 
 {comment: 1}
 Hay un precioso manantial

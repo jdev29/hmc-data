@@ -1,7 +1,4 @@
-{title: Fuente de la vida eterna}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: FUENTE DE LA VIDA ETERNA}
 
 {comment: 1}
 Fuente de la vida eterna

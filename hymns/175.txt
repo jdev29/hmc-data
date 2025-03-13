@@ -1,7 +1,5 @@
-{title: Cuando allá se pase lista}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: CUANDO ALLÁ SE PASE LISTA}
+{comment: Ab}
 
 {comment: 1}
 Cuando la trompeta suene

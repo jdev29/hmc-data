@@ -1,7 +1,4 @@
-{title: Hay quien vigile}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: HAY QUIEN VIGILE}
 
 {comment: 1}
 Hay quien vele mis pisadas,

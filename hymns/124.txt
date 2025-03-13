@@ -1,7 +1,5 @@
-{title: Tentado no cedas}
-{title_en:}
-{source_lyrics:}
-{tone: Gb}
+{comment: TENTADO NO CEDAS}
+{comment: Gb}
 
 {comment: 1}
 Tentado no cedas;

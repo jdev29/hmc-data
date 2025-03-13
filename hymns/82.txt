@@ -1,7 +1,4 @@
-{title: Despliegue el cristiano}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: DESPLIEGUE EL CRISTIANO}
 
 {comment: 1}
 Despliegue el cristiano su santa bandera,

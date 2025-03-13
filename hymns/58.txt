@@ -1,7 +1,4 @@
-{title: He de ver a Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: HE DE VER A JESÚS}
 
 {comment: 1}
 Cuando aquí de la vida mis afanes cesen ya

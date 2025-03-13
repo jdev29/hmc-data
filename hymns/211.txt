@@ -1,7 +1,5 @@
-{title: Grato, es la Santa Palabra leer}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: GRATO, ES LA SANTA PALABRA LEER}
+{comment: G}
 
 {comment: 1}
 Graro es la Santa Palabra leer,

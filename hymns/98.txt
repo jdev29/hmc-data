@@ -1,7 +1,4 @@
-{title: Guíame ¡Oh Salvador!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: GUÍAME ¡OH SALVADOR!}
 
 {comment: 1}
 Guíame, ¡Oh, Salvador!

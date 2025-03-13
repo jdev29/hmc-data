@@ -1,7 +1,4 @@
-{title: Dilo a Cristo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: DILO A CRISTO}
 
 {comment: 1}
 Cuando estés cansado y abatido

@@ -1,7 +1,5 @@
-{title: Quiero seguir las pisadas del maestro}
-{title_en:}
-{source_lyrics:}
-{tone: Db}
+{comment: QUIERO SEGUIR LAS PISADAS DEL MAESTRO}
+{comment: Db}
 
 {comment: 1}
 Quiero seguir las pisadas del Maestro;

@@ -1,7 +1,4 @@
-{title: El amor de mi Señor}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: EL AMOR DE MI SEÑOR}
 
 {comment: 1}
 Del santo amor de Cristo por siempre sin igual

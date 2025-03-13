@@ -1,7 +1,5 @@
-{title: ¿Nos veremos en el río?}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: ¿NOS VEREMOS EN EL RÍO?}
+{comment: Eb}
 
 {comment: 1}
 Nos veremos en el río

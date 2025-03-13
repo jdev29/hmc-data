@@ -1,7 +1,4 @@
-{title: ¡Oh, Que amigo!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡OH, QUE AMIGO!}
 
 {comment: 1}
 ¡Oh, qué amigo nos es Cristo!

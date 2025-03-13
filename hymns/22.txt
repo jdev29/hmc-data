@@ -1,7 +1,5 @@
 ¡OH! YO QUIERO ANDAR CON CRISTO
-{title: ¡Oh! Yo quiero andar con Cristo}
-{title_en: }
-{source_lyrics: }
+{comment: ¡OH! YO QUIERO ANDAR CON CRISTO}
 {tone: }
 
 {comment: 1}

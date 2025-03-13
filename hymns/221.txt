@@ -1,7 +1,5 @@
-{title: La puerta abrid a los niños}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: LA PUERTA ABRID A LOS NIÑOS}
+{comment: C}
 
 {comment: 1}
 La puerta abrid a los niños.

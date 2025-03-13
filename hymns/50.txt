@@ -1,7 +1,4 @@
-{title: Te loamos, oh Dios}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: TE LOAMOS, OH DIOS}
 
 {comment: 1}
 Te loamo, oh Dios,

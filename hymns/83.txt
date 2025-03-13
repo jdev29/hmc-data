@@ -1,7 +1,4 @@
-{title: ¡Oh ven sin tardar!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡OH VEN SIN TARDAR!}
 
 {comment: 1}
 ¡Oh no rechaces la verdad!

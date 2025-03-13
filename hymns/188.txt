@@ -1,7 +1,5 @@
-{title: Creo en la Biblia}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: CREO EN LA BIBLIA}
+{comment: D}
 
 {comment: 1}
 Creo en la Biblia, el libro redentor,

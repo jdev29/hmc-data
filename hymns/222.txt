@@ -1,7 +1,5 @@
-{title: Nítido rayo por Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: NÍTIDO RAYO POR CRISTO}
+{comment: G}
 
 Nítido rayo, por Cristo,
 Yo quiero siempre ser,

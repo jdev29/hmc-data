@@ -1,7 +1,5 @@
-{title: Lindas las manitas son}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: LINDAS LAS MANITAS SON}
+{comment: C}
 
 {comment: 1}
 Lindas las manitas son

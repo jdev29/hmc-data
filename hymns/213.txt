@@ -1,7 +1,5 @@
-{title: Cristo me ama}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: CRISTO ME AMA}
+{comment: Eb}
 
 {comment: 1}
 Cristo me ama, bien lo sé,

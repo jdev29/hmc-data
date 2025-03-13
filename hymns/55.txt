@@ -1,7 +1,4 @@
-{title: El mundo perdido}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: EL MUNDO PERDIDO}
 
 {comment: 1}
 El mundo perdido en pecado se vio;

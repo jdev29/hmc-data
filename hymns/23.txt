@@ -1,7 +1,4 @@
-{title: Mi Redentor el Rey de gloria}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: MI REDENTOR EL REY DE GLORIA}
 
 {comment: 1}
 Mi Redentot, El Rey de gloria,

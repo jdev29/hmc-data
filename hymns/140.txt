@@ -1,7 +1,5 @@
-{title: Iglesia de Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: IGLESIA DE CRISTO}
+{comment: F}
 
 {comment: 1}
 Iglesia de Cristo reanima tu amor,

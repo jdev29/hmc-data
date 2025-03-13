@@ -1,7 +1,5 @@
-{title: Jesús llevó mis cargas}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: JESÚS LLEVÓ MIS CARGAS}
+{comment: G}
 
 {comment: 1}
 Delante de mi Cristo, un pobre pecador,

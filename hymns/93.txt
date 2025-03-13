@@ -1,7 +1,4 @@
-{title: La gloriosa aparición}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: LA GLORIOSA APARICIÓN}
 
 {comment: 1}
 Día de victoria y celestial fulgor,

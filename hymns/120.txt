@@ -1,7 +1,5 @@
-{title: Mis culpas Él llevo}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: MIS CULPAS ÉL LLEVO}
+{comment: Ab}
 
 {comment: 1}
 Camsado y triste vine al Salvadaor,

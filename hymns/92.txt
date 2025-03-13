@@ -1,7 +1,4 @@
-{title: Es Jesús mi Salvador}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ES JESÚS MI SALVADOR}
 
 {comment: 1}
 En Jesús, mi Salvador

@@ -1,7 +1,4 @@
-{title: ¡Aleluya! Salvo soy}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡ALELUYA! SALVO SOY}
 
 {comment: 1}
 ¡Aleluya! salvo soy

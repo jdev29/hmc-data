@@ -1,7 +1,4 @@
-{title: Junto a la Cruz}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: JUNTO A LA CRUZ}
 
 {comment: 1}
 Junto a la cruz, do Jesús murió,

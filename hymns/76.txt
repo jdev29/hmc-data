@@ -1,7 +1,4 @@
-{title: Bellas Palabras de vida}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: BELLAS PALABRAS DE VIDA}
 
 {comment: 1}
 ¡Oh! cantádmelas otra vez

@@ -1,7 +1,5 @@
-{title: Abrigo de la tempestad}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: ABRIGO DE LA TEMPESTAD}
+{comment: F}
 
 {comment: 1}
 Me cuida Dios mi Protector,

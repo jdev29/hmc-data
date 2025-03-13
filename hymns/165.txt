@@ -1,7 +1,5 @@
-{title: ¡Oh Dios, visítanos!}
-{title_en:}
-{source_lyrics:}
-{tone: Fb}
+{comment: ¡OH DIOS, VISÍTANOS!}
+{comment: Fb}
 
 {comment: 1}
 ¡Oh, Dios visítanos, no tardes!

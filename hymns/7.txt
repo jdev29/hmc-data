@@ -1,7 +1,4 @@
-{title: Todo a Cristo yo me rindo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: TODO A CRISTO YO ME RINDO}
 
 {comment: 1}
 Todo a Cristo yo me rindo,

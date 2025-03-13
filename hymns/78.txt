@@ -1,7 +1,4 @@
-{title: Firmes y adelante}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: FIRMES Y ADELANTE}
 
 {comment: 1}
 Firmes y adelante

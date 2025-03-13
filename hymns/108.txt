@@ -1,7 +1,5 @@
-{title: ¡Trabajad! ¡Trabajad!}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: ¡TRABAJAD! ¡TRABAJAD!}
+{comment: F}
 
 {comment: 1}
 ¡Trabajad! ¡Trabajad! somos siervos de Dios,

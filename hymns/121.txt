@@ -1,7 +1,5 @@
-{title: Manda otra lluvia}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: MANDA OTRA LLUVIA}
+{comment: Ab}
 
 {comment: 1}
 Unánimes junto a la cruz,

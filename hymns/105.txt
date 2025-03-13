@@ -1,7 +1,5 @@
-{title: En el mundo feliz}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: EN EL MUNDO FELIZ}
+{comment: G}
 
 {comment: 1}
 Hay un mundo feliz más allá

@@ -1,7 +1,5 @@
-{title: Firmes, firmes}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: FIRMES, FIRMES}
+{comment: D}
 
 {comment: 1}
 ¡Ved, soldados, la bandera

@@ -1,7 +1,4 @@
-{title: Más de Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: MÁS DE JESÚS}
 
 
 {comment: 1}

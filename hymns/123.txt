@@ -1,7 +1,5 @@
-{title: Quiero ver mi patria}
-{title_en:}
-{source_lyrics:}
-{tone: Db}
+{comment: QUIERO VER MI PATRIA}
+{comment: Db}
 
 {comment: 1}
 Quiero ver a Jesucristo,

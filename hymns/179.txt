@@ -1,7 +1,5 @@
-{title: Él es mi todo aquí}
-{title_en:}
-{source_lyrics:}
-{tone: A}
+{comment: ÉL ES MI TODO AQUÍ}
+{comment: A}
 
 En el pecado siempre vagaba sin Jesús,
 Hasta que por su gracia yo recibí la luz;

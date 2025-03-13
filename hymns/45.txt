@@ -1,7 +1,4 @@
-{title: A ti y a mí}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: A TI Y A MÍ}
 
 ¡Cuán tiernamente está Él llamando!
 ¡Cristo a ti y a mí!

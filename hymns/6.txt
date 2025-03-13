@@ -1,7 +1,5 @@
-{title: Él viene en gloria}
-{title_en: }
-{source_lyrics: }
-{tone: Bb}
+{comment: ÉL VIENE EN GLORIA}
+{comment: Bb}
 
 {comment: 1}
 Oh, proclamad con alegría;

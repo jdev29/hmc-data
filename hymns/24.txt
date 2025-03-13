@@ -1,7 +1,4 @@
-{title: Andando en la Cruz}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ANDANDO EN LA CRUZ}
 
 {comment: 1}
 Vagaba yo en oscuridad

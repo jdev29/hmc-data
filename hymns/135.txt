@@ -1,7 +1,5 @@
-{title: El Señor así me habló}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: EL SEÑOR ASÍ ME HABLÓ}
+{comment: Eb}
 
 {comment: 1}
 El Señor así me habló,

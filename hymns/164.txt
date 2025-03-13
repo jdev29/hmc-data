@@ -1,7 +1,5 @@
-{title: Lejos allende los mares}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: LEJOS ALLENDE LOS MARES}
+{comment: C}
 
 {comment: 1}
 Lejos allende los mares,

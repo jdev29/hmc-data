@@ -1,7 +1,5 @@
-{title: El amor de Cristo viene sobre mí}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: EL AMOR DE CRISTO VIENE SOBRE MÍ}
+{comment: F}
 
 {comment: 1}
 De fuente de aguas vivas mi alma tiene sed,

@@ -1,7 +1,4 @@
-{title: Salvador a ti acudo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: SALVADOR A TI ACUDO}
 
 {comment: 1}
 Salvador a Ti acudo,

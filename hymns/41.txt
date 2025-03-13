@@ -1,7 +1,4 @@
-{title: Sí, yo sé}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: SÍ, YO SÉ}
 
 {comment: 1}
 Pecador, sin esperanza,

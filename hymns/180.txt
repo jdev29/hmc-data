@@ -1,7 +1,5 @@
-{title: Soy peregrino aquí}
-{title_en: }
-{source_lyrics:}
-{tone: Ab}
+{comment: SOY PEREGRINO AQUÍ}
+{comment: Ab}
 
 {comment: 1}
 Peregrino soy aquí, lejos de mi hogar;

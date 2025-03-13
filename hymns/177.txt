@@ -1,7 +1,5 @@
-{title: A Jesús mi vida entrego}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: A JESÚS MI VIDA ENTREGO}
+{comment: Ab}
 
 {comment: 1}
 A Jesús mi vida entrego

@@ -1,7 +1,4 @@
-{title: Cristo es mi dulce Salvador}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: CRISTO ES MI DULCE SALVADOR}
 
 {comment: 1}
 Cristo es mi dulce Salvador.

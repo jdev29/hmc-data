@@ -1,7 +1,5 @@
-{title: En la viña del Señor}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: EN LA VIÑA DEL SEÑOR}
+{comment: Ab}
 
 {comment: 1}
 Yo quiero trabajar por el Señor

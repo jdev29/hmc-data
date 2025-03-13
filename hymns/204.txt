@@ -1,7 +1,5 @@
-{title: Amistad con Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: AMISTAD CON CRISTO}
+{comment: D}
 
 {comment: 1}
 Que dicha inmensa, pues Jesús

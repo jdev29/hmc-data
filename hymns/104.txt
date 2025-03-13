@@ -1,7 +1,5 @@
-{title: Lluvias de gracia}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: LLUVIAS DE GRACIA}
+{comment: Bb}
 
 {comment: 1}
 Dios nos ha dado promesa:

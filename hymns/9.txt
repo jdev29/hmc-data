@@ -1,7 +1,4 @@
-{title: ¡Oh Cristo amado!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡OH CRISTO AMADO!}
 
 {comment: 1}
 Oh, Cristo amado, bendito Salvador,

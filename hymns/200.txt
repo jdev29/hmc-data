@@ -1,7 +1,5 @@
-{title: Oíd un son en alta esfera}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: OÍD UN SON EN ALTA ESFERA}
+{comment: G}
 
 {comment: 1}
 Oíd un son en alta esfera:

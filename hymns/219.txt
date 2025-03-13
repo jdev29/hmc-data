@@ -1,7 +1,5 @@
-{title: Los niños son de Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: LOS NIÑOS SON DE CRISTO}
+{comment: F}
 
 {comment: 1}
 Los niños son de Cristo, Él es su Salvador

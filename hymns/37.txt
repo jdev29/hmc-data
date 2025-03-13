@@ -1,7 +1,4 @@
-{title: Día feliz}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: DÍA FELIZ}
 
 {comment: 1}
 Feliz momento en que escogí,

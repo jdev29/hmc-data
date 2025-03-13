@@ -1,7 +1,4 @@
-{title: Precioso es Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: PRECIOSO ES JESÚS}
 
 {comment: 1}
 Jesús es precioso, mi buen Salvador,

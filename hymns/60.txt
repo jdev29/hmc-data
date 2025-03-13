@@ -1,7 +1,4 @@
-{title: Jesús yo he prometido}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: JESÚS YO HE PROMETIDO}
 
 {comment: 1}
 Jesús yo he prometido

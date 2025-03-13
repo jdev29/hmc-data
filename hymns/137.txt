@@ -1,7 +1,5 @@
-{title: ¿Qué me importan las penas?}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: ¿QUÉ ME IMPORTAN LAS PENAS?}
+{comment: F}
 
 {comment: 1}
 ¿Qué me importan del mundo las penas

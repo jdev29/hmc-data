@@ -1,7 +1,5 @@
-{title: Da la luz}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: DA LA LUZ}
+{comment: Ab}
 
 {comment: 1}
 Un llamado llega desde el turbio mar,

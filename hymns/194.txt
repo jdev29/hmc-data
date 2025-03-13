@@ -1,7 +1,5 @@
-{title: Cristo resucitó}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: CRISTO RESUCITÓ}
+{comment: C}
 
 {comment: 1}
 Ahí en la Cruz murió,

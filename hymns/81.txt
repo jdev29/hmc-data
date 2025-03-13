@@ -1,7 +1,4 @@
-{title: Buscando a Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: BUSCANDO A JESÚS}
 
 {comment: 1}
 Débil, pobre, ciego, soy,

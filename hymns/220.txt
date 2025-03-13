@@ -1,7 +1,5 @@
-{title: Brillemos cual velitas}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: BRILLEMOS CUAL VELITAS}
+{comment: G}
 
 {comment: 1}
 Brillemos cual velitas con clara luz,

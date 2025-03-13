@@ -1,7 +1,5 @@
-{title: Marcharé}
-{title_en:}
-{source_lyrics:}
-{tone: C}
+{comment: MARCHARÉ}
+{comment: C}
 
 {comment: 1}
 Marcharé en la luz de Dios.

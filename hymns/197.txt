@@ -1,7 +1,5 @@
-{title: Gloria a Dios en las alturas}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: GLORIA A DIOS EN LAS ALTURAS}
+{comment: G}
 
 {comment: 1}
 Gloria a Dios en las alturas

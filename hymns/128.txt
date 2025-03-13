@@ -1,7 +1,5 @@
-{title: Jesús al mundo viene otra vez}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: JESÚS AL MUNDO VIENE OTRA VEZ}
+{comment: G}
 
 {comment: 1}
 Yo espero el día alegre cuando Cristo volverá

@@ -1,7 +1,5 @@
-{title: Escucha pobre pecador}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: ESCUCHA POBRE PECADOR}
+{comment: G}
 
 {comment: 1}
 Escucha, pobre pecador,

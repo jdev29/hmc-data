@@ -1,7 +1,5 @@
-{title: Hallé la fuente sin igual}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: HALLÉ LA FUENTE SIN IGUAL}
+{comment: Eb}
 
 {comment: 1}
 Por fe contemplo redención

@@ -1,7 +1,4 @@
-{title: Tuyo soy Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: TUYO SOY JESÚS}
 
 {comment: 1}
 Tuyo soy, Jesús, pues oí tu voz,

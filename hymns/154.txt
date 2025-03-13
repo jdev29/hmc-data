@@ -1,7 +1,5 @@
-{title: Dulce consuelo}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: DULCE CONSUELO}
+{comment: D}
 
 {comment: 1}
 En Jesucristo, autor de paz,

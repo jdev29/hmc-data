@@ -1,5 +1,3 @@
-{title: Hubo en el calvario}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: HUBO EN EL CALVARIO}
+{comment: Bb}
 

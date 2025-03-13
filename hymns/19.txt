@@ -1,7 +1,4 @@
-{title: Acepta el perdón de Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ACEPTA EL PERDÓN DE JESÚS}
 
 {comment: 1}
 Si tú cansado estás ya de pecar;

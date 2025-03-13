@@ -1,7 +1,5 @@
-{title: Todas las promesas del Señor Jesús}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: TODAS LAS PROMESAS DEL SEÑOR JESÚS}
+{comment: Bb}
 
 {comment: 1}
 Todas las promesas del Señor Jesús,

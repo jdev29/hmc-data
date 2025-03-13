@@ -1,7 +1,5 @@
-{title: Cristo vive}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: CRISTO VIVE}
+{comment: Bb}
 
 {comment: 1}
 Resucitó triunfante, Jesús mi Salvador,

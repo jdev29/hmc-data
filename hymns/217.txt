@@ -1,7 +1,5 @@
-{title: ¡Venid, oh niños! Aprended}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: ¡VENID, OH NIÑOS! APRENDED}
+{comment: Ab}
 
 {comment: 1}
 ¡Venid, oh niños! aprended,

@@ -1,7 +1,5 @@
-{title: Ven a mi corazón, oh Jesús}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: VEN A MI CORAZÓN, OH JESÚS}
+{comment: F}
 
 {comment: 1}
 Tú dejaste tu trono y corona por mí,

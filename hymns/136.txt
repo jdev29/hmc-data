@@ -1,7 +1,5 @@
-{title: Me guia Él, con cuánto amor}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: ME GUIA ÉL, CON CUÁNTO AMOR}
+{comment: D}
 
 {comment: 1}
 Me guía Él, con cuánto amor

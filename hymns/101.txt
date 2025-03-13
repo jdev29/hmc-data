@@ -1,7 +1,5 @@
-{title: Estad por Cristo firmes}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: ESTAD POR CRISTO FIRMES}
+{comment: Bb}
 
 {comment: 1}
 ¡Estad por Cristo firmes,

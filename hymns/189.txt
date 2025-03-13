@@ -1,7 +1,5 @@
-{title: Por una senda estrecha andaba yo}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: POR UNA SENDA ESTRECHA ANDABA YO}
+{comment: F}
 
 {comment: 1}
 Por una senda estrecha andaba yo,

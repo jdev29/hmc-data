@@ -1,7 +1,5 @@
-{title: Los peregrinos}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: LOS PEREGRINOS}
+{comment: Eb}
 
 {comment: 1}
 ¡Cuán dulce es la reunión!

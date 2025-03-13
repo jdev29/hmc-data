@@ -1,7 +1,5 @@
-{title: Hay luz gloriosa en mi camino}
-{title_en: }
-{source_lyrics:}
-{tone: G}
+{comment: HAY LUZ GLORIOSA EN MI CAMINO}
+{comment: G}
 
 {comment: 1}
 Hay luz gloriosa en mi camino,

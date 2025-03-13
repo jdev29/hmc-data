@@ -1,7 +1,5 @@
-{title: Yo canto a Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: YO CANTO A CRISTO}
+{comment: G}
 
 {comment: 1}
 Mi alegre canto a Cristo elevo yo

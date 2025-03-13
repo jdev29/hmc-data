@@ -1,7 +1,5 @@
-{title: Dejo el mundo y sigo a Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: DEJO EL MUNDO Y SIGO A CRISTO}
+{comment: F}
 
 {comment: 1}
 Dejó al mundo y sigo a Cristo,

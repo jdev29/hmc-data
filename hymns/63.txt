@@ -1,7 +1,4 @@
-{title: Dios os guarde}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: DIOS OS GUARDE}
 
 {comment: 1}
 Dios os guarde en su santo amor;

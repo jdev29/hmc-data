@@ -1,7 +1,5 @@
-{title: Cantaré la maravilla}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: CANTARÉ LA MARAVILLA}
+{comment: Eb}
 
 {comment: 1}
 Cantaré la maravilla

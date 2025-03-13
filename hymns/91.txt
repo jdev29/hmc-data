@@ -1,7 +1,4 @@
-{title: El nombre de Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: EL NOMBRE DE JESÚS}
 
 {comment: 1}
 ¡Tan dulce el nombre de Jesús!

@@ -1,7 +1,5 @@
-{title: Esta Será gloria}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: ESTA SERÁ GLORIA}
+{comment: Ab}
 
 {comment: 1}
 Cuando yo llegue el Edén celestial,

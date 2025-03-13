@@ -1,7 +1,5 @@
-{title: Nuevas Alegres}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: NUEVAS ALEGRES}
+{comment: Eb}
 
 {comment: 1}
 Nuevas alegres para decirles

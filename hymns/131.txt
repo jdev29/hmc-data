@@ -1,7 +1,5 @@
-{title: Me levantó}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: ME LEVANTÓ}
+{comment: G}
 
 {comment: 1}
 Mi salvador en su bondad,

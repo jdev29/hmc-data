@@ -1,7 +1,5 @@
-{title: Venid, pastorcillos}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: VENID, PASTORCILLOS}
+{comment: F}
 
 {comment: 1}
 Venid, pastorcillos, venid a adorar

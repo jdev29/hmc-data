@@ -1,5 +1,3 @@
-{title: Quien creyere puede a Él venir}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: QUIEN CREYERE PUEDE A ÉL VENIR}
+{comment: Bb}
 

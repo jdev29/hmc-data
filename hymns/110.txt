@@ -1,7 +1,5 @@
-{title: Sólo la sangre}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: SÓLO LA SANGRE}
+{comment: G}
 
 {comment: 1}
 ¿Quién me puede dar perdón?

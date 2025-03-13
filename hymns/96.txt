@@ -1,7 +1,4 @@
-{title: ¡Santo! ¡Santo! ¡Santo!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡SANTO! ¡SANTO! ¡SANTO!}
 
 {comment: 1}
 ¡Santo! ¡Santo! ¡Santo! Señor Omnipotente,

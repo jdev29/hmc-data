@@ -1,5 +1,3 @@
-{title: Un día Cristo volverá}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: UN DÍA CRISTO VOLVERÁ}
+{comment: Ab}
 

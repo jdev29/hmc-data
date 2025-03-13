@@ -1,5 +1,3 @@
-{title: Más semejante a Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: Db}
+{comment: MÁS SEMEJANTE A CRISTO}
+{comment: Db}
 

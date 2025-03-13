@@ -1,7 +1,4 @@
-{title: A Jesucristo ven}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: A JESUCRISTO VEN}
 
 {comment: 1}
 A Jesucristo ven sin tardar,

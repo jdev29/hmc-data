@@ -1,7 +1,5 @@
-{title: Soy el hijo de un Rey}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: SOY EL HIJO DE UN REY}
+{comment: Eb}
 
 {comment: 1}
 Mi padre es un Rey muy rico sin par,

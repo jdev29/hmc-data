@@ -1,7 +1,4 @@
-{title: Que haga en ti su voluntad}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: QUE HAGA EN TI SU VOLUNTAD}
 
 
 {comment: 1}

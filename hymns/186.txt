@@ -1,7 +1,5 @@
-{title: Ve, ve oh Sión}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: VE, VE OH SIÓN}
+{comment: Bb}
 
 {comment: 1}
 Ve, ve oh Sión tu gran destino cumple;

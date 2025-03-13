@@ -1,7 +1,5 @@
-{title: Ningún otro me ama como Cristo}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: NINGÚN OTRO ME AMA COMO CRISTO}
+{comment: D}
 
 Contaréles del amor de Jesucristo,
 Un amigo fiel en Él ya encontré

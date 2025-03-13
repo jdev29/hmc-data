@@ -1,7 +1,5 @@
-{title: No me importan riquezas}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: NO ME IMPORTAN RIQUEZAS}
+{comment: Ab}
 
 {comment: 1}
 No me importan riquezas,

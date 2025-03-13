@@ -1,7 +1,5 @@
-{title: Baja del cielo bendito fuego}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: BAJA DEL CIELO BENDITO FUEGO}
+{comment: G}
 
 {comment: 1}
 Fuego divino, clamamos por ti,

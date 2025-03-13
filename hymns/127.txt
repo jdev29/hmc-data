@@ -1,7 +1,5 @@
-{title: Seamos fieles}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: SEAMOS FIELES}
+{comment: F}
 
 {comment: 1}
 Seamos fieles nosotros los hermanos

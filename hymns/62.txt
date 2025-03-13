@@ -1,7 +1,4 @@
-{title: Mi espíritu, alma y cuerpo}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: MI ESPÍRITU, ALMA Y CUERPO}
 
 {comment: 1}
 Mi espíritu, alma y cuerpo

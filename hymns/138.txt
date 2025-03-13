@@ -1,7 +1,5 @@
-{title: La fuente sanadora}
-{title_en:}
-{source_lyrics:}
-{tone: D}
+{comment: LA FUENTE SANADORA}
+{comment: D}
 
 {comment: 1}
 Ved la fuente que nos sana

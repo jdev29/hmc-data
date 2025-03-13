@@ -1,7 +1,5 @@
-{title: Grandes cosas Cristo ha hecho para mí}
-{title_en:}
-{source_lyrics:}
-{tone: F}
+{comment: GRANDES COSAS CRISTO HA HECHO PARA MÍ}
+{comment: F}
 
 Hallé un buen amigo, Mi amado Salvador,
 Contaré lo que él ha hecho para mí;

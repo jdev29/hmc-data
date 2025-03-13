@@ -1,7 +1,5 @@
-{title: Castillo fuerte es nuestro Dios}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: CASTILLO FUERTE ES NUESTRO DIOS}
+{comment: G}
 
 {comment: 1}
 Castllo fuerte es nuestro Dios

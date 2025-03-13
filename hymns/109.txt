@@ -1,7 +1,5 @@
-{title: Pecador, ven al dulce Jesús}
-{title_en:}
-{source_lyrics:}
-{tone: G}
+{comment: PECADOR, VEN AL DULCE JESÚS}
+{comment: G}
 
 {comment: 1}
 Pecador, veb al dulce Jesús,

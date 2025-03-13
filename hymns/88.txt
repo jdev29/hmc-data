@@ -1,7 +1,4 @@
-{title: ¡Oh, cuánto amo a Cristo!}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: ¡OH, CUÁNTO AMO A CRISTO!}
 
 {comment: 1}
 Es Cristo quien por mí murió

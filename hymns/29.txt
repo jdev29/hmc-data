@@ -1,7 +1,4 @@
-{title: Digno es el Cordero}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: DIGNO ES EL CORDERO}
 
 
 {comment: 1}

@@ -1,7 +1,4 @@
-{title: Soy yo soldado de Jesús}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: SOY YO SOLDADO DE JESÚS}
 
 {comment: 1}
 Soy yo soldado de Jesús,

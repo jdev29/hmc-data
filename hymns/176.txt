@@ -1,7 +1,5 @@
-{title: Soló un poco más de la vida aquí}
-{title_en:}
-{source_lyrics:}
-{tone: Ab}
+{comment: SOLÓ UN POCO MÁS DE LA VIDA AQUÍ}
+{comment: Ab}
 
 {comment: 1}
 Sólo un poco más de la vida aquí,

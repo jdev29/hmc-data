@@ -1,7 +1,4 @@
-{title: Mi fe espera en ti}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: MI FE ESPERA EN TI}
 
 {comment: 1}
 Mi fe espera en Ti,

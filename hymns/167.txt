@@ -1,7 +1,5 @@
-{title: Mantened el faro ardiendo}
-{title_en:}
-{source_lyrics:}
-{tone: Bb}
+{comment: MANTENED EL FARO ARDIENDO}
+{comment: Bb}
 
 {comment: 1}
 La merced de nuestro Padre

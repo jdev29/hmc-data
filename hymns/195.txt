@@ -1,7 +1,5 @@
-{title: Al mundo paz, ¡Nació de Jesús!}
-{title_en:}
-{source_lyrics:}
-{tone: Eb}
+{comment: AL MUNDO PAZ, ¡NACIÓ DE JESÚS!}
+{comment: Eb}
 
 {comment: 1}
 Al mundo paz, nació Jesús!

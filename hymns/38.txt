@@ -1,7 +1,4 @@
-{title: El Consolador ha venido}
-{title_en: }
-{source_lyrics: }
-{tone: }
+{comment: EL CONSOLADOR HA VENIDO}
 
 {comment: 1}
 Doquier el hombre esté, la nueva proclamad,
