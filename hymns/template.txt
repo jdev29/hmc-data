@@ -2,7 +2,6 @@
 {comment: Title}
 {comment: Ll. B. 5; C.T. 15}
 {comment: Autor}
-{tone: C} - {metrics: 4/4} - {bpm: 80}
 
 {comment: Intro}
 

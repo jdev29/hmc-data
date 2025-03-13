@@ -1,6 +1,5 @@
 CARIÑOSO SALVADOR
 {comment: CARIÑOSO SALVADOR}
-{tone: }
 
 {comment: 1}
 Cariñoso Salvador,

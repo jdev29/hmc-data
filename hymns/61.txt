@@ -1,6 +1,5 @@
 
 {comment: MAESTRO SE ENCRESPAN LAS AGUAS}
-{tone: }
 
 {comment: 1}
 Maestro se encrespn las aguas
