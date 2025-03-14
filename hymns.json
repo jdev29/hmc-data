@@ -4,7 +4,8 @@
     "title": "Adoradle",
     "key": "Mi (E) Bemol",
     "meter": "",
-    "categoryId": 1
+    "categoryId": 1,
+    "hasChords": true
   },
   {
     "id": 2,

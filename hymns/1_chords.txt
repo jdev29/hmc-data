@@ -4,37 +4,37 @@
 {comment: Eb}
 
 {comment: Intro}
-[Ebadd9]  [Eb/Bb]  [Ebadd9]  [Bb/Eb]  [Ebadd9]
+[Ebadd9  ]  [Eb/Bb ] [  Ebadd9  ] [Bb/Eb  ] [  Ebadd9]
 
 {comment: 1}
 [Ebadd9]Dad al Padre toda [Fm7]gloria,
 Dad al Hijo todo ho[Ebadd9]nor;
-Y al Es[Ebadd9/Db]píritu []Di[Abadd9]vino,
-[Ebadd9]Alabanzas [Bbadd9]de []lo[Ebadd9]or. [ ][Bbadd9]
+Y al Es[Ebadd9/Db]píritu       Di[Abadd9]vino,
+[Ebadd9]Alabanzas [Bbadd9]de        lo[Ebadd9]or. [  Bbadd9]
 
 {comment: Coro}
 [Ebadd9]Adoradle, [Bbadd9]adoradle.
 [Ebadd9/Ab]Adorad al Salvad[Bbadd9]or;
 [Bbadd9]Tributadle toda [Bbadd9]gloria,
-Pueblo [Ebadd9]suyo por su [Bbadd9]grande am[Ebadd9]or. [ ][Bbadd9]
+Pueblo [Ebadd9]suyo por su [Bbadd9]grande am[Ebadd9]or. [  Bbadd9]
 
 {comment: 2}
 [Ebadd9]Adoradle, oh I[Fm7]glesia
 Redimida por Je[Ebadd9]sús.
-Resca[Ebadd9/Db]tada por su [Abadd9]gracia,
-Gui[Ebadd9]ada por su am[Bbadd9]or []y [Ebadd9]Luz.[ ][Bbadd9]
+Resca[Ebadd9/Db]tada por su   [Abadd9]gracia,
+Gui[Ebadd9]ada por su am[Bbadd9]or y         [Ebadd9]Luz. [  Bbadd9]
 
 {comment: 3}
 [Ebadd9]Entonadle un canto nu[Fm7]evo
 Huestes libres, del Se[Ebadd9]ñor;
 Tierra, [Ebadd9/Db]mar y altos ci[Abadd9]elos,
-[Ebadd9]Gloria dan al [Bbadd9]Trino []Di[Ebadd9]os.[ ][Bbadd9]
+[Ebadd9]Gloria dan al [Bbadd9]Trino      Di[Ebadd9]os. [  Bbadd9]
 
 {comment: Coro}
 [Ebadd9]Yo te adoro, [Bbadd9]yo te adoro,
 [Ebadd9/Ab]Yo te adoro, buen Je[Bbadd9]sús;
 [Bbadd9]te adoro reve[Bbadd9]rente,
-oh, Cor[Ebadd9]dero santo [Bbadd9]de mi []Di[Ebadd9]os.
+oh, Cor[Ebadd9]dero Santo [Bbadd9]de mi     Di[Ebadd9]os.
 
 {comment: Final}
-[Ebadd9] [-] [Bbadd9] [-]  [Ab/Eb] [-] [Ebadd9]
+[Ebadd9 ] [ Bbadd9 ] [Ab/Eb ] [ Ebadd9]
