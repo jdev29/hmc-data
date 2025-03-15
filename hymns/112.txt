@@ -1,5 +1,5 @@
-{comment: TODAS LAS PROMESAS DEL SEÑOR JESÚS}
-{comment: Bb}
+{title: TODAS LAS PROMESAS DEL SEÑOR JESÚS}
+{tone: Bb}
 
 {comment: 1}
 Todas las promesas del Señor Jesús,

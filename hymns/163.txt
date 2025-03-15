@@ -1,5 +1,5 @@
-{comment: CANTA, OH BUEN CRISTIANO}
-{comment: F}
+{title: CANTA, OH BUEN CRISTIANO}
+{tone: F}
 
 {comment: 1}
 Canta, uh buen cristiano,

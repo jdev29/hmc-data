@@ -1,4 +1,4 @@
-{comment: BIENAVENTURADOS LOS DE LIMPIO CORAZÓN}
+{title: BIENAVENTURADOS LOS DE LIMPIO CORAZÓN}
 
 {comment: 1}
 Bienvenidos son los de limpio corazón,

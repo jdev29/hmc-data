@@ -1,4 +1,4 @@
-{comment: ¡OH CRISTO AMADO!}
+{title: ¡OH CRISTO AMADO!}
 
 {comment: 1}
 Oh, Cristo amado, bendito Salvador,

@@ -1,4 +1,4 @@
-{comment: CRISTO VIENE}
+{title: CRISTO VIENE}
 
 {comment: 1}
 Cristo viene: Esto es cierto

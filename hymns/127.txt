@@ -1,5 +1,5 @@
-{comment: SEAMOS FIELES}
-{comment: F}
+{title: SEAMOS FIELES}
+{tone: F}
 
 {comment: 1}
 Seamos fieles nosotros los hermanos

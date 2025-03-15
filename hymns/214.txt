@@ -1,5 +1,5 @@
-{comment: LINDAS LAS MANITAS SON}
-{comment: C}
+{title: LINDAS LAS MANITAS SON}
+{tone: C}
 
 {comment: 1}
 Lindas las manitas son

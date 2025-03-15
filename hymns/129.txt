@@ -1,5 +1,5 @@
-{comment: ALLÍ NO HABRÁ TRIBULACIÓN}
-{comment: A}
+{title: ALLÍ NO HABRÁ TRIBULACIÓN}
+{tone: A}
 
 {comment: 1}
 En la mansión do Cristo está,

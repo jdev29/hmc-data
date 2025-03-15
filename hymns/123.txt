@@ -1,5 +1,5 @@
-{comment: QUIERO VER MI PATRIA}
-{comment: Db}
+{title: QUIERO VER MI PATRIA}
+{tone: Db}
 
 {comment: 1}
 Quiero ver a Jesucristo,

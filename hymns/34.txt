@@ -1,4 +1,4 @@
-{comment: TENDRÁS QUE RENACER}
+{title: TENDRÁS QUE RENACER}
 
 {comment: 1}
 Un hombre llegóse de noche a Jesús

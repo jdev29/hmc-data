@@ -1,4 +1,4 @@
-{comment: GRANDE GOZO HAY}
+{title: GRANDE GOZO HAY}
 
 {comment: 1}
 Grande gozo hay en mi alma hoy.

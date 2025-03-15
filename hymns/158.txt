@@ -1,5 +1,5 @@
-{comment: CERCA, MÁS CERCA}
-{comment: Db}
+{title: CERCA, MÁS CERCA}
+{tone: Db}
 
 {comment: 1}
 Cerca, más cerca, ¡Oh Dios, de Ti!

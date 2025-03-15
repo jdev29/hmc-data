@@ -1,5 +1,5 @@
-{comment: DULCE CONSUELO}
-{comment: D}
+{title: DULCE CONSUELO}
+{tone: D}
 
 {comment: 1}
 En Jesucristo, autor de paz,

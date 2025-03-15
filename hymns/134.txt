@@ -1,5 +1,5 @@
-{comment: ME BUSCA A MÍ}
-{comment: G}
+{title: ME BUSCA A MÍ}
+{tone: G}
 
 {comment: 1}
 El Rey de Gloria a la tierra bajó

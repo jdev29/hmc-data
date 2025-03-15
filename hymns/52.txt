@@ -1,4 +1,4 @@
-{comment: ES CRISTO LA ROCA}
+{title: ES CRISTO LA ROCA}
 
 {comment: 1}
 Cuando olas tan inmensas de embravecido mar

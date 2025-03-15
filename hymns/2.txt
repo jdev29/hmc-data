@@ -1,7 +1,7 @@
-{comment: DULCE COMUNIÓN}
-{comment: Leaning on the Everlasting Arms}
-{comment: H. G. 4}
-{comment: A}
+{title: DULCE COMUNIÓN}
+{title_en: Leaning on the Everlasting Arms}
+{source_lyrics: H. G. 4}
+{tone: A}
 
 {comment: 1}
 Dulce comunión la que gozo ya

@@ -1,5 +1,5 @@
-{comment: MIS CULPAS ÉL LLEVO}
-{comment: Ab}
+{title: MIS CULPAS ÉL LLEVO}
+{tone: Ab}
 
 {comment: 1}
 Camsado y triste vine al Salvadaor,

@@ -1,5 +1,5 @@
-{comment: MI AMOR Y VIDA}
-{comment: F}
+{title: MI AMOR Y VIDA}
+{tone: F}
 
 {comment: 1}
 Mi amor y vida doy a Ti,

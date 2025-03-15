@@ -1,5 +1,5 @@
-{comment: OYE LA VOZ DE CRISTO}
-{comment: Eb}
+{title: OYE LA VOZ DE CRISTO}
+{tone: Eb}
 
 {comment: 1}
 Oye, pecador, la voz de Cristo,

@@ -1,4 +1,4 @@
-{comment: ES JESÚS EL MEJOR AMIGO}
+{title: ES JESÚS EL MEJOR AMIGO}
 
 {comment: 1}
 Es Jesús el mejor amigo

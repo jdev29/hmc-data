@@ -1,4 +1,4 @@
-{comment: SÍ, YO SÉ}
+{title: SÍ, YO SÉ}
 
 {comment: 1}
 Pecador, sin esperanza,

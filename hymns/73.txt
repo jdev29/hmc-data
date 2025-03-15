@@ -1,4 +1,4 @@
-{comment: CUANDO ANDEMOS CON DIOS}
+{title: CUANDO ANDEMOS CON DIOS}
 
 {comment: 1}
 Cuando andemos con Dios,

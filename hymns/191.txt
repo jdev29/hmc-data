@@ -1,5 +1,5 @@
-{comment: LA GRACIA}
-{comment: F}
+{title: LA GRACIA}
+{tone: F}
 
 {comment: 1}
 Un día no me encontraré

@@ -1,5 +1,5 @@
-{comment: CANTARÉ LA MARAVILLA}
-{comment: Eb}
+{title: CANTARÉ LA MARAVILLA}
+{tone: Eb}
 
 {comment: 1}
 Cantaré la maravilla

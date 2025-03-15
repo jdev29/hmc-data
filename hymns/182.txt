@@ -1,5 +1,5 @@
-{comment: VENGO, JESÚS, A TI}
-{comment: A}
+{title: VENGO, JESÚS, A TI}
+{tone: A}
 
 {comment: 1}
 De mis prisiones noche y dolor,

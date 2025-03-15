@@ -1,4 +1,4 @@
-{comment: FIRMES Y ADELANTE}
+{title: FIRMES Y ADELANTE}
 
 {comment: 1}
 Firmes y adelante

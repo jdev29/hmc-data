@@ -1,4 +1,4 @@
-{comment: TE LOAMOS, OH DIOS}
+{title: TE LOAMOS, OH DIOS}
 
 {comment: 1}
 Te loamo, oh Dios,

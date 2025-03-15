@@ -1,5 +1,5 @@
-{comment: ¡TRABAJAD! ¡TRABAJAD!}
-{comment: F}
+{title: ¡TRABAJAD! ¡TRABAJAD!}
+{tone: F}
 
 {comment: 1}
 ¡Trabajad! ¡Trabajad! somos siervos de Dios,

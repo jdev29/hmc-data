@@ -1,5 +1,5 @@
-{comment: TODOS LOS QUE TENGAN SED}
-{comment: G}
+{title: TODOS LOS QUE TENGAN SED}
+{tone: G}
 
 {comment: 1}
 Todos los que tengan sed,

@@ -1,4 +1,4 @@
-{comment: LA CRUZ Y LA GRACIA DE DIOS}
+{title: LA CRUZ Y LA GRACIA DE DIOS}
 
 {comment: 1}
 La cruz no será más pesada

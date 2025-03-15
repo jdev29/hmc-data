@@ -1,4 +1,4 @@
-{comment: DÍA FELIZ}
+{title: DÍA FELIZ}
 
 {comment: 1}
 Feliz momento en que escogí,

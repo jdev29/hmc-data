@@ -1,4 +1,4 @@
-{comment: ¡OH VEN SIN TARDAR!}
+{title: ¡OH VEN SIN TARDAR!}
 
 {comment: 1}
 ¡Oh no rechaces la verdad!

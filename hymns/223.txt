@@ -1,5 +1,5 @@
-{comment: CRISTO HA NACIDO}
-{comment: G}
+{title: CRISTO HA NACIDO}
+{tone: G}
 
 {comment: 1}
 Un hermoso pequeñuelo

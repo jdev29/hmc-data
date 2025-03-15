@@ -1,5 +1,5 @@
-{comment: AMISTAD CON CRISTO}
-{comment: D}
+{title: AMISTAD CON CRISTO}
+{tone: D}
 
 {comment: 1}
 Que dicha inmensa, pues Jesús

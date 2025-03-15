@@ -1,5 +1,5 @@
-{comment: ÉL VIENE EN GLORIA}
-{comment: Bb}
+{title: ÉL VIENE EN GLORIA}
+{tone: Bb}
 
 {comment: 1}
 Oh, proclamad con alegría;

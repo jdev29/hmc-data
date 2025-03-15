@@ -1,5 +1,5 @@
-{comment: LEJOS ALLENDE LOS MARES}
-{comment: C}
+{title: LEJOS ALLENDE LOS MARES}
+{tone: C}
 
 {comment: 1}
 Lejos allende los mares,

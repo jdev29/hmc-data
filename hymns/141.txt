@@ -1,5 +1,5 @@
-{comment: VIENE OTRA VEZ}
-{comment: F}
+{title: VIENE OTRA VEZ}
+{tone: F}
 
 {comment: 1}
 Cantan los ángeles con dulce voz

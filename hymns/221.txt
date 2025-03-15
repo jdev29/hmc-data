@@ -1,5 +1,5 @@
-{comment: LA PUERTA ABRID A LOS NIÑOS}
-{comment: C}
+{title: LA PUERTA ABRID A LOS NIÑOS}
+{tone: C}
 
 {comment: 1}
 La puerta abrid a los niños.

@@ -1,4 +1,4 @@
-{comment: EL NOMBRE DE JESÚS}
+{title: EL NOMBRE DE JESÚS}
 
 {comment: 1}
 ¡Tan dulce el nombre de Jesús!

@@ -1,5 +1,5 @@
-{comment: MÁS CERCA DE CRISTO}
-{comment: Bb}
+{title: MÁS CERCA DE CRISTO}
+{tone: Bb}
 
 {comment: 1}
 De Cristo cada día quiero yo más cerca estar,

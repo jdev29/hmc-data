@@ -1,5 +1,5 @@
-{comment: PECADOR, VEN AL DULCE JESÚS}
-{comment: G}
+{title: PECADOR, VEN AL DULCE JESÚS}
+{tone: G}
 
 {comment: 1}
 Pecador, veb al dulce Jesús,

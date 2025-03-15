@@ -1,5 +1,5 @@
-{comment: IGLESIA DE CRISTO}
-{comment: F}
+{title: IGLESIA DE CRISTO}
+{tone: F}
 
 {comment: 1}
 Iglesia de Cristo reanima tu amor,

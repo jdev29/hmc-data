@@ -1,5 +1,5 @@
-{comment: CRISTO VIVE}
-{comment: Bb}
+{title: CRISTO VIVE}
+{tone: Bb}
 
 {comment: 1}
 Resucitó triunfante, Jesús mi Salvador,

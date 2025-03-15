@@ -1,5 +1,5 @@
-{comment: MARCHARÉ}
-{comment: C}
+{title: MARCHARÉ}
+{tone: C}
 
 {comment: 1}
 Marcharé en la luz de Dios.

@@ -1,5 +1,5 @@
-{comment: ¡OH DIOS, VISÍTANOS!}
-{comment: Fb}
+{title: ¡OH DIOS, VISÍTANOS!}
+{tone: Fb}
 
 {comment: 1}
 ¡Oh, Dios visítanos, no tardes!

@@ -1,5 +1,5 @@
-{comment: HALLÉ LA FUENTE SIN IGUAL}
-{comment: Eb}
+{title: HALLÉ LA FUENTE SIN IGUAL}
+{tone: Eb}
 
 {comment: 1}
 Por fe contemplo redención

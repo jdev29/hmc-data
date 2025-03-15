@@ -1,5 +1,5 @@
-{comment: EN LA VIÑA DEL SEÑOR}
-{comment: Ab}
+{title: EN LA VIÑA DEL SEÑOR}
+{tone: Ab}
 
 {comment: 1}
 Yo quiero trabajar por el Señor

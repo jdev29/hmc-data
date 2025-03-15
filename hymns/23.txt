@@ -1,4 +1,4 @@
-{comment: MI REDENTOR EL REY DE GLORIA}
+{title: MI REDENTOR EL REY DE GLORIA}
 
 {comment: 1}
 Mi Redentot, El Rey de gloria,

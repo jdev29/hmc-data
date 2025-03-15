@@ -1,5 +1,5 @@
-{comment: ¡NOCHE DE PAZ!}
-{comment: C}
+{title: ¡NOCHE DE PAZ!}
+{tone: C}
 
 {comment: 1}
 ¡Noche de paz, noche de amor!

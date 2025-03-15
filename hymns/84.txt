@@ -1,4 +1,4 @@
-{comment: SOY YO SOLDADO DE JESÚS}
+{title: SOY YO SOLDADO DE JESÚS}
 
 {comment: 1}
 Soy yo soldado de Jesús,

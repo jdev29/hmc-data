@@ -1,5 +1,5 @@
-{comment: TENTADO NO CEDAS}
-{comment: Gb}
+{title: TENTADO NO CEDAS}
+{tone: Gb}
 
 {comment: 1}
 Tentado no cedas;

@@ -1,5 +1,5 @@
-{comment: CASTILLO FUERTE ES NUESTRO DIOS}
-{comment: G}
+{title: CASTILLO FUERTE ES NUESTRO DIOS}
+{tone: G}
 
 {comment: 1}
 Castllo fuerte es nuestro Dios

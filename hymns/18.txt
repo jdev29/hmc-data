@@ -1,4 +1,4 @@
-{comment: GOZO HAY EN CIELO}
+{title: GOZO HAY EN CIELO}
 
 {comment: 1}
 Gozo hay en el cielo, por la salvación

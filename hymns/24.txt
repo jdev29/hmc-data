@@ -1,4 +1,4 @@
-{comment: ANDANDO EN LA CRUZ}
+{title: ANDANDO EN LA CRUZ}
 
 {comment: 1}
 Vagaba yo en oscuridad

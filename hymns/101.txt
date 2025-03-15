@@ -1,5 +1,5 @@
-{comment: ESTAD POR CRISTO FIRMES}
-{comment: Bb}
+{title: ESTAD POR CRISTO FIRMES}
+{tone: Bb}
 
 {comment: 1}
 ¡Estad por Cristo firmes,

@@ -1,5 +1,5 @@
-{comment: DA LA LUZ}
-{comment: Ab}
+{title: DA LA LUZ}
+{tone: Ab}
 
 {comment: 1}
 Un llamado llega desde el turbio mar,

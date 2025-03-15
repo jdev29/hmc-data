@@ -1,4 +1,4 @@
-{comment: PUEDO OÍR TU VOZ}
+{title: PUEDO OÍR TU VOZ}
 
 {comment: 1}
 Puedo oír tu voz llamando,

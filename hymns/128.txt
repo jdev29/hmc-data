@@ -1,5 +1,5 @@
-{comment: JESÚS AL MUNDO VIENE OTRA VEZ}
-{comment: G}
+{title: JESÚS AL MUNDO VIENE OTRA VEZ}
+{tone: G}
 
 {comment: 1}
 Yo espero el día alegre cuando Cristo volverá

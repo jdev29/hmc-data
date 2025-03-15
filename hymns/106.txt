@@ -1,5 +1,5 @@
-{comment: DEJO EL MUNDO Y SIGO A CRISTO}
-{comment: F}
+{title: DEJO EL MUNDO Y SIGO A CRISTO}
+{tone: F}
 
 {comment: 1}
 Dejó al mundo y sigo a Cristo,

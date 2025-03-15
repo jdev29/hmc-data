@@ -1,5 +1,5 @@
-{comment: ¡PAZ, PAZ! ¡CUÁN DULCE PAZ!}
-{comment: Ab}
+{title: ¡PAZ, PAZ! ¡CUÁN DULCE PAZ!}
+{tone: Ab}
 
 {comment: 1}
 En el seno de mi alma una dulce quietud

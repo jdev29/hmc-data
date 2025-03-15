@@ -1,5 +1,5 @@
-{comment: MANTENED EL FARO ARDIENDO}
-{comment: Bb}
+{title: MANTENED EL FARO ARDIENDO}
+{tone: Bb}
 
 {comment: 1}
 La merced de nuestro Padre

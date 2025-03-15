@@ -1,5 +1,5 @@
-{comment: NO LO HAY}
-{comment: F}
+{title: NO LO HAY}
+{tone: F}
 
 {comment: 1}
 No hay cual Jesús otro fiel amigo

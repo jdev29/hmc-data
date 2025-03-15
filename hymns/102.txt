@@ -1,5 +1,5 @@
-{comment: GRATO ES DECIR LA HISTORIA}
-{comment: Ab}
+{title: GRATO ES DECIR LA HISTORIA}
+{tone: Ab}
 
 {comment: 1}
 Grato es decir la historia

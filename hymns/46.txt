@@ -1,4 +1,4 @@
-{comment: MÁS BLANCO QUE LA NIEVE}
+{title: MÁS BLANCO QUE LA NIEVE}
 
 {comment: 1}
 Yo quiero ser puro, oh mi buen Jesús,

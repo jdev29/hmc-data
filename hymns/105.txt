@@ -1,5 +1,5 @@
-{comment: EN EL MUNDO FELIZ}
-{comment: G}
+{title: EN EL MUNDO FELIZ}
+{tone: G}
 
 {comment: 1}
 Hay un mundo feliz más allá

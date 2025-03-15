@@ -1,4 +1,4 @@
-{comment: CARA A CARA}
+{title: CARA A CARA}
 
 {comment: 1}
 Yo anhelo ves tu rostro;

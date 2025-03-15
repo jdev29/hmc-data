@@ -1,4 +1,4 @@
-{comment: BAUTÍCESE CADA UNO}
+{title: BAUTÍCESE CADA UNO}
 
 {comment: 1}
 En las aguas de la muerte

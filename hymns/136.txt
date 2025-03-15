@@ -1,5 +1,5 @@
-{comment: ME GUIA ÉL, CON CUÁNTO AMOR}
-{comment: D}
+{title: ME GUIA ÉL, CON CUÁNTO AMOR}
+{tone: D}
 
 {comment: 1}
 Me guía Él, con cuánto amor

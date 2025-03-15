@@ -1,4 +1,4 @@
-{comment: LA SIEMBRA}
+{title: LA SIEMBRA}
 
 {comment: 1}
 Sembraré la simiente preciosa

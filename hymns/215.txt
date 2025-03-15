@@ -1,5 +1,5 @@
-{comment: CUANDO VENGA JESUCRISTO}
-{comment: A}
+{title: CUANDO VENGA JESUCRISTO}
+{tone: A}
 
 {comment: 1}
 Cuando venga Jesucristo

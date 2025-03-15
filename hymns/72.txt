@@ -1,4 +1,4 @@
-{comment: HAY QUIEN VIGILE}
+{title: HAY QUIEN VIGILE}
 
 {comment: 1}
 Hay quien vele mis pisadas,

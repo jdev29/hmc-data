@@ -1,5 +1,5 @@
-{comment: CON VOZ BENIGNA}
-{comment: C}
+{title: CON VOZ BENIGNA}
+{tone: C}
 
 {comment: 1}
 Con voz benigna te llama Jesús,

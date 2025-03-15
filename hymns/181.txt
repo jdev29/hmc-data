@@ -1,5 +1,5 @@
-{comment: LOS PEREGRINOS}
-{comment: Eb}
+{title: LOS PEREGRINOS}
+{tone: Eb}
 
 {comment: 1}
 ¡Cuán dulce es la reunión!

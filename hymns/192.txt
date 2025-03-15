@@ -1,5 +1,5 @@
-{comment: NO PUEDO ESTAR SOLO}
-{comment: Eb}
+{title: NO PUEDO ESTAR SOLO}
+{tone: Eb}
 
 {comment: 1}
 Alguien va conmigo de la vida en el correr,

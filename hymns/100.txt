@@ -1,4 +1,4 @@
-{comment: A LOS PIES DE JESUCRISTO}
+{title: A LOS PIES DE JESUCRISTO}
 
 {comment: 1}
 A loa pies de Jesucristo,

@@ -1,4 +1,4 @@
-{comment: TE QUIERO, MI SEÑOR}
+{title: TE QUIERO, MI SEÑOR}
 
 {comment: 1}
 ¡Te quiero, mi Señor! habita en mí,

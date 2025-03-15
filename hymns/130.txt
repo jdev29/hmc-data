@@ -1,5 +1,5 @@
-{comment: GUÍANOS, PASTOR DIVINO}
-{comment: E}
+{title: GUÍANOS, PASTOR DIVINO}
+{tone: E}
 
 {comment: 1}
 Guíanos Pastor Divino,

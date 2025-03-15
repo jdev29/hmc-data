@@ -1,5 +1,5 @@
-{comment: EL SEÑOR ASÍ ME HABLÓ}
-{comment: Eb}
+{title: EL SEÑOR ASÍ ME HABLÓ}
+{tone: Eb}
 
 {comment: 1}
 El Señor así me habló,

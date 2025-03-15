@@ -1,5 +1,5 @@
-{comment: NÍTIDO RAYO POR CRISTO}
-{comment: G}
+{title: NÍTIDO RAYO POR CRISTO}
+{tone: G}
 
 Nítido rayo, por Cristo,
 Yo quiero siempre ser,

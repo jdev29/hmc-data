@@ -1,4 +1,4 @@
-{comment: SANTA BIBLIA}
+{title: SANTA BIBLIA}
 
 {comment: 1}
 Santa Biblia para mí

@@ -1,4 +1,4 @@
-{comment: LA GLORIOSA APARICIÓN}
+{title: LA GLORIOSA APARICIÓN}
 
 {comment: 1}
 Día de victoria y celestial fulgor,

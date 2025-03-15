@@ -1,5 +1,5 @@
-{comment: BAJA DEL CIELO BENDITO FUEGO}
-{comment: G}
+{title: BAJA DEL CIELO BENDITO FUEGO}
+{tone: G}
 
 {comment: 1}
 Fuego divino, clamamos por ti,

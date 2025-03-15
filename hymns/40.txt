@@ -1,4 +1,4 @@
-{comment: EN LOS NEGOCIOS DEL REY}
+{title: EN LOS NEGOCIOS DEL REY}
 
 {comment: 1}
 Soy peregrino aquí, mi hogar lejano está

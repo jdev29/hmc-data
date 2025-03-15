@@ -1,5 +1,5 @@
-{comment: ¿QUÉ ME IMPORTAN LAS PENAS?}
-{comment: F}
+{title: ¿QUÉ ME IMPORTAN LAS PENAS?}
+{tone: F}
 
 {comment: 1}
 ¿Qué me importan del mundo las penas

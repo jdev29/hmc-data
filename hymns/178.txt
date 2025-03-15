@@ -1,5 +1,5 @@
-{comment: CADA MOMENTO}
-{comment: F}
+{title: CADA MOMENTO}
+{tone: F}
 
 {comment: 1}
 Cristo me ayuda por Él a vivir,

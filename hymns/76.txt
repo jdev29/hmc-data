@@ -1,4 +1,4 @@
-{comment: BELLAS PALABRAS DE VIDA}
+{title: BELLAS PALABRAS DE VIDA}
 
 {comment: 1}
 ¡Oh! cantádmelas otra vez

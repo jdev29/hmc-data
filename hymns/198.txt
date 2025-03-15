@@ -1,5 +1,5 @@
-{comment: A MEDIA NOCHE EN BETHLEHEM}
-{comment: Bb}
+{title: A MEDIA NOCHE EN BETHLEHEM}
+{tone: Bb}
 
 {comment: 1}
 A media noche en Bethlehem

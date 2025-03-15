@@ -1,5 +1,5 @@
-{comment: POR UNA SENDA ESTRECHA ANDABA YO}
-{comment: F}
+{title: POR UNA SENDA ESTRECHA ANDABA YO}
+{tone: F}
 
 {comment: 1}
 Por una senda estrecha andaba yo,

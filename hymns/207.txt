@@ -1,5 +1,5 @@
-{comment: ROSTRO DIVINO}
-{comment: C}
+{title: ROSTRO DIVINO}
+{tone: C}
 
 {comment: 1}
 Rostro divino ensangrentado,

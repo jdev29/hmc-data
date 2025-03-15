@@ -1,3 +1,3 @@
-{comment: UN DÍA CRISTO VOLVERÁ}
-{comment: Ab}
+{title: UN DÍA CRISTO VOLVERÁ}
+{tone: Ab}
 

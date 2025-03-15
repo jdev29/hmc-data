@@ -1,5 +1,5 @@
-{comment: SOY PEREGRINO AQUÍ}
-{comment: Ab}
+{title: SOY PEREGRINO AQUÍ}
+{tone: Ab}
 
 {comment: 1}
 Peregrino soy aquí, lejos de mi hogar;

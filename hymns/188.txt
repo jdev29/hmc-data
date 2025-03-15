@@ -1,5 +1,5 @@
-{comment: CREO EN LA BIBLIA}
-{comment: D}
+{title: CREO EN LA BIBLIA}
+{tone: D}
 
 {comment: 1}
 Creo en la Biblia, el libro redentor,

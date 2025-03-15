@@ -1,5 +1,4 @@
-¡OH! YO QUIERO ANDAR CON CRISTO
-{comment: ¡OH! YO QUIERO ANDAR CON CRISTO}
+{title: ¡OH! YO QUIERO ANDAR CON CRISTO}
 
 {comment: 1}
 ¡Oh! yo quiero andar con Cristo,

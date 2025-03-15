@@ -1,4 +1,4 @@
-{comment: MI FE ESPERA EN TI}
+{title: MI FE ESPERA EN TI}
 
 {comment: 1}
 Mi fe espera en Ti,

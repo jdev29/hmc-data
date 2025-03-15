@@ -1,5 +1,5 @@
-{comment: COMPRADO CON SANGRE POR CRISTO}
-{comment: Ab}
+{title: COMPRADO CON SANGRE POR CRISTO}
+{tone: Ab}
 
 {comment: 1}
 Comprado con sangre por Cristo,

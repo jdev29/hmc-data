@@ -1,5 +1,5 @@
-{comment: HABLA, JESÚS CONMIGO}
-{comment: C}
+{title: HABLA, JESÚS CONMIGO}
+{tone: C}
 
 {comment: 1}
 Habla, Jesús, conmigo,

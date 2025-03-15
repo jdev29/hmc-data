@@ -1,5 +1,5 @@
-{comment: CRISTO ESTÁ BUSCANDO OBREROS}
-{comment: Ab}
+{title: CRISTO ESTÁ BUSCANDO OBREROS}
+{tone: Ab}
 
 {comment: 1}
 Cristo está buscando obreros hoy

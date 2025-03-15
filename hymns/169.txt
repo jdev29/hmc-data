@@ -1,5 +1,5 @@
-{comment: LA PAZ QUE CRISTO DA}
-{comment: A}
+{title: LA PAZ QUE CRISTO DA}
+{tone: A}
 
 {comment: 1}
 ¿Has hallado la paz de Jesucristo?

@@ -1,4 +1,4 @@
-{comment: MELODÍAS CELESTIALES}
+{title: MELODÍAS CELESTIALES}
 
 {comment: 1}
 Dulces melodías cantaré,

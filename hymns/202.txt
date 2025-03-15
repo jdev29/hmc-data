@@ -1,5 +1,5 @@
-{comment: GUERREROS FIELES}
-{comment: D}
+{title: GUERREROS FIELES}
+{tone: D}
 
 {comment: 1}
 Guerreros fieles somos

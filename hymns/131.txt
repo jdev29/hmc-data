@@ -1,5 +1,5 @@
-{comment: ME LEVANTÓ}
-{comment: G}
+{title: ME LEVANTÓ}
+{tone: G}
 
 {comment: 1}
 Mi salvador en su bondad,

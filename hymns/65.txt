@@ -1,4 +1,4 @@
-{comment: NO TE DÉ TEMOR}
+{title: NO TE DÉ TEMOR}
 
 {comment: 1}
 No te dé temor hablar por Cristo,

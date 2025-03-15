@@ -1,4 +1,4 @@
-{comment: TODO A CRISTO YO ME RINDO}
+{title: TODO A CRISTO YO ME RINDO}
 
 {comment: 1}
 Todo a Cristo yo me rindo,

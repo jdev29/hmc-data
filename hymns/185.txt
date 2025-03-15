@@ -1,5 +1,5 @@
-{comment: HAY LUZ GLORIOSA EN MI CAMINO}
-{comment: G}
+{title: HAY LUZ GLORIOSA EN MI CAMINO}
+{tone: G}
 
 {comment: 1}
 Hay luz gloriosa en mi camino,

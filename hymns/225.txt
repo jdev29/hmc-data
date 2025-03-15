@@ -1,5 +1,5 @@
-{comment: NUEVAS ALEGRES}
-{comment: Eb}
+{title: NUEVAS ALEGRES}
+{tone: Eb}
 
 {comment: 1}
 Nuevas alegres para decirles

@@ -1,4 +1,4 @@
-{comment: EL AMOR DE MI SEÑOR}
+{title: EL AMOR DE MI SEÑOR}
 
 {comment: 1}
 Del santo amor de Cristo por siempre sin igual

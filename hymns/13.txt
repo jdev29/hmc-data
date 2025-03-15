@@ -1,4 +1,4 @@
-{comment: DULCE ORACIÓN}
+{title: DULCE ORACIÓN}
 
 {comment: 1}
 Dulce oración, dulce oración,

@@ -1,4 +1,4 @@
-{comment: UN PRECIOSO MANANTIAL}
+{title: UN PRECIOSO MANANTIAL}
 
 {comment: 1}
 Hay un precioso manantial

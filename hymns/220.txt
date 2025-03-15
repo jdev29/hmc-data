@@ -1,5 +1,5 @@
-{comment: BRILLEMOS CUAL VELITAS}
-{comment: G}
+{title: BRILLEMOS CUAL VELITAS}
+{tone: G}
 
 {comment: 1}
 Brillemos cual velitas con clara luz,

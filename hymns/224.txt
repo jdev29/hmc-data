@@ -1,5 +1,5 @@
-{comment: AUNQUE SOY PEQUEÑUELO}
-{comment: Bb}
+{title: AUNQUE SOY PEQUEÑUELO}
+{tone: Bb}
 
 {comment: 1}
 Aunque soy pequñuelo,

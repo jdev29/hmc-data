@@ -1,5 +1,5 @@
-{comment: HUBO QUIEN POR MIS CULPAS}
-{comment: F}
+{title: HUBO QUIEN POR MIS CULPAS}
+{tone: F}
 
 {comment: 1}
 Hubo quien por mis culpas muriese en la Cruz,

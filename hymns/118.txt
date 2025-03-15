@@ -1,5 +1,5 @@
-{comment: NO PUEDE EL MUNDO SER MI HOGAR}
-{comment: C}
+{title: NO PUEDE EL MUNDO SER MI HOGAR}
+{tone: C}
 
 {comment: 1}
 La senda ancha dejaré,

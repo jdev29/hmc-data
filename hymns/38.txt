@@ -1,4 +1,4 @@
-{comment: EL CONSOLADOR HA VENIDO}
+{title: EL CONSOLADOR HA VENIDO}
 
 {comment: 1}
 Doquier el hombre esté, la nueva proclamad,

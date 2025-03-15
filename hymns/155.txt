@@ -1,5 +1,5 @@
-{comment: ¡CUÁN DULCE ES CONFIAR EN CRISTO}
-{comment: Ab}
+{title: ¡CUÁN DULCE ES CONFIAR EN CRISTO}
+{tone: Ab}
 
 {comment: 1}
 ¡Cuán dulce es confiar en Cristo,

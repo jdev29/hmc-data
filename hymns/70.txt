@@ -1,4 +1,4 @@
-{comment: LIBRE ESTOY}
+{title: LIBRE ESTOY}
 
 {comment: 1}
 Yo vagaba mucho tiempo en el error,

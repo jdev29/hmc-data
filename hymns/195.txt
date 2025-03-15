@@ -1,5 +1,5 @@
-{comment: AL MUNDO PAZ, ¡NACIÓ DE JESÚS!}
-{comment: Eb}
+{title: AL MUNDO PAZ, ¡NACIÓ DE JESÚS!}
+{tone: Eb}
 
 {comment: 1}
 Al mundo paz, nació Jesús!

@@ -1,5 +1,5 @@
-{comment: EN UN APOSENTO ALTO}
-{comment: F}
+{title: EN UN APOSENTO ALTO}
+{tone: F}
 
 {comment: 1}
 En un aposento alto,

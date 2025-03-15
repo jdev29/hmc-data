@@ -1,5 +1,5 @@
-{comment: ABRIGO DE LA TEMPESTAD}
-{comment: F}
+{title: ABRIGO DE LA TEMPESTAD}
+{tone: F}
 
 {comment: 1}
 Me cuida Dios mi Protector,

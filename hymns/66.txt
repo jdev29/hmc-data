@@ -1,4 +1,4 @@
-{comment: JUNTO A LA CRUZ}
+{title: JUNTO A LA CRUZ}
 
 {comment: 1}
 Junto a la cruz, do Jesús murió,

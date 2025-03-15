@@ -1,5 +1,5 @@
-{comment: EL AMOR DE CRISTO VIENE SOBRE MÍ}
-{comment: F}
+{title: EL AMOR DE CRISTO VIENE SOBRE MÍ}
+{tone: F}
 
 {comment: 1}
 De fuente de aguas vivas mi alma tiene sed,

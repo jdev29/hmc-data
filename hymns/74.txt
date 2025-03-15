@@ -1,4 +1,4 @@
-{comment: DILO A CRISTO}
+{title: DILO A CRISTO}
 
 {comment: 1}
 Cuando estés cansado y abatido

@@ -1,5 +1,5 @@
-{comment: NINGÚN OTRO ME AMA COMO CRISTO}
-{comment: D}
+{title: NINGÚN OTRO ME AMA COMO CRISTO}
+{tone: D}
 
 Contaréles del amor de Jesucristo,
 Un amigo fiel en Él ya encontré

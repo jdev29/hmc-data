@@ -1,5 +1,5 @@
-{comment: CRISTO RESUCITÓ}
-{comment: C}
+{title: CRISTO RESUCITÓ}
+{tone: C}
 
 {comment: 1}
 Ahí en la Cruz murió,

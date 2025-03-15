@@ -1,5 +1,5 @@
-{comment: VE, VE OH SIÓN}
-{comment: Bb}
+{title: VE, VE OH SIÓN}
+{tone: Bb}
 
 {comment: 1}
 Ve, ve oh Sión tu gran destino cumple;

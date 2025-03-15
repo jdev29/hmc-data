@@ -1,5 +1,5 @@
-{comment: SOY EL HIJO DE UN REY}
-{comment: Eb}
+{title: SOY EL HIJO DE UN REY}
+{tone: Eb}
 
 {comment: 1}
 Mi padre es un Rey muy rico sin par,

@@ -1,4 +1,4 @@
-{comment: CRISTO, EL REY DE GLORIA}
+{title: CRISTO, EL REY DE GLORIA}
 
 {comment: 1}
 Ved al Cristo, Rey de Gloria

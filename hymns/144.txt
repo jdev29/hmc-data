@@ -1,5 +1,5 @@
-{comment: CANTARÉ, CANTARÉ DEL HERMOSO PAÍS}
-{comment: Eb}
+{title: CANTARÉ, CANTARÉ DEL HERMOSO PAÍS}
+{tone: Eb}
 
 {comment: 1}
 Cantaré, cantaré del hermoso país;

@@ -1,4 +1,4 @@
-{comment: GLORIA AL CORDERO}
+{title: GLORIA AL CORDERO}
 
 {comment: 1}
 Cristo mío, me salvaste,

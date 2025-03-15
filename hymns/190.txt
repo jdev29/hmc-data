@@ -1,5 +1,5 @@
-{comment: NO ME IMPORTAN RIQUEZAS}
-{comment: Ab}
+{title: NO ME IMPORTAN RIQUEZAS}
+{tone: Ab}
 
 {comment: 1}
 No me importan riquezas,

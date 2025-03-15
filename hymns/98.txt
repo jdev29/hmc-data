@@ -1,4 +1,4 @@
-{comment: GUÍAME ¡OH SALVADOR!}
+{title: GUÍAME ¡OH SALVADOR!}
 
 {comment: 1}
 Guíame, ¡Oh, Salvador!

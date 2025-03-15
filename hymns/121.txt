@@ -1,5 +1,5 @@
-{comment: MANDA OTRA LLUVIA}
-{comment: Ab}
+{title: MANDA OTRA LLUVIA}
+{tone: Ab}
 
 {comment: 1}
 Unánimes junto a la cruz,

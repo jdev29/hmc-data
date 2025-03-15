@@ -1,5 +1,5 @@
-{comment: JESÚS A CADA NIÑO}
-{comment: F}
+{title: JESÚS A CADA NIÑO}
+{tone: F}
 
 {comment: 1}
 Jesús a cada niño le da su bendición,

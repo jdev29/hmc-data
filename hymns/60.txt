@@ -1,4 +1,4 @@
-{comment: JESÚS YO HE PROMETIDO}
+{title: JESÚS YO HE PROMETIDO}
 
 {comment: 1}
 Jesús yo he prometido

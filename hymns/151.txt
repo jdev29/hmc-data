@@ -1,5 +1,5 @@
-{comment: ESCUCHA POBRE PECADOR}
-{comment: G}
+{title: ESCUCHA POBRE PECADOR}
+{tone: G}
 
 {comment: 1}
 Escucha, pobre pecador,

@@ -1,5 +1,4 @@
-CARIÑOSO SALVADOR
-{comment: CARIÑOSO SALVADOR}
+{title: CARIÑOSO SALVADOR}
 
 {comment: 1}
 Cariñoso Salvador,

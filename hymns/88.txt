@@ -1,4 +1,4 @@
-{comment: ¡OH, CUÁNTO AMO A CRISTO!}
+{title: ¡OH, CUÁNTO AMO A CRISTO!}
 
 {comment: 1}
 Es Cristo quien por mí murió

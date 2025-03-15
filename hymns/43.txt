@@ -1,4 +1,4 @@
-{comment: A JESUCRISTO VEN}
+{title: A JESUCRISTO VEN}
 
 {comment: 1}
 A Jesucristo ven sin tardar,

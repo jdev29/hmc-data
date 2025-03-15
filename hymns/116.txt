@@ -1,5 +1,5 @@
-{comment: QUIERO SEGUIR LAS PISADAS DEL MAESTRO}
-{comment: Db}
+{title: QUIERO SEGUIR LAS PISADAS DEL MAESTRO}
+{tone: Db}
 
 {comment: 1}
 Quiero seguir las pisadas del Maestro;

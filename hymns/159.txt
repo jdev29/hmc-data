@@ -1,5 +1,5 @@
-{comment: LA SENDA ES MUY ESTRECHA}
-{comment: Ab}
+{title: LA SENDA ES MUY ESTRECHA}
+{tone: Ab}
 
 {comment: 1}
 Hoy no es mi vida como antes fue

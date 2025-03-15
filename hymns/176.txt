@@ -1,5 +1,5 @@
-{comment: SOLÓ UN POCO MÁS DE LA VIDA AQUÍ}
-{comment: Ab}
+{title: SOLÓ UN POCO MÁS DE LA VIDA AQUÍ}
+{tone: Ab}
 
 {comment: 1}
 Sólo un poco más de la vida aquí,

@@ -1,4 +1,4 @@
-{comment: EL MUNDO PERDIDO}
+{title: EL MUNDO PERDIDO}
 
 {comment: 1}
 El mundo perdido en pecado se vio;

@@ -1,5 +1,5 @@
-{comment: ADORADLE}
-{comment: I Will Praise Him}
+{title: ADORADLE}
+{tone: I Will Praise Him}
 {comment: Ll. B. 5; C.T. 15}
 {comment: Eb}
 

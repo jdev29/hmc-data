@@ -1,5 +1,5 @@
-{comment: DIOS ES AMOR}
-{comment: Bb}
+{title: DIOS ES AMOR}
+{tone: Bb}
 
 En pecados y temor, Cristo el Señor me vio
 Aunque indigno pecador sin merecer su amor,

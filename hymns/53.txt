@@ -1,4 +1,4 @@
-{comment: EN LA CRUZ}
+{title: EN LA CRUZ}
 
 {comment: 1}
 En mis pecados fui a Jesús,

@@ -1,4 +1,4 @@
-{comment: ¡OH BONDAD TAN INFINITA!}
+{title: ¡OH BONDAD TAN INFINITA!}
 
 {comment: 1}
 ¡Oh bondad tan infinita

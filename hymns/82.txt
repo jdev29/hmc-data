@@ -1,4 +1,4 @@
-{comment: DESPLIEGUE EL CRISTIANO}
+{title: DESPLIEGUE EL CRISTIANO}
 
 {comment: 1}
 Despliegue el cristiano su santa bandera,

@@ -1,5 +1,5 @@
-{comment: SALVO EN LOS TIERNOS BRAZOS}
-{comment: Bb}
+{title: SALVO EN LOS TIERNOS BRAZOS}
+{tone: Bb}
 
 {comment: 1}
 Salvo en los tiernos brazos

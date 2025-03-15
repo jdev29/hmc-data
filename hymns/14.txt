@@ -1,4 +1,4 @@
-{comment: ¡OH, QUE AMIGO!}
+{title: ¡OH, QUE AMIGO!}
 
 {comment: 1}
 ¡Oh, qué amigo nos es Cristo!

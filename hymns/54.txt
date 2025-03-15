@@ -1,4 +1,4 @@
-{comment: A COMBATIR}
+{title: A COMBATIR}
 
 {comment: 1}
 ¡A combatir! Resuena la guerrera voz

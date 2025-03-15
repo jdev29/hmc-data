@@ -1,5 +1,5 @@
-{comment: CUANDO ALLÁ SE PASE LISTA}
-{comment: Ab}
+{title: CUANDO ALLÁ SE PASE LISTA}
+{tone: Ab}
 
 {comment: 1}
 Cuando la trompeta suene

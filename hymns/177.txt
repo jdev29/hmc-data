@@ -1,5 +1,5 @@
-{comment: A JESÚS MI VIDA ENTREGO}
-{comment: Ab}
+{title: A JESÚS MI VIDA ENTREGO}
+{tone: Ab}
 
 {comment: 1}
 A Jesús mi vida entrego

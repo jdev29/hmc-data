@@ -1,5 +1,5 @@
-{comment: ÉL ES MI TODO AQUÍ}
-{comment: A}
+{title: ÉL ES MI TODO AQUÍ}
+{tone: A}
 
 En el pecado siempre vagaba sin Jesús,
 Hasta que por su gracia yo recibí la luz;

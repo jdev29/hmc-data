@@ -1,5 +1,5 @@
-{comment: JAMÁS ME DEJARÁ}
-{comment: C}
+{title: JAMÁS ME DEJARÁ}
+{tone: C}
 
 {comment: 1}
 Yo vi espantosos rayos, los truenos oí rugir;

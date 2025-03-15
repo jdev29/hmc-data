@@ -1,5 +1,5 @@
-{comment: SÓLO LA SANGRE}
-{comment: G}
+{title: SÓLO LA SANGRE}
+{tone: G}
 
 {comment: 1}
 ¿Quién me puede dar perdón?

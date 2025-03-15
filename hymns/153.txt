@@ -1,5 +1,5 @@
-{comment: ESTA SERÁ GLORIA}
-{comment: Ab}
+{title: ESTA SERÁ GLORIA}
+{tone: Ab}
 
 {comment: 1}
 Cuando yo llegue el Edén celestial,

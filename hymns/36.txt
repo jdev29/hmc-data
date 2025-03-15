@@ -1,4 +1,4 @@
-{comment: ENTERA CONSAGRACIÓN}
+{title: ENTERA CONSAGRACIÓN}
 
 {comment: 1}
 Que mi vida entera esté

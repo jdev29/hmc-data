@@ -1,5 +1,5 @@
-{comment: TITLE}
-{comment: Title}
+{title: TITLE}
+{tone: Title}
 {comment: Ll. B. 5; C.T. 15}
 {comment: Autor}
 

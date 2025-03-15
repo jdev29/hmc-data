@@ -1,5 +1,5 @@
-{comment: GRANDES COSAS CRISTO HA HECHO PARA MÍ}
-{comment: F}
+{title: GRANDES COSAS CRISTO HA HECHO PARA MÍ}
+{tone: F}
 
 Hallé un buen amigo, Mi amado Salvador,
 Contaré lo que él ha hecho para mí;

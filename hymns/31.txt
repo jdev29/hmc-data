@@ -1,4 +1,4 @@
-{comment: CRISTO ES MI DULCE SALVADOR}
+{title: CRISTO ES MI DULCE SALVADOR}
 
 {comment: 1}
 Cristo es mi dulce Salvador.

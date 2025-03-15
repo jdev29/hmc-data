@@ -1,5 +1,5 @@
-{comment: LLUVIAS DE GRACIA}
-{comment: Bb}
+{title: LLUVIAS DE GRACIA}
+{tone: Bb}
 
 {comment: 1}
 Dios nos ha dado promesa:

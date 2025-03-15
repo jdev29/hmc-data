@@ -1,5 +1,5 @@
-{comment: CRISTO ME AMA}
-{comment: Eb}
+{title: CRISTO ME AMA}
+{tone: Eb}
 
 {comment: 1}
 Cristo me ama, bien lo sé,

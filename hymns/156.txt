@@ -1,5 +1,5 @@
-{comment: FIRMES, FIRMES}
-{comment: D}
+{title: FIRMES, FIRMES}
+{tone: D}
 
 {comment: 1}
 ¡Ved, soldados, la bandera
