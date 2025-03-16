@@ -2,6 +2,8 @@
 {title_en: I Will Praise Him}
 {source_lyrics: Ll. B. 5; C.T. 15}
 {tone: Eb}
+{bpm: 80}
+{time_signature: 4/4}
 
 {comment: Intro}
 [Ebadd9  ]  [Eb/Bb ] [  Ebadd9  ] [Bb/Eb  ] [  Ebadd9]
