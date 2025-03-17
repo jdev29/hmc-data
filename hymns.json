@@ -12,7 +12,8 @@
     "title": "Dulce Comunión",
     "key": "La (A)",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "hasChords": true
   },
   {
     "id": 3,
