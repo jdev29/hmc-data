@@ -5,24 +5,24 @@
 
 {comment: 1}
 [Aadd9]Dulce comunión [Dadd9]la que gozo ya
-[Asus2]En los   [F#m7]brazos de mi [B7]Salva. [Eadd9   ]dor; [Esus4  ] [E]
+[Asus2]En los [F#m7]brazos de mi [B7]Salva. [Eadd9]dor; [Esus4] [E]
 [Aadd9]¡Qué gran bendición [Dadd9]en su paz me da!
-[Asus2]¡Oh! yo [F#m7]siento en mí su [Bm7]tier[E7]no a[Aadd9]mor.      [D/E]
+[Asus2]¡Oh! yo [F#m7]siento en mí su [Bm7]tier[E7]no a[Aadd9]mor. [D/E]
 
 {comment: Coro}
-[Aadd9]Li          [Add9/C#]bre,        [Dadd9]salvo,
-[Asus2]Del       pe[F#m7]cado y [B7]del tem[Esus4]or.     [E]
-[Add9]Li          [Add9/C#]bre,      [D/A]salvo,
-[Add9]En los [F#m7]brazos de mi [Bm7]Sal[E7]va[E]dor.     [D/E]
+[Aadd9]Li [Add9/C#]bre, [Dadd9]salvo,
+[Asus2]Del pe[F#m7]cado y [B7]del tem[Esus4]or. [E]
+[Add9]Li[Add9/C#]bre, [D/A]salvo,
+[Add9]En los [F#m7]brazos de mi [Bm7]Sal[E7]va[E]dor. [D/E]
 
 {comment: 2}
 [Aadd9]¡Cuán dulce es vivir, [Dadd9]cuán dulce es gozar!
-[Asus2]En los   [F#m7]brazos de mi [B7]Salvad  [Eadd9]or;           [Esus4   ] [E]
+[Asus2]En los [F#m7]brazos de mi [B7]Salvad  [Eadd9]or; [Esus4] [E]
 [Aadd9]Allí quiero ir [Dadd9]y con Él morar,
-[Asus2]Siendo ob[F#m7]jeto de su [Bm7]tier   [E7]no    a[Aadd9]mor.     [D/E]
+[Asus2]Siendo ob[F#m7]jeto de su [Bm7]tier[E7]no a[Aadd9]mor. [D/E]
 
 {comment: 3}
 [Aadd9]No hay que temer, [Dadd9]ni que desconfiar,
-[Asus2]En los [F#m7]brazos de mi [B7]Salvad  [Eadd9]or; [Esus4   ] [E]
+[Asus2]En los [F#m7]brazos de mi [B7]Salvad[Eadd9]or; [Esus4] [E]
 [Aadd9]Por su gran poder [Dadd9]Él me guardará
-[Asus2]De los   [F#m7]lazos del en[Bm7]   ga[E7]ña   [Aadd9]dor.       [D/E]
+[Asus2]De los [F#m7]lazos del en[Bm7]ga[E7]ña[Aadd9]dor. [D/E]
