@@ -1,5 +1,5 @@
 {title: COMPRADO CON SANGRE POR CRISTO}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Comprado con sangre por Cristo,

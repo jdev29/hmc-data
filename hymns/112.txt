@@ -1,5 +1,5 @@
 {title: TODAS LAS PROMESAS DEL SEÑOR JESÚS}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 Todas las promesas del Señor Jesús,

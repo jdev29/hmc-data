@@ -1,5 +1,5 @@
 {title: NO PUEDO ESTAR SOLO}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Alguien va conmigo de la vida en el correr,

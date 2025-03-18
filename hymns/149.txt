@@ -1,3 +1,3 @@
 {title: CRISTO AYER Y HOY EL MISMO}
-{tone: Bb}
+{musical_metadata: Bb}
 

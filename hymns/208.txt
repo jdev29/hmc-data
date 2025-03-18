@@ -1,5 +1,5 @@
 {title: PRONTO VENDRÁ JESUCRISTO}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Pronto vendrá Jesucristo

@@ -1,9 +1,7 @@
 {title: DULCE COMUNIÓN}
 {title_en: Leaning on the Everlasting Arms}
 {source_lyrics: H. G. 4}
-{tone: A}
-{bpm: 100}
-{time_signature: 4/4}
+{musical_metadata: A | BPM 100 | 4/4 }
 
 {comment: 1}
 [Aadd9]Dulce comunión [Dadd9]la que gozo ya

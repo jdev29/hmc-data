@@ -1,7 +1,7 @@
 {title: CERCA DE TI SEÑOR}
 {title_en: Nearer, My God, to Thee}
 {source_lyrics: H.G. 16}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Cerca de Ti, Señor,

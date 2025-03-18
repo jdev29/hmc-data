@@ -1,5 +1,5 @@
 {title: A MEDIA NOCHE EN BETHLEHEM}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 A media noche en Bethlehem

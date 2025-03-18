@@ -1,5 +1,5 @@
 {title: ALLÍ NO HABRÁ TRIBULACIÓN}
-{tone: A}
+{musical_metadata: A}
 
 {comment: 1}
 En la mansión do Cristo está,

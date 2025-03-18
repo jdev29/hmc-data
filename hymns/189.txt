@@ -1,5 +1,5 @@
 {title: POR UNA SENDA ESTRECHA ANDABA YO}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 Por una senda estrecha andaba yo,

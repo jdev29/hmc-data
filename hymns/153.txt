@@ -1,5 +1,5 @@
 {title: ESTA SERÁ GLORIA}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Cuando yo llegue el Edén celestial,

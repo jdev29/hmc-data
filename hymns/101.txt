@@ -1,5 +1,5 @@
 {title: ESTAD POR CRISTO FIRMES}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 ¡Estad por Cristo firmes,

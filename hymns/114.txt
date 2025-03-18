@@ -1,5 +1,5 @@
 {title: HALLÉ LA FUENTE SIN IGUAL}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Por fe contemplo redención

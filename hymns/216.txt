@@ -1,5 +1,5 @@
 {title: JESÚS A CADA NIÑO}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 Jesús a cada niño le da su bendición,

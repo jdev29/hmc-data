@@ -1,5 +1,5 @@
 {title: EN UN APOSENTO ALTO}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 En un aposento alto,

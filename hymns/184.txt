@@ -1,5 +1,5 @@
 {title: JESÚS LLEVÓ MIS CARGAS}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Delante de mi Cristo, un pobre pecador,

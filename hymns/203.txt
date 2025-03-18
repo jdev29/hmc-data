@@ -1,5 +1,5 @@
 {title: SOY EL HIJO DE UN REY}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Mi padre es un Rey muy rico sin par,

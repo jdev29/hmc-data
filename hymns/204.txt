@@ -1,5 +1,5 @@
 {title: AMISTAD CON CRISTO}
-{tone: D}
+{musical_metadata: D}
 
 {comment: 1}
 Que dicha inmensa, pues Jesús

@@ -1,5 +1,5 @@
 {title: GRATO ES DECIR LA HISTORIA}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Grato es decir la historia

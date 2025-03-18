@@ -1,5 +1,5 @@
 {title: ¡OH DIOS, VISÍTANOS!}
-{tone: Fb}
+{musical_metadata: Fb}
 
 {comment: 1}
 ¡Oh, Dios visítanos, no tardes!

@@ -1,5 +1,5 @@
 {title: LEJOS ALLENDE LOS MARES}
-{tone: C}
+{musical_metadata: C}
 
 {comment: 1}
 Lejos allende los mares,

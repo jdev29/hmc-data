@@ -1,5 +1,5 @@
 {title: GRATO, ES LA SANTA PALABRA LEER}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Graro es la Santa Palabra leer,

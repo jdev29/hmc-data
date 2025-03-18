@@ -1,5 +1,5 @@
 {title: LLUVIAS DE GRACIA}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 Dios nos ha dado promesa:

@@ -1,7 +1,7 @@
 {title: EL GRAN MÉDICO}
 {title_en: The Great Physician}
 {source_lyrics: LI. B. 18; C. T. 14; A.V. 65}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 La tierna voz del Salvador

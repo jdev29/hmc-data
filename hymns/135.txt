@@ -1,5 +1,5 @@
 {title: EL SEÑOR ASÍ ME HABLÓ}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 El Señor así me habló,

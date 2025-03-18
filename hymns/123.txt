@@ -1,5 +1,5 @@
 {title: QUIERO VER MI PATRIA}
-{tone: Db}
+{musical_metadata: Db}
 
 {comment: 1}
 Quiero ver a Jesucristo,

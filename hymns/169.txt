@@ -1,5 +1,5 @@
 {title: LA PAZ QUE CRISTO DA}
-{tone: A}
+{musical_metadata: A}
 
 {comment: 1}
 ¿Has hallado la paz de Jesucristo?

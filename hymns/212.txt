@@ -1,5 +1,5 @@
 {title: A JESUCRISTO QUIERO ALLEGARME}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 A Jesucristo quiero allegarme:

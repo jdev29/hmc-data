@@ -1,5 +1,5 @@
 {title: NINGÚN OTRO ME AMA COMO CRISTO}
-{tone: D}
+{musical_metadata: D}
 
 Contaréles del amor de Jesucristo,
 Un amigo fiel en Él ya encontré

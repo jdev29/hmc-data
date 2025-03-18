@@ -1,5 +1,5 @@
 {title: CREO EN LA BIBLIA}
-{tone: D}
+{musical_metadata: D}
 
 {comment: 1}
 Creo en la Biblia, el libro redentor,

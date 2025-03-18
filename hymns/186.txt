@@ -1,5 +1,5 @@
 {title: VE, VE OH SIÓN}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 Ve, ve oh Sión tu gran destino cumple;

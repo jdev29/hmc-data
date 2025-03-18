@@ -1,5 +1,5 @@
 {title: TODOS LOS QUE TENGAN SED}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Todos los que tengan sed,

@@ -1,5 +1,5 @@
 {title: BAJA DEL CIELO BENDITO FUEGO}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Fuego divino, clamamos por ti,

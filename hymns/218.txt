@@ -1,5 +1,5 @@
 {title: CUANDO LEO EN LA BIBLIA}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Cuando leo en la Biblia cómo llama Jesús

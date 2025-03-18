@@ -1,5 +1,5 @@
 {title: CASTILLO FUERTE ES NUESTRO DIOS}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Castllo fuerte es nuestro Dios

@@ -1,5 +1,5 @@
 {title: NO ME IMPORTAN RIQUEZAS}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 No me importan riquezas,

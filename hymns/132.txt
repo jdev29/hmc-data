@@ -1,5 +1,5 @@
 {title: MI AMOR Y VIDA}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 Mi amor y vida doy a Ti,

@@ -1,5 +1,5 @@
 {title: NO PUEDE EL MUNDO SER MI HOGAR}
-{tone: C}
+{musical_metadata: C}
 
 {comment: 1}
 La senda ancha dejaré,

@@ -1,5 +1,5 @@
 {title: SÓLO LA SANGRE}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 ¿Quién me puede dar perdón?

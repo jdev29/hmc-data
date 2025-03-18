@@ -1,5 +1,5 @@
 {title: SOLÓ UN POCO MÁS DE LA VIDA AQUÍ}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Sólo un poco más de la vida aquí,

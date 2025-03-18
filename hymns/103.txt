@@ -1,5 +1,5 @@
 {title: SIEMPRE ORAD}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Siempre orad muy pronto viene Cristo,

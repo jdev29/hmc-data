@@ -1,5 +1,5 @@
 {title: LA SENDA ES MUY ESTRECHA}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Hoy no es mi vida como antes fue

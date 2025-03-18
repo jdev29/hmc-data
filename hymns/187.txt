@@ -1,5 +1,5 @@
 {title: OYE LA VOZ DE CRISTO}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Oye, pecador, la voz de Cristo,

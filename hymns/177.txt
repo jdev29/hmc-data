@@ -1,5 +1,5 @@
 {title: A JESÚS MI VIDA ENTREGO}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 A Jesús mi vida entrego

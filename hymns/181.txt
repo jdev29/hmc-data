@@ -1,5 +1,5 @@
 {title: LOS PEREGRINOS}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 ¡Cuán dulce es la reunión!

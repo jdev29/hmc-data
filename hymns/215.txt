@@ -1,5 +1,5 @@
 {title: CUANDO VENGA JESUCRISTO}
-{tone: A}
+{musical_metadata: A}
 
 {comment: 1}
 Cuando venga Jesucristo

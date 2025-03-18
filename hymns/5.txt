@@ -1,7 +1,7 @@
 {title: ¿TE SIENTES CASI?}
 {title_en: Almost Persuaded}
 {source_lyrics: H.G. 21}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 ¿Te sientes casi resuelto ya?

@@ -1,5 +1,5 @@
 {title: CRISTO ME AMA}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Cristo me ama, bien lo sé,

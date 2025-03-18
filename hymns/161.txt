@@ -1,5 +1,5 @@
 {title: CRISTO ESTÁ BUSCANDO OBREROS}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Cristo está buscando obreros hoy

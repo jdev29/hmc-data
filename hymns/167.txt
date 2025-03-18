@@ -1,5 +1,5 @@
 {title: MANTENED EL FARO ARDIENDO}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 La merced de nuestro Padre

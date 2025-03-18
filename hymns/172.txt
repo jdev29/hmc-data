@@ -1,5 +1,5 @@
 {title: SOY FELIZ EN EL SERVICIO DEL SEÑOR}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 Soy feliz en el servicio del Señor,

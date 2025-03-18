@@ -1,5 +1,5 @@
 {title: FIRMES, FIRMES}
-{tone: D}
+{musical_metadata: D}
 
 {comment: 1}
 ¡Ved, soldados, la bandera

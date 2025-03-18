@@ -1,5 +1,5 @@
 {title: SALVO EN LOS TIERNOS BRAZOS}
-{tone: Bb}
+{musical_metadata: Bb}
 
 {comment: 1}
 Salvo en los tiernos brazos

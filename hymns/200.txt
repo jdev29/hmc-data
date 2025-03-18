@@ -1,5 +1,5 @@
 {title: OÍD UN SON EN ALTA ESFERA}
-{tone: G}
+{musical_metadata: G}
 
 {comment: 1}
 Oíd un son en alta esfera:

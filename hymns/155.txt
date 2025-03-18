@@ -1,5 +1,5 @@
 {title: ¡CUÁN DULCE ES CONFIAR EN CRISTO}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 ¡Cuán dulce es confiar en Cristo,

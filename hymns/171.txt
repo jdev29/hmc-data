@@ -1,5 +1,5 @@
 {title: ABRIGO DE LA TEMPESTAD}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 Me cuida Dios mi Protector,

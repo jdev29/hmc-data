@@ -1,5 +1,5 @@
 {title: ¿QUÉ ME IMPORTAN LAS PENAS?}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 ¿Qué me importan del mundo las penas

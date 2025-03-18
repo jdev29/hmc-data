@@ -1,5 +1,5 @@
 {title: MANDA OTRA LLUVIA}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Unánimes junto a la cruz,

@@ -1,5 +1,5 @@
 {title: VENGO, JESÚS, A TI}
-{tone: A}
+{musical_metadata: A}
 
 {comment: 1}
 De mis prisiones noche y dolor,

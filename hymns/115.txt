@@ -1,5 +1,5 @@
 {title: GRACIAS SEAN DADAS}
-{tone: E}
+{musical_metadata: E}
 
 {comment: 1}
 Gracias sean dadas al buen Salvador,

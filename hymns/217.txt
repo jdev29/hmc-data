@@ -1,5 +1,5 @@
 {title: ¡VENID, OH NIÑOS! APRENDED}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 ¡Venid, oh niños! aprended,

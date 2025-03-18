@@ -1,5 +1,5 @@
 {title: MIS CULPAS ÉL LLEVO}
-{tone: Ab}
+{musical_metadata: Ab}
 
 {comment: 1}
 Camsado y triste vine al Salvadaor,

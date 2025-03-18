@@ -1,5 +1,5 @@
 {title: JAMÁS ME DEJARÁ}
-{tone: C}
+{musical_metadata: C}
 
 {comment: 1}
 Yo vi espantosos rayos, los truenos oí rugir;

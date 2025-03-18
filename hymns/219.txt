@@ -1,5 +1,5 @@
 {title: LOS NIÑOS SON DE CRISTO}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 Los niños son de Cristo, Él es su Salvador

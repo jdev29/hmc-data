@@ -1,5 +1,5 @@
 {title: LINDAS LAS MANITAS SON}
-{tone: C}
+{musical_metadata: C}
 
 {comment: 1}
 Lindas las manitas son

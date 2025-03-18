@@ -1,5 +1,5 @@
 {title: HUBO QUIEN POR MIS CULPAS}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 Hubo quien por mis culpas muriese en la Cruz,

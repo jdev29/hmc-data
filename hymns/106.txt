@@ -1,5 +1,5 @@
 {title: DEJO EL MUNDO Y SIGO A CRISTO}
-{tone: F}
+{musical_metadata: F}
 
 {comment: 1}
 Dejó al mundo y sigo a Cristo,

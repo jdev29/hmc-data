@@ -1,5 +1,5 @@
 {title: ¡OH CRISTO MÍO!}
-{tone: D}
+{musical_metadata: D}
 
 {comment: 1}
 ¡Oh! Cristo mío, eres Tú mi Amigo fiel;

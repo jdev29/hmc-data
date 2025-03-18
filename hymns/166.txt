@@ -1,5 +1,5 @@
 {title: YO ME ACUERDO}
-{tone: Eb}
+{musical_metadata: Eb}
 
 {comment: 1}
 Yo me acuerdo que Jesús por mi murió. (Él por mí);

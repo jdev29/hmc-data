@@ -1,5 +1,5 @@
 {title: GUÍANOS, PASTOR DIVINO}
-{tone: E}
+{musical_metadata: E}
 
 {comment: 1}
 Guíanos Pastor Divino,
