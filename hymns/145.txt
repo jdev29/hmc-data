@@ -1,3 +1,28 @@
 {title: ¡OH! JÓVENES VENID}
 {musical_metadata: E}
 
+{comment: 1}
+¡Oh! Jóvenes venid, su brillante pabellón,
+Cristo ha desplegado ante la nación.
+A todos en sus filas os quiere recibir,
+Y con Él a la pelea os hará salir.
+
+{comment: Coro}
+¡Vamos a Jesús, alistados sin temor,
+Vamos a la lid, inflamados de valor!
+Jóvenes, luchemos todos contra el mal:
+En Jesús llevamos nuestro General.
+
+{comment: 2}
+Las armas invencibles del jefe guiador,
+Son el evangelio y su grande amor.
+Con ellas revestidos, y llenos de poder,
+Compañeros, acudamos, vamos a vencer.
+
+{comment: 3}
+Quien venga a la pelea, su voz escuchará
+Cristo la victoria le condecerá;
+Salgamos, compañeros, luchemos bien por Él
+Con Jesús conquistaremos inmortal laurel.
+
+

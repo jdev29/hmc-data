@@ -1,3 +1,28 @@
 {title: MÁS SEMEJANTE A CRISTO}
 {musical_metadata: Db}
 
+{comment: 1}
+Más semejante a Cristo quiero ser,
+Más manso y tierno en mi proceder,
+Siempre ferviente, por fe yo quiero andar,
+Y consagrarme al servicio que Él me da.
+
+{comment: Coro}
+Toma mi ser, lo rindo todo a Ti;
+Ha tu morada, oh Señor, en mí,
+Guárdame cada día en santidad;
+Quiero ser tuyo por la eternidad.
+
+{comment: 2}
+Más semejante a Cristo en fe y valor.
+Que Él por su sangre me haga vencedor
+Quiero ser fiel en la prueba más atroz,
+Siempre obendiente a su cariñosa voz.
+
+{comment: 3}
+Más semejante a Cristo en mi oración;
+Pido más gracia y más resignación,
+Hazme más serio y más espiritual,
+Y almas giaré al camino celestial.
+
+

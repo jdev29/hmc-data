@@ -1,3 +1,32 @@
 {title: HUBO EN EL CALVARIO}
 {musical_metadata: Bb}
 
+{comment: 1}
+Hubo en el Calvario una áspera cruz,
+El emblema de afrenta y dolor,
+Mas yo amo esa cruz do murió mi Jesús
+Por salvar al más vil pecador.
+
+{comment: Coro}
+Oh, yo siempre amaré esa cruz;
+En sus triunfod mi gloria será,
+Y algún día en vez de una cruz
+La corona Jesús me dará.
+
+{comment: 2}
+Aunque el mundo desprecie la cruz de Jesús
+Para mi tiene suma atracción:
+Pues en ella llevó el Cordero de Dios
+De mi alma la condenación.
+
+{comment: 3}
+Esa cruz de Jesús do su sangre vertió
+Para mí es hermosa sin par,
+Porque en ella triunfó y la muerte gustó.
+Y me pudo así santificar.
+
+{comment: 4}
+Yo seré siempre fiel a la cruz de Jesús,
+Los desprecios con Él sufriré,
+Y algún día feliz con los santos en luz
+Su magnifica gloria veré.
