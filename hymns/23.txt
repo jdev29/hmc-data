@@ -1,7 +1,7 @@
 {title: MI REDENTOR EL REY DE GLORIA}
 
 {comment: 1}
-Mi Redentot, El Rey de gloria,
+Mi Redentor, El Rey de gloria,
 Que vive, yo seguro estoy
 Y da coronas de victoria;
 A recibir la mía voy.
@@ -16,7 +16,7 @@ Que el Rey me diga: Hijo ven.
 
 {comment: 2}
 En mi Señor Jesús confio:
-Su sangre clama a mi farvor;
+Su sangre clama a mi favor;
 Es dueño Él de mi alberdrío,
 Estar con Él es lo mejor.
 

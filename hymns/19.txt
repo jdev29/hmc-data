@@ -3,7 +3,7 @@
 {comment: 1}
 Si tú cansado estás ya de pecar;
 Acepta el perdón de Jesús;
-Si Vida nueva quisiera hallar;
+Si vida nueva quisiera hallar;
 Acepta el perdón de Jesús.
 
 {comment: CORO}
@@ -15,7 +15,7 @@ Acepta el perdón de Jesús.
 {comment: 2}
 Si vida pura tú quieres tener,
 acepta el perdón de Jesús;
-El es la fuente que limpia tu ser,
+Él es la fuente que limpia tu ser,
 Acepta el perdón de Jesús.
 
 {comment: 3}
