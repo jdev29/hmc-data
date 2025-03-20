@@ -252,7 +252,10 @@
     "title": "Hay poder en Jesús",
     "key": "Si (B) Bemol",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media":{
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742487374/HIMNO_30_HAY_PODER_EN_JESUS_sxg3cy.mp3"
+    }
   },
   {
     "id": 31,
@@ -273,7 +276,10 @@
     "title": "Grande gozo hay",
     "key": "La (A) Bemol",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742487449/HIMNO_33_GRANDE_GOZO_wp0vju.mp3"
+    }
   },
   {
     "id": 34,
@@ -343,14 +349,20 @@
     "title": "A Jesucristo ven",
     "key": "Si (B) Bemol",
     "meter": "",
-    "categoryId": 7
+    "categoryId": 7,
+    "media":{
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742487331/HIMNO_43_A_JESUCRISTO_VEN_xcowgp.mp3"
+    }
   },
   {
     "id": 44,
     "title": "El mundo dejé",
     "key": "La (A) Bemol",
     "meter": "",
-    "categoryId": 3
+    "categoryId": 3,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742487420/HIMNO_44_EL_MUNDO_DEJE_gmjztz.mp3"
+    }
   },
   {
     "id": 45,
@@ -423,7 +435,10 @@
     "title": "A combatir",
     "key": "Do (C)",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742487280/HIMNO_54_A_COMBATIR_zrkel3.mp3"
+    }
   },
   {
     "id": 55,
@@ -661,7 +676,10 @@
     "title": "¡Oh, cuánto amo a Cristo!",
     "key": "La (A) Bemol",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742487216/HIMNO_88_HO_CUANTO_AMO_A_CRISTO_ui27kw.mp3"
+    }
   },
   {
     "id": 89,
