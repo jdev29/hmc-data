@@ -3,14 +3,14 @@
 {comment: 1}
 Dulces melodías cantaré,
 De alabanzas al Señor,
-A su nombre glori yo daré,
+A su nombre gloria yo daré,
 Por su incomparable amor.
 
 {comment: CORO}
 De Jesús el nombre
 Siempre alabaré,
 Canta mi alma alegre
-Melosdías a mi Rey.
+Melodías a mi Rey.
 
 {comment: 2}
 Yo vivía en sombras y en dolor,
@@ -21,7 +21,7 @@ Me condujo a su redil.
 {comment: 3}
 Fuente perennal de gracia hallé
 Al amparo de su amor,
-Su sonrriente faz me inspira fe,
+Su sonriente faz me inspira fe,
 esperanza y gran valor.
 
 {comment: 4}
