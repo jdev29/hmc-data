@@ -7,8 +7,7 @@
     "categoryId": 1,
     "hasChords": true,
     "media": {
-      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405155/Adoradle_mrlmqk.mp3",
-      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405158/Adoradle_pista_qngjoc.mp3"
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742445814/ADORADLE_-_HIMNO_1_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_j4xccm.mp3"
     }
   },
   {
@@ -19,8 +18,6 @@
     "categoryId": 5,
     "hasChords": true,
     "media": {
-      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405586/Dulce_Comunio%CC%81n_vdevf0.mp3",
-      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405589/Dulce_Comunio%CC%81n_Pista_qxpmbc.mp3"
     }
   },
   {
@@ -30,8 +27,7 @@
     "meter": "",
     "categoryId": 1,
     "media": {
-      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428805/Cerca_de_ti_Sen%CC%83or_fzyxvx.mp3",
-      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428805/Cerca_de_ti_Sen%CC%83or_Pista_adsc4l.mp3"
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446052/CERCA_DE_TI_SEN%CC%83OR_-_HIMNO_3_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_ruguin.mp3"
     }
   },
   {
@@ -41,8 +37,7 @@
     "meter": "",
     "categoryId": 11,
     "media": {
-      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428908/04.2_-_El_gran_me%CC%81dico_qqd8oj.mp3",
-      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428895/04.1_-_El_gran_me%CC%81dico_s7gq5n.mp3"
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446109/EL_GRAN_MEDICO_-_HIMNO_4_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_dibv6z.mp3"
     }
   },
   {
@@ -50,14 +45,20 @@
     "title": "¿Te sientes casi?",
     "key": "Sol (G)",
     "meter": "",
-    "categoryId": 7
+    "categoryId": 7,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446917/TE_SIENTES_CASI_-_HIMNO_5_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_k6qgln.mp3"
+    }
   },
   {
     "id": 6,
     "title": "Él viene en gloria",
     "key": "Fa (F)",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446969/EL_VIENE_EN_GLORIA_-_HIMNO_6_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_hohtvt.mp3"
+    }
   },
   {
     "id": 7,
@@ -66,8 +67,7 @@
     "meter": "",
     "categoryId": 3,
     "media": {
-      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429131/07.2_-_Todo_a_Cristo_yo_me_rindo_Voz_Instrumental_el6yu6.mp3",
-      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429138/07.2_-_Todo_a_Cristo_yo_me_rindo_Pista_-_Bb_-_75_BPM_csfh6p.mp3"
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446149/TODO_A_CRISTO_YO_ME_RINDO_-_HIMNO_7_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_gviyub.mp3"
     }
   },
   {
@@ -77,8 +77,7 @@
     "meter": "",
     "categoryId": 5,
     "media": {
-      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429192/08_-_La_Siembra_qnze5a.mp3",
-      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429190/08_-_La_Siembra_Pista_ksxwbv.mp3"
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446220/LA_SIEMBRA_-_HIMNO_8_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_tfvlr2.mp3"
     }
   },
   {
@@ -88,7 +87,7 @@
     "meter": "",
     "categoryId": 1,
     "media": {
-      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429264/09_-_Oh_Cristo_amado_rxfkij.mp3"
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446332/OH_CRISTO_AMADO_-_HIMNO_9_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_uk5fpk.mp3"
     }
   },
   {
@@ -96,21 +95,30 @@
     "title": "Melodías celestiales",
     "key": "La (A)",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742447054/MELODI%CC%81AS_CELESTIALES_-_HIMNO_10_CON_LETRA_-_ADP_ce1bcd.mp3"
+    }
   },
   {
     "id": 11,
     "title": "Cariñoso Salvador",
     "key": "Fa (F)",
     "meter": "",
-    "categoryId": 1
+    "categoryId": 1,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742447120/CARIN%CC%83OSO_SALVADOR_-_HIMNO_11_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_tk9pbb.mp3"
+    }
   },
   {
     "id": 12,
     "title": "Roca eterna",
     "key": "Si (B) Bemol",
     "meter": "",
-    "categoryId": 1
+    "categoryId": 1,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742447171/ROCA_ETERNA_-_HIMNO_12_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_HD_qvtyb4.mp3"
+    }
   },
   {
     "id": 13,
@@ -405,7 +413,10 @@
     "title": "En la cruz",
     "key": "Mi (E)",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742447235/EN_LA_CRUZ_-_HIMNO_53_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_sf0ofi.mp3"
+    }
   },
   {
     "id": 54,
@@ -1504,7 +1515,10 @@
     "title": "Castillo fuerte es nuestro Dios",
     "key": "",
     "meter": "",
-    "categoryId": 10
+    "categoryId": 10,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742446517/CASTILLO_FUERTE_ES_NUESTRO_DIOS_-_Martin_Lutero_-_HIMNO_210_MELODIAS_CELESTIALES_CON_LETRA_-_ADP_rupkbj.mp3"
+    }
   },
   {
     "id": 211,
