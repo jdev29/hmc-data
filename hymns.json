@@ -5,7 +5,11 @@
     "key": "Mi (E) Bemol",
     "meter": "",
     "categoryId": 1,
-    "hasChords": true
+    "hasChords": true,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405155/Adoradle_mrlmqk.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405158/Adoradle_pista_qngjoc.mp3"
+    }
   },
   {
     "id": 2,
@@ -13,21 +17,33 @@
     "key": "La (A)",
     "meter": "",
     "categoryId": 5,
-    "hasChords": true
+    "hasChords": true,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405586/Dulce_Comunio%CC%81n_vdevf0.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742405589/Dulce_Comunio%CC%81n_Pista_qxpmbc.mp3"
+    }
   },
   {
     "id": 3,
     "title": "Cerca de ti, Señor",
     "key": "Sol (G)",
     "meter": "",
-    "categoryId": 1
+    "categoryId": 1,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428805/Cerca_de_ti_Sen%CC%83or_fzyxvx.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428805/Cerca_de_ti_Sen%CC%83or_Pista_adsc4l.mp3"
+    }
   },
   {
     "id": 4,
     "title": "El gran Médico",
     "key": "Mi (E) Bemol",
     "meter": "",
-    "categoryId": 11
+    "categoryId": 11,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428908/04.2_-_El_gran_me%CC%81dico_qqd8oj.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742428895/04.1_-_El_gran_me%CC%81dico_s7gq5n.mp3"
+    }
   },
   {
     "id": 5,
@@ -48,21 +64,32 @@
     "title": "Todo a Cristo yo me rindo",
     "key": "Re (D)",
     "meter": "",
-    "categoryId": 3
+    "categoryId": 3,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429131/07.2_-_Todo_a_Cristo_yo_me_rindo_Voz_Instrumental_el6yu6.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429138/07.2_-_Todo_a_Cristo_yo_me_rindo_Pista_-_Bb_-_75_BPM_csfh6p.mp3"
+    }
   },
   {
     "id": 8,
     "title": "La Siembra",
     "key": "Do (C)",
     "meter": "",
-    "categoryId": 5
+    "categoryId": 5,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429192/08_-_La_Siembra_qnze5a.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429190/08_-_La_Siembra_Pista_ksxwbv.mp3"
+    }
   },
   {
     "id": 9,
     "title": "¡Oh Cristo amado!",
     "key": "La (A)",
     "meter": "",
-    "categoryId": 1
+    "categoryId": 1,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429264/09_-_Oh_Cristo_amado_rxfkij.mp3"
+    }
   },
   {
     "id": 10,
@@ -90,14 +117,22 @@
     "title": "Dulce oración",
     "key": "Re (D)",
     "meter": "",
-    "categoryId": 1
+    "categoryId": 1,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429347/13.1_-_Dulce_oracio%CC%81n_-B-117bpm_sb9fws.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429355/13.1_-_Dulce_oracio%CC%81n_-B-117bpm_Pista_nbrlzj.mp3"
+    }
   },
   {
     "id": 14,
     "title": "¡Oh, que amigo!",
     "key": "Fa (F)",
     "meter": "",
-    "categoryId": 1
+    "categoryId": 1,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429434/14.1_-_Oh_que_amigo_nos_es_Cristo-E-80bpm_hz2woa.mp3",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1742429426/14.1_-_Oh_que_amigo_nos_es_Cristo-E-80bpm_Pista_vx07gg.mp3"
+    }
   },
   {
     "id": 15,
