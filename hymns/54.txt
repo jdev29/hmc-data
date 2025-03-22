@@ -1,14 +1,14 @@
 {title: A COMBATIR}
 
 {comment: 1}
-¡A combatir! Resuena la guerrera voz
+¡A combatir! resuena la guerrera voz
 Del Rey Jesús que hoy llamando está:
 Sin desmayar seguidle siempre con valor
 Y pronto la victoria os dará.
 
 {comment: CORO}
 ¡A la batalla! ¡Oh Cristiano!
-Con l bandera de la cruz;
+Con la bandera de la cruz;
 Sé fiel soldado, pues a tu lado
 Pelea el Príncipe Jesús;
 Él con su gracia te sostiene
