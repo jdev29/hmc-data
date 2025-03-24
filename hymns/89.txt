@@ -1,7 +1,7 @@
 {title: ¡OH EXCELSA GRACIA DE AMOR!}
 
 {comment: 1}
-Por de en Jesús, el Salvador
+Por fe en Jesús, el Salvador
 Se hace salvo el pecador;
 Sin merecer tan rico don
 Recibe plena salvación.
@@ -15,7 +15,7 @@ No hay otro autor de salvación,
 Pues Cristo obró la redención.
 
 {comment: 2}
-La vida ntigua ya pasó,
+La vida antigua ya pasó,
 Y todo nuevo se tornó:
 Aquí cual peregrino es él,
 Mansión con Dios tendrá si es fiel.
