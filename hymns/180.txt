@@ -4,7 +4,7 @@
 {comment: 1}
 Peregrino soy aquí, lejos de mi hogar;
 Cantaré de Cristo, el Rey Salvador sin par,
-El me guarda siempre fiel, en su tierno amor.
+Él me guarda siempre fiel, en su tierno amor.
 En la luz de su cruz ando sin temor.
 
 {comment: Coro}

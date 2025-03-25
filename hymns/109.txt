@@ -2,7 +2,7 @@
 {musical_metadata: G}
 
 {comment: 1}
-Pecador, veb al dulce Jesús,
+Pecador, ven al dulce Jesús,
 Y feliz para siempre serás,
 Si en verdad le quisiereis tener,
 Al divino Señor hallarás.
@@ -20,7 +20,7 @@ Y tendrás en sus brazos perdón.
 {comment: 3}
 Si enfermo te sientes morir,
 Él será tu Doctor celestial,
-Y hallarás en su sabgre también,
+Y hallarás en su sangre también,
 Medicina que cure tu mal.
 
 {comment: 4}
