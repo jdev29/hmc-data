@@ -655,7 +655,11 @@
     "title": "Bautícese cada uno",
     "key": "Mi (E) Bemol",
     "meter": "",
-    "categoryId": 2
+    "categoryId": 2,
+    "media": {
+      "audio": "https://res.cloudinary.com/duzybpoir/video/upload/v1753516811/Bauti%CC%81cese_cada_uno_Full_-_C_-_80bpm_-_Varo%CC%81n_gtex8i.m4a",
+      "pista": "https://res.cloudinary.com/duzybpoir/video/upload/v1753516806/Bauti%CC%81cese_cada_uno_Pista_-_A_-_80bpm_-_Mujer_qewdem.m4a"
+    }
   },
   {
     "id": 86,
