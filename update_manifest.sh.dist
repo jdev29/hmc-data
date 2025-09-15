@@ -1,0 +1,42 @@
+#!/bin/bash
+
+# Ruta al manifest
+MANIFEST="hymns/manifest.json"
+
+# Detectar cambios en hymns/*.txt
+changed_files=$(git status --porcelain hymns/*.txt | awk '{print $2}')
+
+if [ -z "$changed_files" ]; then
+  echo "No hay cambios en hymns/*.txt"
+  exit 0
+fi
+
+# Leer manifest actual
+tmp_manifest=$(mktemp)
+cp "$MANIFEST" "$tmp_manifest"
+
+# Obtener timestamp base (segundos actuales)
+timestamp=$(date +%s)
+
+# Procesar cada archivo cambiado
+i=0
+for file in $changed_files; do
+  # Remover entradas previas del archivo en el manifest
+  jq --arg name "$file" '
+    .files |= map(select(.name != $name))
+  ' "$tmp_manifest" > "${tmp_manifest}.new" && mv "${tmp_manifest}.new" "$tmp_manifest"
+
+  # Agregar con nuevo timestamp
+  new_ts=$((timestamp + i))
+  jq --arg name "$file" --argjson ts "$new_ts" '
+    .files += [{ "name": $name, "timestamp": $ts }]
+  ' "$tmp_manifest" > "${tmp_manifest}.new" && mv "${tmp_manifest}.new" "$tmp_manifest"
+
+  i=$((i+1))
+done
+
+# Reemplazar manifest original
+mv "$tmp_manifest" "$MANIFEST"
+
+echo "Manifest actualizado con cambios:"
+echo "$changed_files"
