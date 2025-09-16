@@ -2,7 +2,7 @@
 {musical_metadata: F}
 
 {comment: 1}
-Canta, uh buen cristiano,
+Canta, un buen cristiano,
 Dulce será cantar,
 Hace el camino llano
 Libra del pesar.
