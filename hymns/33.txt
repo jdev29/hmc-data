@@ -1,31 +1,31 @@
 {title: GRANDE GOZO HAY}
 
 {comment: 1}
-Grande gozo hay en mi alma hoy.
-Pues Jesús conmigo está:
-Y su paz, que ya gozando estoy
+Grande gozo hay en mi alma hoy,
+Pues Jesús conmigo está;
+Y su paz, que ya gozando estoy,
 Por siempre durará.
 
 {comment: CORO}
 ¡Grande gozo! ¡Cuán hermoso!
 Paso todo el tiempo muy feliz;
-Porque hallo en Cristo duradera paz
-Grande gozo siento en mi.
+Porque hallo en Cristo duradera paz,
+Grande gozo siento en mí.
 
 {comment: 2}
-Hay un canto en mi alma hoy;
+Hay un canto en mi alma hoy,
 Melodías a mi Rey;
 En su amor feliz y libre soy,
 Y salvo por la fe.
 
 {comment: 3}
-Paz divina hay en mi alma hoy;
-Porque Cristo me salvó
+Paz divina hay en mi alma hoy,
+Porque Cristo me salvó;
 Salvo y libre, gloria a Él le doy,
 Jesús me libertó.
 
 {comment: 4}
 Gratitud hay en mi alma hoy,
 Y alabanzas a Jesús;
-A la gloria por su gracia voy
+A la gloria por su gracia voy,
 Gozándome en la luz.

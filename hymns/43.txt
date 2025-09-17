@@ -1,25 +1,25 @@
 {title: A JESUCRISTO VEN}
 
 {comment: 1}
-A Jesucristo ven sin tardar,
-Que entre vosotros hoy El está
-Y te convida con dulce afán,
-Tierno diciendo: Ven.
+A Jesucristo ven sin tardar,  
+Que entre vosotros hoy Él está,  
+Y te convida con dulce afán,  
+Tierno diciendo: Ven.  
 
 {comment: CORO}
-¡Oh, cuán grata nuestra reunión
-Cuando allá, Señor, en tu mansión
-Contigo estemos en comunión,
-Gozando eterno bien!
+¡Oh, cuán grata nuestra reunión,  
+Cuando allá, Señor, en tu mansión,  
+Contigo estemos en comunión,  
+Gozando eterno bien!  
 
 {comment: 2}
-Piensa que Él sólo puede colmar
-Tu triste pecho de gozo y paz;
-Y porque anhela tu bienestar,
-Vuelve a decirte: Ven.
+Piensa que Él sólo puede colmar  
+Tu triste pecho de gozo y paz;  
+Y porque anhela tu bienestar,  
+Vuelve a decirte: Ven.  
 
 {comment: 3}
-Su voz escucha sin vacilar,
-Y grato acepta lo que hoy te da,
-Tal vez mañana no habrá lugar
-no te detengas, ven.
+Su voz escucha sin vacilar,  
+Y grato acepta lo que hoy te da;  
+Tal vez mañana no habrá lugar,  
+No te detengas, ven.  

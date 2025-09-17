@@ -1,9 +1,9 @@
 {title: ANDANDO EN LA CRUZ}
 
 {comment: 1}
-Vagaba yo en oscuridad
-Más cuando vi a Jesús,
-Por su Evangelio de verdad
+Vagaba yo en oscuridad,
+Mas cuando vi a Jesús,
+Por su evangelio de verdad
 Me amaneció la luz.
 
 {comment: CORO}
@@ -16,17 +16,17 @@ Siento el grande gozo de su amor en mí.
 {comment: 2}
 Las nubes y la tempestad
 No ocultan a Jesús.
-El mundo yace en su maldad.
+El mundo yace en su maldad,
 Mas ando yo en su luz.
 
 {comment: 3}
-Andando en la luz de Dios,
+Andando en la luz de Dios
 Encuentro plena paz;
-Voy adelante sin temor
+Voy adelante sin temor,
 Dejando el mundo atrás.
 
 {comment: 4}
-Veréle pronto tal cual es:
-Raudal de pura liz;
-y eternamente gozaré
+Veréle pronto tal cual es,
+Raudal de pura luz;
+Y eternamente gozaré
 A causa de su cruz.

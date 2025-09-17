@@ -1,24 +1,24 @@
 {title: SALVADOR A TI ACUDO}
 
 {comment: 1}
-Salvador a Ti acudo,
+Salvador, a Ti acudo,
 Príncipe de amor,
 Sólo en Ti hay paz y vida
 Para el pecador.
 
 {comment: CORO}
-Cristo, Cristo, tierno Salvador
-Oye mi humilde ruego
-Sálvame, Señor
+Cristo, Cristo, tierno Salvador,
+Oye mi humilde ruego,
+Sálvame, Señor.
 
 {comment: 2}
 Salvación y paz buscando
-Vengo yo a tu Cruz;
-En tu sangre estoy confiando
+Vengo yo a tu cruz;
+En tu sangre estoy confiando,
 Sálvame, Jesús.
 
 {comment: 3}
 Son tus méritos la fuente
-De mi Salvación;
+De mi salvación;
 En tu sacrificio encuentro
 Gracia y perdón.

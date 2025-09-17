@@ -1,23 +1,23 @@
 {title: MI REDENTOR EL REY DE GLORIA}
 
 {comment: 1}
-Mi Redentor, El Rey de gloria,
-Que vive, yo seguro estoy
+Mi Redentor, el Rey de gloria,
+Que vive, yo seguro estoy,
 Y da coronas de victoria;
 A recibir la mía voy.
 
 {comment: CORO}
 Que permanezca no pidáis
 Entre el bullicio y el vaivén;
-El mundo alegre hoy dejara,
-Aún cuando fuese un bello Edén
+El mundo alegre hoy dejará,
+Aun cuando fuese un bello Edén.
 La cita nada más aguardo,
-Que el Rey me diga: Hijo ven.
+Que el Rey me diga: Hijo, ven.
 
 {comment: 2}
-En mi Señor Jesús confio:
+En mi Señor Jesús confío:
 Su sangre clama a mi favor;
-Es dueño Él de mi alberdrío,
+Es dueño Él de mi albedrío,
 Estar con Él es lo mejor.
 
 {comment: 3}
@@ -28,6 +28,6 @@ Sufriendo todo en mi lugar.
 
 {comment: 4}
 Consuélome en su larga ausencia
-Pensando: Pronto volverá
+Pensando: Pronto volverá.
 Entonces su gloriosa herencia
 A cada fiel Jesús dará.

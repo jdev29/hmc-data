@@ -1,10 +1,10 @@
 {title: TENDRÁS QUE RENACER}
 
 {comment: 1}
-Un hombre llegóse de noche a Jesús
-Buscando el camino de vida y de luz
-Y Cristo le dijo: Si a Dios quieres ver
-Tendrás que renacer:
+Un hombre llegóse de noche a Jesús,
+Buscando el camino de vida y de luz,
+Y Cristo le dijo: “Si a Dios quieres ver,
+Tendrás que renacer.”
 
 {comment: CORO}
 //Tendrás que renacer//
@@ -14,19 +14,17 @@ Tendrás que renacer.
 {comment: 2}
 Y tú, si al cielo quisieras entrar,
 Y con los salvados allí descansar,
-Si quieres la vida eternal obtener
+Si quieres la vida eternal obtener,
 Tendrás que renacer.
 
 {comment: 3}
 Amigo, no debes jamás desechar
-Palabras que Cristo dignóse hablar
-Si tu alma no quieres llegar a perder
+Palabras que Cristo dignóse a hablar;
+Si tu alma no quieres llegar a perder,
 Tendrás que renacer.
 
 {comment: 4}
-Algunos han ido con Cristo a morar
+Algunos han ido con Cristo a morar,
 A quienes querrás en el cielo encontrar,
 Pues esta proclama hoy debes creer:
 Tendrás que renacer.
-
-
