@@ -3,7 +3,7 @@
 
 {comment: 1}
 Los niños son de Cristo, Él es su Salvador
-Son joyas muy preciosas, comprólas con su amor.
+Son joyas muy preciosas, cómprolas con su amor.
 
 {comment: Coro}
 Joyas, joyas, joyas, joyas del Salvador
@@ -15,7 +15,7 @@ Luz refulgente esparcen, en horas de aflicción.
 
 {comment: 3}
 Los niños son estrellas de grata claridad,
-Quiere Jesús que anuncien, al mundo su verdd.
+Quiere Jesús que anuncien, al mundo su verdad.
 
 {comment: 4}
 Los niños son de Cristo, por ellos Él vendrá

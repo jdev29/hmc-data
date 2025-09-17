@@ -2,7 +2,7 @@
 {musical_metadata: Bb}
 
 {comment: 1}
-Aunque soy pequñuelo,
+Aunque soy pequeñuelo,
 Me mira el Santo Dios,
 Él oye desde el cielo
 Mi humilde y tierna voz.

@@ -3,7 +3,7 @@
 
 {comment: 1}
 Venid, pastorcillos, venid a adorar
-Al Rey de los cielos que nace en Judá.
+Al Rey de los cielos que nace en Judá;
 Sin ricas ofrendas podemos llegar,
 Que el niño prefiere la fe y la bondad.
 
@@ -15,6 +15,6 @@ Quien quiso a los astros su gloria prestar.
 
 {comment: 3}
 Hermoso lucero le vino a anunciar,
-y magos de Oriente buscándole van:
-Delante se postran del Rey de Judá,
-De incieso, ori y mirra tributo le dan.
+y magos de Oriente buscándole van;
+Delante se postran del Rey de Judá;
+De incieso, oro y mirra, tributo le dan.
