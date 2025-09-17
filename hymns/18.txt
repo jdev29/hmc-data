@@ -1,15 +1,15 @@
 {title: GOZO HAY EN CIELO}
 
 {comment: 1}
-Gozo hay en el cielo, por la salvación
-De un desdichado pecador,
+Gozo hay en el cielo por la salvación
+De un desdichado pecador;
 Alegría en la celestial mansión,
 Himnos de triunfo y amor.
 
 {comment: CORO}
-¡Gloria ángeles, cantad a Dios,
-¡Gloria! a Jesús, alzad la voz;
-Redentor de toda la humanidad;
+¡Gloria, ángeles, cantad a Dios!
+¡Gloria! A Jesús, alzad la voz;
+Redentor de toda la humanidad,
 A Jesús con júbilo cantad.
 
 {comment: 2}
@@ -19,7 +19,7 @@ Salvación alcanza en el Redentor,
 Vida por la sangre de Jesús.
 
 {comment: 3}
-Gozo hay en el cielo; todos a Jesús,
-Hoy tributan gloria y loor
-al Cordero manso, que murió en la cruz,
-por salvar al pobre pecador.
+Gozo hay en el cielo; todos a Jesús
+Hoy tributan gloria y loor,
+Al Cordero manso, que murió en la cruz
+Por salvar al pobre pecador.

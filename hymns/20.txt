@@ -1,11 +1,10 @@
 {title: QUE HAGA EN TI SU VOLUNTAD}
 
 {comment: 1}
-¿Viviás por Cristo, siempre fiel a Él serás?
+¿Vivirás por Cristo, siempre fiel a Él serás?
 ¿En la vía de paz, con Cristo andarás?
-¿De la cruz al pie tus cuitas todas dajarás?
+¿De la cruz al pie tus cuitas todas dejarás?
 Que haga en ti su voluntad.
-
 
 {comment: CORO}
 Su gran poder tu vida cambiará;
@@ -13,18 +12,14 @@ Su paz perfecta tu alma llenará;
 Su sangre carmesí te limpiará;
 Que haga en ti su santa voluntad.
 
-
 {comment: 2}
 ¿Quieres ir en pos de Cristo y llevar la cruz?
-¿Quires conocer la paz que da Jesús?
+¿Quieres conocer la paz que da Jesús?
 ¿Quieres que te guíe con la verdadera luz?
 Que haga en ti su voluntad.
-
 
 {comment: 3}
 ¿Quieres en el cielo tus amigos encontrar?
 Debes preparar tu vida sin tardar.
 ¿Quieres a Él sólo hoy tu vida consagrar?
 Que haga en ti su voluntad.
-
-

@@ -1,29 +1,25 @@
 {title: ROCA ETERNA}
 
 {comment: 1}
-Roca Eterna, acudo a Ti
-Fuiste herida, Tú por mí;
-Agua y sangre cual raudal,
-Doble cura de mi mal
-Sea ofrenda eficaz;
-Santa y pura mi alma haz.
-
+Roca Eterna, acudo a Ti,
+fuiste herida Tú por mí;
+agua y sangre, cual raudal,
+doble cura de mi mal,
+sea ofrenda eficaz;
+santa y pura mi alma haz.
 
 {comment: 2}
-Ni trabajos, ni llorar,
-Pueden paz al alma dar,
-Sólo puedes Tú salvar
-y mis culpas expurgar;
-No soy digno, oh, Jesús,
-Mas, me aferro a tu cruz.
-
+Ni trabajos ni llorar
+pueden paz al alma dar;
+sólo puedes Tú salvar
+y mis culpas expurgar.
+No soy digno, oh Jesús,
+mas me aferro a Tu cruz.
 
 {comment: 3}
 En la vida tan fugaz,
-En la muerte tan tenaz
-Cuando suba a tu mansión,
-Y te vea, oh Rey de Sión,
+en la muerte tan tenaz,
+cuando suba a Tu mansión
+y te vea, oh Rey de Sión,
 Roca abierta para mí,
-Yo me esconderé en Ti.
-
-
+yo me esconderé en Ti.

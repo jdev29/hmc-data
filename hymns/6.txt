@@ -2,31 +2,31 @@
 {musical_metadata: Bb}
 
 {comment: 1}
-Oh, proclamad con alegría;
+Oh, proclamad con alegría:
 Jesús viene en gloria.
 De noche o bien en pleno día
-Del cielo el Rey descenderá.
+del cielo el Rey descenderá.
 
 {comment: CORO}
 Oh, anuncia la historia:
-El Salvador en plena gloria,
-En triunfo y victoria,
-Al mundo pronto volverá.
+el Salvador en plena gloria,
+en triunfo y victoria,
+al mundo pronto volverá.
 
 {comment: 2}
-Velad y orad con esperanza,
+Velad y orad con esperanza:
 Jesús viene en gloria.
-Señor tu pueblo no descansa,
-Velando en fe te aguardará.
+Señor, tu pueblo no descansa;
+velando en fe te aguardará.
 
 {comment: 3}
-Mirad que fiel a su promesa;
+Mirad que fiel a Su promesa:
 Jesús viene en gloria.
-Que no te coja de sorpresa
-Pues de repente volverá.
+Que no te coja de sorpresa,
+pues de repente volverá.
 
 {comment: 4}
-Oh, dad al Rey la bienvenida
+Oh, dad al Rey la bienvenida:
 Jesús viene en gloria.
 Quien tenga lámpara encendida,
-A regias bodas entrará.
+a regias bodas entrará.
